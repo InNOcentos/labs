@@ -1,5 +1,5 @@
 //import { measurePerformance } from '../utils.mjs';
-const { measurePerformance } = require('../utils.js');
+const { measurePerformance } = require('./utils.js');
 
 function merge(left, right) {
   let result = [];
@@ -33,6 +33,7 @@ function mergeSort(array) {
 process.on('message', (msg) => {
   const { arr } = msg;
   const duration = measurePerformance(mergeSort.bind(null, arr));
+
   process.send({
     memUsage: process.memoryUsage().heapUsed,
     duration,

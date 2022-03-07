@@ -1,6 +1,6 @@
 import { shakeSort } from './shakeSort.mjs';
 import { promises as fs } from 'fs';
-import { measurePerformance, getRandNum } from '../utils.mjs';
+import { measurePerformance, getRandNum } from './utils.mjs';
 import os from 'os';
 
 const options = {

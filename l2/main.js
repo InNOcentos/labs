@@ -1,6 +1,6 @@
 const fs = require('fs').promises;
 const os = require('os');
-const { getRandNum } = require('../utils');
+const { getRandNum } = require('./utils');
 const childProcess = require('child_process');
 
 const options = {
@@ -26,7 +26,8 @@ class Main {
           child.send({ arr });
           child.on('message', (msg) => {
             const { memUsage, duration } = msg;
-            result.push(duration, 'memUsage: ' + memUsage);
+            //result.push(duration, 'memUsage: ' + memUsage);
+            result.push(duration);
             total += duration;
             resolve();
           });
