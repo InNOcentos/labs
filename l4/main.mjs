@@ -8,7 +8,7 @@ class Runner {
   }
 
   run() {
-    for (let i = 0; i < 10; i++) {
+    for (let i = 0; i < 1; i++) {
       const generator = new GraphGenerator(
         {
           ...this.options,
@@ -21,6 +21,14 @@ class Runner {
       );
 
       const graph = generator.generateGraph();
+      console.log("=== Матрица смежности ===");
+      console.table(graph.adjacencyMatrix);
+      console.log("=== Матрица инциндентности ===");
+      console.table(graph.incidenceMatrix);
+      console.log("=== Список смежности ===");
+      /*       console.log(graph.adjacentList); */
+      console.log("=== Дуги ===");
+      /*       console.log(graph.edges); */
 
       graph.commitResult(measurePerformance(graph.dfs.bind(graph)), "dfs");
       graph.commitResult(measurePerformance(graph.bfs.bind(graph)), "bfs");
@@ -29,13 +37,13 @@ class Runner {
 }
 
 const runner = new Runner({
-  maxEdges: 7500,
-  minEdges: 6000,
-  maxVertexes: 6000,
-  minVertexes: 4000,
-  maxEdgeToVertexCount: 150,
+  maxEdges: 12,
+  minEdges: 12,
+  maxVertexes: 7,
+  minVertexes: 7,
+  maxEdgeToVertexCount: 2,
   isDirected: false,
-  maxInOutVertEdges: 150,
+  maxInOutVertEdges: 2,
 });
 
 runner.run();
