@@ -8,18 +8,28 @@ class Runner {
   }
 
   run() {
-    for (let i = 0; i < this.options.length; i++) {
+    const results = {};
+    for (let i = 0; i < 4; i++) {
+      const data = [];
       const generator = new GraphGenerator(this.options[i], new Graph());
 
       const graph = generator.generateGraph();
-      console.log("=== Матрица смежности ===");
-      console.log(graph.adjacentList);
+      console.table(graph.adjacencyMatrix);
+      /*console.log("=== Матрица смежности ===");
+      console.log(graph.adjacencyMatrix);
+      console.table(graph.adjacencyMatrix);
+      console.log(graph.adjacentList); */
 
-      graph.commitResult(
-        measurePerformance(graph.dijkstra.bind(graph)),
-        "dijkstra"
-      );
+      for (let i = 0; i < 5; i++) {
+        data.push({
+          [`dijkstra_${i + 1}`]: measurePerformance(graph.dijkstra.bind(graph)),
+        });
+      }
+
+      results[this.options[i].vertexesCount] = data;
     }
+
+    Graph.commitResult(results);
   }
 }
 

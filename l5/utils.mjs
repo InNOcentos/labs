@@ -4,8 +4,11 @@ export function rndFromInterval(min, max) {
 
 export function measurePerformance(fn) {
   performance.mark("start");
-  fn();
+  const result = fn();
   performance.mark("end");
   performance.measure("diff", "start", "end");
-  return performance.getEntriesByName("diff").pop().duration;
+  return {
+    result,
+    time: performance.getEntriesByName("diff").pop().duration,
+  };
 }

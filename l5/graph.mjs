@@ -51,7 +51,7 @@ export class Graph {
           return e.vertex2 === vertex;
         });
 
-        return destVert?.length || "";
+        return destVert?.length || null;
       });
 
       matrix.push([vert, ...lengths]);
@@ -60,75 +60,95 @@ export class Graph {
     return matrix;
   }
 
-  shortestDistanceNode = (distances, visited) => {
-    // create a default value for shortest
-    var shortest = null;
+  findNearestVertex(distances, visited) {
+    let minDistance = Infinity;
+    let nearestVertex = null;
 
-    // for each node in the distances object
-    for (var node of distances.keys()) {
-      // if no node has been assigned to shortest yet
-      // or if the current node's distance is smaller than the current shortest
-      var currentIsShortest =
-        shortest == null || distances.get(node) < distances.get(shortest);
-
-      // and if the current node is in the unvisited set
-      if (currentIsShortest && visited[node] != true) {
-        //visited[node] == false
-        // update shortest to be the current node
-        shortest = node;
+    Object.keys(distances).forEach((vertex) => {
+      if (!visited[vertex] && distances[vertex] < minDistance) {
+        minDistance = distances[vertex];
+        nearestVertex = vertex;
       }
-    }
-    return shortest;
-  };
+    });
 
-  dijkstra(startNode = 1) {
-    var distances = new Map();
-
-    var parents = new Map();
-
-    for (var child of this.adjacentList.get(startNode).keys()) {
-      distances.set(child, child);
-      //console.log(child)
-      //console.log(child)
-      parents.set(child, startNode);
-    }
-
-    // collect visited nodes
-    var visited = {};
-    visited[startNode] = true;
-
-    // find the nearest node
-    var node = this.shortestDistanceNode(distances, visited);
-    while (node) {
-      // find its distance from the start node & its child nodes
-      var distance = distances.get(node);
-      var children = this.adjacentList.get(node);
-      // for each of those child nodes:
-      for (var child of children.entries()) {
-        // save the distance from the start node to the child node
-        var newdistance = distance + child[1];
-        // if there's no recorded distance from the start node to the child node in the distances object
-        // or if the recorded distance is shorter than the previously stored distance from the start node to the child node
-        if (!distances.get(child[0]) || distances.get(child[0]) > newdistance) {
-          // save the distance to the object
-          distances.set(child[0], newdistance);
-          // record the path
-          parents.set(child[0], node);
-        }
-      }
-
-      // move the current node to the visited set
-      visited[node] = true;
-      // move to the nearest neighbor node
-      node = this.shortestDistanceNode(distances, visited);
-    }
-    return distances;
+    return nearestVertex;
   }
 
-  commitResult(value, method) {
-    fs.appendFileSync(
-      "result.txt",
-      `${this.adjacentList.size}: ${method}  ${value}` + "\n"
-    );
+  dijkstra(startVertex = 1) {
+    let edgesLengths = this.adjacencyMatrix.slice(1);
+    let objGraph = {};
+
+    [...this.adjacentList.keys()]
+      .sort((a, b) => a - b)
+      .forEach((e, i, arr) => {
+        const values = edgesLengths[i].slice(1);
+        objGraph[e] = arr.reduce((acc, v, ix) => {
+          if (values[ix]) {
+            return {
+              ...acc,
+              [v]: values[ix] ? Number(values[ix]) : values[ix],
+            };
+          }
+
+          return acc;
+        }, {});
+      });
+
+    let visited = {};
+    let distances = {}; // кратчайшие пути из стартовой вершины
+    let previous = {}; // предыдущие вершины
+
+    let vertices = Object.keys(objGraph); // список вершин графа
+
+    // по умолчанию все расстояния неизвестны (бесконечны)
+    vertices.forEach((vertex) => {
+      distances[vertex] = Infinity;
+      previous[vertex] = null;
+    });
+
+    // расстояние до стартовой вершины равно 0
+    distances[startVertex] = 0;
+
+    function handleVertex(vertex) {
+      // расстояние до вершины
+      let activeVertexDistance = distances[vertex];
+
+      // смежные вершины (с расстоянием до них)
+      let neighbours = objGraph[activeVertex];
+
+      // для всех смежных вершин пересчитать расстояния
+      Object.keys(neighbours).forEach((neighbourVertex) => {
+        // известное на данный момент расстояние
+        let currentNeighbourDistance = distances[neighbourVertex];
+        // вычисленное расстояние
+        let newNeighbourDistance =
+          activeVertexDistance + neighbours[neighbourVertex];
+
+        if (newNeighbourDistance < currentNeighbourDistance) {
+          distances[neighbourVertex] = newNeighbourDistance;
+          previous[neighbourVertex] = vertex;
+        }
+      });
+
+      // пометить вершину как посещенную
+      visited[vertex] = 1;
+    }
+
+    // ищем самую близкую вершину из необработанных
+    let activeVertex = this.findNearestVertex(distances, visited);
+
+    // продолжаем цикл, пока остаются необработанные вершины
+    while (activeVertex) {
+      handleVertex(activeVertex);
+      activeVertex = this.findNearestVertex(distances, visited);
+    }
+
+    console.log({ distances, previous });
+    return { distances, previous };
+  }
+
+  static commitResult(results) {
+    console.log(results);
+    fs.appendFileSync("result.json", JSON.stringify(results));
   }
 }
