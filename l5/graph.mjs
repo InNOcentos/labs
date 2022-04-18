@@ -143,12 +143,10 @@ export class Graph {
       activeVertex = this.findNearestVertex(distances, visited);
     }
 
-    console.log({ distances, previous });
     return { distances, previous };
   }
 
   static commitResult(results) {
-    console.log(results);
     fs.appendFileSync("result.json", JSON.stringify(results));
   }
 }

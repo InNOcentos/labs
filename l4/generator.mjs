@@ -17,8 +17,11 @@ export class GraphGenerator {
       isDirected,
     } = this.options;
 
-    let vertexesCount = rndFromInterval(minVertexes, maxVertexes); // 10
-    let edgesCountToAdd = rndFromInterval(minEdges, maxEdges); // 10
+    // количество вершин
+    let vertexesCount = rndFromInterval(minVertexes, maxVertexes);
+    // количество ребер
+    let edgesCountToAdd = rndFromInterval(minEdges, maxEdges);
+    // количество выходящих и входящх ребере к вершине
     this.graph.maxInOutVertEdges = maxInOutVertEdges;
 
     for (let i = 1; i <= vertexesCount; i++) {
@@ -27,15 +30,19 @@ export class GraphGenerator {
         continue;
       }
 
-      let toVertexesCount = rndFromInterval(1, maxEdgeToVertexCount); // 2
+      // сколько ребер будет у вершины
+      let toVertexesCount = rndFromInterval(1, maxEdgeToVertexCount); //2
 
       const vertexesToSkip = [i];
 
       for (let j = 0; j < toVertexesCount; j++) {
+        if (!edgesCountToAdd) return;
         let destVertex = rndFromInterval(1, vertexesCount);
+        // проверяем что наша вершина новая
         while (vertexesToSkip.includes(destVertex)) {
           destVertex = rndFromInterval(1, vertexesCount);
         }
+        // создание дуги
         this.graph.addEdge(i, destVertex, isDirected);
         edgesCountToAdd--;
         vertexesToSkip.push(destVertex);

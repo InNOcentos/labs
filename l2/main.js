@@ -26,8 +26,7 @@ class Main {
           child.send({ arr });
           child.on('message', (msg) => {
             const { memUsage, duration } = msg;
-            //result.push(duration, 'memUsage: ' + memUsage);
-            result.push(duration);
+            result.push(duration, 'memUsage: ' + memUsage);
             total += duration;
             resolve();
           });

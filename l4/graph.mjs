@@ -1,10 +1,10 @@
 import fs from "fs";
 
 export class Graph {
-  vertices = new Set();
-  adjacentList = new Map();
-  edges = [];
-  maxInOutVertEdges = 2;
+  vertices = new Set(); // вершины
+  adjacentList = new Map(); // список смежности
+  edges = []; // дуги
+  maxInOutVertEdges = 2; // макс вход и исход дуг из вершины
 
   get vertices() {
     return Array.from(this.vertices);
@@ -19,32 +19,39 @@ export class Graph {
 
     return list;
   }
+
   addVertex(vertex = null) {
     if (!this.vertices.has(vertex) && vertex) {
       this.vertices.add(vertex);
       this.adjacentList.set(vertex, new Set());
     }
   }
+  // добавление дуги
   addEdge(vertex1 = null, vertex2 = null, directed = true) {
-    if (vertex1 && vertex2 && vertex1 != vertex2) {
-      this.addVertex(vertex1);
-      this.addVertex(vertex2);
-      const vertex1Connections = this.adjacentList.get(vertex1);
-      const vertex2Connections = this.adjacentList.get(vertex2);
-      if (
-        vertex1Connections.size >= this.maxInOutVertEdges ||
-        vertex2Connections.size >= this.maxInOutVertEdges
-      ) {
-        return;
-      }
-      this.edges.push([vertex1, vertex2]);
-      vertex1Connections.add(vertex2);
-      if (!directed) {
-        vertex2Connections.add(vertex1);
-      }
+    if (!vertex1 || !vertex2 || vertex1 == vertex2) return;
+
+    // добавляем вершины
+    this.addVertex(vertex1);
+    this.addVertex(vertex2);
+    const vertex1Connections = this.adjacentList.get(vertex1);
+    const vertex2Connections = this.adjacentList.get(vertex2);
+    if (
+      vertex1Connections.size >= this.maxInOutVertEdges ||
+      vertex2Connections.size >= this.maxInOutVertEdges
+    ) {
+      return;
+    }
+
+    this.edges.push([vertex1, vertex2]);
+    // добавляем вторую
+    vertex1Connections.add(vertex2);
+    // если граф не направленный - добавляем для второй вершины
+    if (!directed) {
+      vertex2Connections.add(vertex1);
     }
   }
 
+  // матрица смежности, приводим к нормальному виду
   get adjacencyMatrix() {
     const vertexes = Array.from(this.adjacentList.keys()).sort((a, b) => a - b);
     let matrix = [["*", ...vertexes]];
@@ -61,6 +68,7 @@ export class Graph {
     return matrix;
   }
 
+  //матрца инцидентности
   get incidenceMatrix() {
     const vertexes = Array.from(this.adjacentList.keys()).sort((a, b) => a - b);
     let matrix = [["*", ...this.edges.map((e, i) => `edge_${i + 1}`)]];
@@ -76,50 +84,44 @@ export class Graph {
     return matrix;
   }
 
-  dfs(node = 1) {
-    const stack = [];
-    stack.push(node);
-    let visited = {};
+  dfs(start = 1) {
+    const result = [];
+    const stack = [start];
+    const visited = {};
+    visited[start] = true;
+    let currentVertex;
 
     while (stack.length) {
-      node = stack.pop();
-
-      if (!visited[node]) {
-        visited[node] = true;
-
-        for (
-          let j = 0;
-          j < Array.from(this.adjacentList.get(node)).length;
-          j++
-        ) {
-          if (this.adjacentList.get(node)[j] === 1) {
-            stack.push(j);
-          }
+      currentVertex = stack.pop();
+      result.push(currentVertex);
+      Array.from(this.adjacentList.get(currentVertex)).forEach((neighbor) => {
+        if (!visited[neighbor]) {
+          visited[neighbor] = true;
+          stack.push(neighbor);
         }
-      }
+      });
     }
+    return result;
   }
 
-  bfs(node = 1) {
-    const queue = [];
-
-    let visited = {};
-
-    visited[node] = true;
-    queue.push(node);
+  bfs(start = 1) {
+    const queue = [start];
+    const result = [];
+    const visited = {};
+    visited[start] = true;
+    let currentVertex;
 
     while (queue.length) {
-      let currNode = queue.shift();
-
-      /*       console.log(`visiting ${currNode}`); */
-      const destVerts = this.adjacentList.get(currNode);
-      for (let j = 0; j < Array.from(destVerts).length; j++) {
-        if (destVerts[j] === 1 && visited[j] === false) {
-          visited[j] = true;
-          queue.push(j);
+      currentVertex = queue.shift();
+      result.push(currentVertex);
+      Array.from(this.adjacentList.get(currentVertex)).forEach((neighbor) => {
+        if (!visited[neighbor]) {
+          visited[neighbor] = true;
+          queue.push(neighbor);
         }
-      }
+      });
     }
+    return result;
   }
 
   commitResult(value, method) {

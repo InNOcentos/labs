@@ -9,16 +9,16 @@ class Runner {
 
   run() {
     const results = {};
-    for (let i = 0; i < 4; i++) {
+    for (let i = 0; i < 1; i++) {
       const data = [];
       const generator = new GraphGenerator(this.options[i], new Graph());
 
       const graph = generator.generateGraph();
+      console.log("=== Матрица смежности ===");
       console.table(graph.adjacencyMatrix);
-      /*console.log("=== Матрица смежности ===");
-      console.log(graph.adjacencyMatrix);
-      console.table(graph.adjacencyMatrix);
-      console.log(graph.adjacentList); */
+
+      console.log("=== Список смежности ===");
+      console.log(graph.adjacentList);
 
       for (let i = 0; i < 5; i++) {
         data.push({
