@@ -1,0 +1,1616 @@
+TOTAL ELEMENTS: 
+2048
+AVL insertion time: series 1, i: 0, time: 7.390874996781349}
+BST insertion time: series 1, i: 0, time: 1.5536670088768005}
+AVL insertion time: series 1, i: 1, time: 5.644915997982025}
+BST insertion time: series 1, i: 1, time: 1.606541007757187}
+AVL insertion time: series 1, i: 2, time: 1.3095830082893372}
+BST insertion time: series 1, i: 2, time: 0.26612499356269836}
+AVL insertion time: series 1, i: 3, time: 3.824874997138977}
+BST insertion time: series 1, i: 3, time: 0.24404199421405792}
+AVL insertion time: series 1, i: 4, time: 0.8324169963598251}
+BST insertion time: series 1, i: 4, time: 0.16995899379253387}
+AVL insertion time: series 1, i: 5, time: 0.5530000030994415}
+BST insertion time: series 1, i: 5, time: 0.17329099774360657}
+AVL insertion time: series 1, i: 6, time: 0.5836660116910934}
+BST insertion time: series 1, i: 6, time: 0.25175000727176666}
+AVL insertion time: series 1, i: 7, time: 1.8505409955978394}
+BST insertion time: series 1, i: 7, time: 0.24424999952316284}
+AVL insertion time: series 1, i: 8, time: 1.133332997560501}
+BST insertion time: series 1, i: 8, time: 0.2543340027332306}
+AVL insertion time: series 1, i: 9, time: 0.9439579993486404}
+BST insertion time: series 1, i: 9, time: 0.24124999344348907}
+AVL insertion time: series 1, i: 10, time: 0.5385839939117432}
+BST insertion time: series 1, i: 10, time: 4.201749995350838}
+AVL insertion time: series 1, i: 11, time: 0.5340410023927689}
+BST insertion time: series 1, i: 11, time: 4.594083994626999}
+AVL insertion time: series 1, i: 12, time: 0.5585840046405792}
+BST insertion time: series 1, i: 12, time: 4.220207989215851}
+AVL insertion time: series 1, i: 13, time: 0.5621670037508011}
+BST insertion time: series 1, i: 13, time: 4.226374998688698}
+AVL insertion time: series 1, i: 14, time: 0.5620419979095459}
+BST insertion time: series 1, i: 14, time: 4.22562500834465}
+AVL insertion time: series 1, i: 15, time: 0.9354580044746399}
+BST insertion time: series 1, i: 15, time: 4.196000009775162}
+AVL insertion time: series 1, i: 16, time: 0.5320410132408142}
+BST insertion time: series 1, i: 16, time: 4.20116600394249}
+AVL insertion time: series 1, i: 17, time: 0.5607080012559891}
+BST insertion time: series 1, i: 17, time: 4.2189169973134995}
+AVL insertion time: series 1, i: 18, time: 1.2190000116825104}
+BST insertion time: series 1, i: 18, time: 4.638125002384186}
+AVL insertion time: series 1, i: 19, time: 0.49820899963378906}
+BST insertion time: series 1, i: 19, time: 4.679625004529953}
+AVL search total time: series 1, i: 0, time: 0.7699169963598251}
+AVL search avg time: series 1, i: 0, time: 0.0007699169963598251}
+BST search total time: series 1, i: 0, time: 1.0225840061903}
+BST search avg time: series 1, i: 0, time: 0.0010225840061903}
+AVL search total time: series 1, i: 1, time: 0.5301660001277924}
+AVL search avg time: series 1, i: 1, time: 0.0005301660001277924}
+BST search total time: series 1, i: 1, time: 0.4665839970111847}
+BST search avg time: series 1, i: 1, time: 0.00046658399701118467}
+AVL search total time: series 1, i: 2, time: 0.3153750002384186}
+AVL search avg time: series 1, i: 2, time: 0.00031537500023841856}
+BST search total time: series 1, i: 2, time: 0.2167920023202896}
+BST search avg time: series 1, i: 2, time: 0.00021679200232028962}
+AVL search total time: series 1, i: 3, time: 0.7437920123338699}
+AVL search avg time: series 1, i: 3, time: 0.0007437920123338699}
+BST search total time: series 1, i: 3, time: 0.1802080124616623}
+BST search avg time: series 1, i: 3, time: 0.0001802080124616623}
+AVL search total time: series 1, i: 4, time: 0.15837499499320984}
+AVL search avg time: series 1, i: 4, time: 0.00015837499499320984}
+BST search total time: series 1, i: 4, time: 0.11816701292991638}
+BST search avg time: series 1, i: 4, time: 0.00011816701292991638}
+AVL search total time: series 1, i: 5, time: 0.1530420035123825}
+AVL search avg time: series 1, i: 5, time: 0.0001530420035123825}
+BST search total time: series 1, i: 5, time: 0.11762499809265137}
+BST search avg time: series 1, i: 5, time: 0.00011762499809265137}
+AVL search total time: series 1, i: 6, time: 0.16041700541973114}
+AVL search avg time: series 1, i: 6, time: 0.00016041700541973114}
+BST search total time: series 1, i: 6, time: 0.21733398735523224}
+BST search avg time: series 1, i: 6, time: 0.00021733398735523224}
+AVL search total time: series 1, i: 7, time: 0.2278750091791153}
+AVL search avg time: series 1, i: 7, time: 0.0002278750091791153}
+BST search total time: series 1, i: 7, time: 0.17649999260902405}
+BST search avg time: series 1, i: 7, time: 0.00017649999260902405}
+AVL search total time: series 1, i: 8, time: 0.22574999928474426}
+AVL search avg time: series 1, i: 8, time: 0.00022574999928474425}
+BST search total time: series 1, i: 8, time: 0.18233299255371094}
+BST search avg time: series 1, i: 8, time: 0.00018233299255371094}
+AVL search total time: series 1, i: 9, time: 0.22075000405311584}
+AVL search avg time: series 1, i: 9, time: 0.00022075000405311583}
+BST search total time: series 1, i: 9, time: 0.17912499606609344}
+BST search avg time: series 1, i: 9, time: 0.00017912499606609344}
+AVL search total time: series 1, i: 10, time: 0.15524999797344208}
+AVL search avg time: series 1, i: 10, time: 0.00015524999797344208}
+BST search total time: series 1, i: 10, time: 2.6728329956531525}
+BST search avg time: series 1, i: 10, time: 0.0026728329956531524}
+AVL search total time: series 1, i: 11, time: 0.1540839970111847}
+AVL search avg time: series 1, i: 11, time: 0.0001540839970111847}
+BST search total time: series 1, i: 11, time: 2.735041007399559}
+BST search avg time: series 1, i: 11, time: 0.002735041007399559}
+AVL search total time: series 1, i: 12, time: 0.16045799851417542}
+AVL search avg time: series 1, i: 12, time: 0.00016045799851417542}
+BST search total time: series 1, i: 12, time: 2.6983750015497208}
+BST search avg time: series 1, i: 12, time: 0.0026983750015497207}
+AVL search total time: series 1, i: 13, time: 0.15912500023841858}
+AVL search avg time: series 1, i: 13, time: 0.00015912500023841858}
+BST search total time: series 1, i: 13, time: 2.6307079941034317}
+BST search avg time: series 1, i: 13, time: 0.002630707994103432}
+AVL search total time: series 1, i: 14, time: 0.16087499260902405}
+AVL search avg time: series 1, i: 14, time: 0.00016087499260902406}
+BST search total time: series 1, i: 14, time: 2.6264169961214066}
+BST search avg time: series 1, i: 14, time: 0.0026264169961214066}
+AVL search total time: series 1, i: 15, time: 0.15904100239276886}
+AVL search avg time: series 1, i: 15, time: 0.00015904100239276886}
+BST search total time: series 1, i: 15, time: 2.6439159959554672}
+BST search avg time: series 1, i: 15, time: 0.002643915995955467}
+AVL search total time: series 1, i: 16, time: 0.15545900166034698}
+AVL search avg time: series 1, i: 16, time: 0.00015545900166034698}
+BST search total time: series 1, i: 16, time: 2.69200000166893}
+BST search avg time: series 1, i: 16, time: 0.00269200000166893}
+AVL search total time: series 1, i: 17, time: 0.15766699612140656}
+AVL search avg time: series 1, i: 17, time: 0.00015766699612140654}
+BST search total time: series 1, i: 17, time: 2.631292000412941}
+BST search avg time: series 1, i: 17, time: 0.002631292000412941}
+AVL search total time: series 1, i: 18, time: 0.20954200625419617}
+AVL search avg time: series 1, i: 18, time: 0.00020954200625419617}
+BST search total time: series 1, i: 18, time: 4.048625007271767}
+BST search avg time: series 1, i: 18, time: 0.004048625007271767}
+AVL search total time: series 1, i: 19, time: 0.13212499022483826}
+AVL search avg time: series 1, i: 19, time: 0.00013212499022483825}
+BST search total time: series 1, i: 19, time: 3.87533400952816}
+BST search avg time: series 1, i: 19, time: 0.00387533400952816}
+AVL delete total time: series 1, i: 0, time: 2.981582999229431}
+AVL delete avg time: series 1, i: 0, time: 0.0007699169963598251}
+BST delete total time: series 1, i: 0, time: 1.2462089955806732}
+BST delete avg time: series 1, i: 0, time: 0.0010225840061903}
+AVL delete total time: series 1, i: 1, time: 2.027540996670723}
+AVL delete avg time: series 1, i: 1, time: 0.0005301660001277924}
+BST delete total time: series 1, i: 1, time: 1.2835830003023148}
+BST delete avg time: series 1, i: 1, time: 0.00046658399701118467}
+AVL delete total time: series 1, i: 2, time: 1.662875011563301}
+AVL delete avg time: series 1, i: 2, time: 0.00031537500023841856}
+BST delete total time: series 1, i: 2, time: 0.2241249978542328}
+BST delete avg time: series 1, i: 2, time: 0.00021679200232028962}
+AVL delete total time: series 1, i: 3, time: 0.6979160010814667}
+AVL delete avg time: series 1, i: 3, time: 0.0007437920123338699}
+BST delete total time: series 1, i: 3, time: 0.2237500101327896}
+BST delete avg time: series 1, i: 3, time: 0.0001802080124616623}
+AVL delete total time: series 1, i: 4, time: 0.33595800399780273}
+AVL delete avg time: series 1, i: 4, time: 0.00015837499499320984}
+BST delete total time: series 1, i: 4, time: 0.14470899105072021}
+BST delete avg time: series 1, i: 4, time: 0.00011816701292991638}
+AVL delete total time: series 1, i: 5, time: 0.5552079975605011}
+AVL delete avg time: series 1, i: 5, time: 0.0001530420035123825}
+BST delete total time: series 1, i: 5, time: 0.3989589959383011}
+BST delete avg time: series 1, i: 5, time: 0.00011762499809265137}
+AVL delete total time: series 1, i: 6, time: 2.9952079951763153}
+AVL delete avg time: series 1, i: 6, time: 0.00016041700541973114}
+BST delete total time: series 1, i: 6, time: 0.44383299350738525}
+BST delete avg time: series 1, i: 6, time: 0.00021733398735523224}
+AVL delete total time: series 1, i: 7, time: 0.9925830066204071}
+AVL delete avg time: series 1, i: 7, time: 0.0002278750091791153}
+BST delete total time: series 1, i: 7, time: 0.35920900106430054}
+BST delete avg time: series 1, i: 7, time: 0.00017649999260902405}
+AVL delete total time: series 1, i: 8, time: 0.9843330085277557}
+AVL delete avg time: series 1, i: 8, time: 0.00022574999928474425}
+BST delete total time: series 1, i: 8, time: 1.0738340020179749}
+BST delete avg time: series 1, i: 8, time: 0.00018233299255371094}
+AVL delete total time: series 1, i: 9, time: 0.9776249974966049}
+AVL delete avg time: series 1, i: 9, time: 0.00022075000405311583}
+BST delete total time: series 1, i: 9, time: 0.12312498688697815}
+BST delete avg time: series 1, i: 9, time: 0.00017912499606609344}
+AVL delete total time: series 1, i: 10, time: 0.23649999499320984}
+AVL delete avg time: series 1, i: 10, time: 0.00015524999797344208}
+BST delete total time: series 1, i: 10, time: 0.07574999332427979}
+BST delete avg time: series 1, i: 10, time: 0.0026728329956531524}
+AVL delete total time: series 1, i: 11, time: 0.23541699349880219}
+AVL delete avg time: series 1, i: 11, time: 0.0001540839970111847}
+BST delete total time: series 1, i: 11, time: 0.07883299887180328}
+BST delete avg time: series 1, i: 11, time: 0.002735041007399559}
+AVL delete total time: series 1, i: 12, time: 0.2388329952955246}
+AVL delete avg time: series 1, i: 12, time: 0.00016045799851417542}
+BST delete total time: series 1, i: 12, time: 0.0759579986333847}
+BST delete avg time: series 1, i: 12, time: 0.0026983750015497207}
+AVL delete total time: series 1, i: 13, time: 0.23587501049041748}
+AVL delete avg time: series 1, i: 13, time: 0.00015912500023841858}
+BST delete total time: series 1, i: 13, time: 0.07583300769329071}
+BST delete avg time: series 1, i: 13, time: 0.002630707994103432}
+AVL delete total time: series 1, i: 14, time: 0.2382500022649765}
+AVL delete avg time: series 1, i: 14, time: 0.00016087499260902406}
+BST delete total time: series 1, i: 14, time: 0.07699999213218689}
+BST delete avg time: series 1, i: 14, time: 0.0026264169961214066}
+AVL delete total time: series 1, i: 15, time: 0.23600000143051147}
+AVL delete avg time: series 1, i: 15, time: 0.00015904100239276886}
+BST delete total time: series 1, i: 15, time: 0.07608300447463989}
+BST delete avg time: series 1, i: 15, time: 0.002643915995955467}
+AVL delete total time: series 1, i: 16, time: 0.23512499034404755}
+AVL delete avg time: series 1, i: 16, time: 0.00015545900166034698}
+BST delete total time: series 1, i: 16, time: 0.07733400166034698}
+BST delete avg time: series 1, i: 16, time: 0.00269200000166893}
+AVL delete total time: series 1, i: 17, time: 0.234375}
+AVL delete avg time: series 1, i: 17, time: 0.00015766699612140654}
+BST delete total time: series 1, i: 17, time: 0.08000001311302185}
+BST delete avg time: series 1, i: 17, time: 0.002631292000412941}
+AVL delete total time: series 1, i: 18, time: 0.6170410066843033}
+AVL delete avg time: series 1, i: 18, time: 0.00020954200625419617}
+BST delete total time: series 1, i: 18, time: 0.20229199528694153}
+BST delete avg time: series 1, i: 18, time: 0.004048625007271767}
+AVL delete total time: series 1, i: 19, time: 0.21837499737739563}
+AVL delete avg time: series 1, i: 19, time: 0.00013212499022483825}
+BST delete total time: series 1, i: 19, time: 0.04987499117851257}
+BST delete avg time: series 1, i: 19, time: 0.00387533400952816}
+TOTAL ELEMENTS: 
+4096
+AVL insertion time: series 2, i: 0, time: 1.7499170005321503}
+BST insertion time: series 2, i: 0, time: 0.4480839967727661}
+AVL insertion time: series 2, i: 1, time: 1.1791249960660934}
+BST insertion time: series 2, i: 1, time: 0.36833299696445465}
+AVL insertion time: series 2, i: 2, time: 1.2120829969644547}
+BST insertion time: series 2, i: 2, time: 0.7911249995231628}
+AVL insertion time: series 2, i: 3, time: 1.1889999955892563}
+BST insertion time: series 2, i: 3, time: 0.3600829988718033}
+AVL insertion time: series 2, i: 4, time: 1.1770000010728836}
+BST insertion time: series 2, i: 4, time: 0.36695900559425354}
+AVL insertion time: series 2, i: 5, time: 1.6796249896287918}
+BST insertion time: series 2, i: 5, time: 0.36387498676776886}
+AVL insertion time: series 2, i: 6, time: 1.1832090020179749}
+BST insertion time: series 2, i: 6, time: 0.3614580035209656}
+AVL insertion time: series 2, i: 7, time: 1.1729160100221634}
+BST insertion time: series 2, i: 7, time: 0.3591669946908951}
+AVL insertion time: series 2, i: 8, time: 1.2236669957637787}
+BST insertion time: series 2, i: 8, time: 0.41324999928474426}
+AVL insertion time: series 2, i: 9, time: 1.217749997973442}
+BST insertion time: series 2, i: 9, time: 0.3994999974966049}
+AVL insertion time: series 2, i: 10, time: 1.183666005730629}
+BST insertion time: series 2, i: 10, time: 17.126749992370605}
+AVL insertion time: series 2, i: 11, time: 1.1803330034017563}
+BST insertion time: series 2, i: 11, time: 18.056999996304512}
+AVL insertion time: series 2, i: 12, time: 1.1407089978456497}
+BST insertion time: series 2, i: 12, time: 16.813832998275757}
+AVL insertion time: series 2, i: 13, time: 1.490790992975235}
+BST insertion time: series 2, i: 13, time: 18.812374994158745}
+AVL insertion time: series 2, i: 14, time: 1.0874169915914536}
+BST insertion time: series 2, i: 14, time: 18.650165989995003}
+AVL insertion time: series 2, i: 15, time: 1.08712500333786}
+BST insertion time: series 2, i: 15, time: 18.532250002026558}
+AVL insertion time: series 2, i: 16, time: 1.6595840007066727}
+BST insertion time: series 2, i: 16, time: 20.339957997202873}
+AVL insertion time: series 2, i: 17, time: 1.033833995461464}
+BST insertion time: series 2, i: 17, time: 18.511707991361618}
+AVL insertion time: series 2, i: 18, time: 1.0501670092344284}
+BST insertion time: series 2, i: 18, time: 19.106000006198883}
+AVL insertion time: series 2, i: 19, time: 1.0501659959554672}
+BST insertion time: series 2, i: 19, time: 18.693083003163338}
+AVL search total time: series 2, i: 0, time: 0.20204199850559235}
+AVL search avg time: series 2, i: 0, time: 0.00020204199850559234}
+BST search total time: series 2, i: 0, time: 0.18979200720787048}
+BST search avg time: series 2, i: 0, time: 0.0001897920072078705}
+AVL search total time: series 2, i: 1, time: 0.16520799696445465}
+AVL search avg time: series 2, i: 1, time: 0.00016520799696445465}
+BST search total time: series 2, i: 1, time: 0.126459002494812}
+BST search avg time: series 2, i: 1, time: 0.00012645900249481202}
+AVL search total time: series 2, i: 2, time: 0.1649170070886612}
+AVL search avg time: series 2, i: 2, time: 0.0001649170070886612}
+BST search total time: series 2, i: 2, time: 0.1251250058412552}
+BST search avg time: series 2, i: 2, time: 0.00012512500584125518}
+AVL search total time: series 2, i: 3, time: 0.16724999248981476}
+AVL search avg time: series 2, i: 3, time: 0.00016724999248981476}
+BST search total time: series 2, i: 3, time: 0.12258400022983551}
+BST search avg time: series 2, i: 3, time: 0.0001225840002298355}
+AVL search total time: series 2, i: 4, time: 0.16666699945926666}
+AVL search avg time: series 2, i: 4, time: 0.00016666699945926667}
+BST search total time: series 2, i: 4, time: 0.12270799279212952}
+BST search avg time: series 2, i: 4, time: 0.00012270799279212951}
+AVL search total time: series 2, i: 5, time: 0.16520901024341583}
+AVL search avg time: series 2, i: 5, time: 0.00016520901024341583}
+BST search total time: series 2, i: 5, time: 0.12266600131988525}
+BST search avg time: series 2, i: 5, time: 0.00012266600131988526}
+AVL search total time: series 2, i: 6, time: 0.16508299112319946}
+AVL search avg time: series 2, i: 6, time: 0.00016508299112319945}
+BST search total time: series 2, i: 6, time: 0.12162500619888306}
+BST search avg time: series 2, i: 6, time: 0.00012162500619888306}
+AVL search total time: series 2, i: 7, time: 0.16449999809265137}
+AVL search avg time: series 2, i: 7, time: 0.00016449999809265136}
+BST search total time: series 2, i: 7, time: 0.12354199588298798}
+BST search avg time: series 2, i: 7, time: 0.000123541995882988}
+AVL search total time: series 2, i: 8, time: 0.1694590002298355}
+AVL search avg time: series 2, i: 8, time: 0.0001694590002298355}
+BST search total time: series 2, i: 8, time: 0.12975001335144043}
+BST search avg time: series 2, i: 8, time: 0.00012975001335144043}
+AVL search total time: series 2, i: 9, time: 0.1731249988079071}
+AVL search avg time: series 2, i: 9, time: 0.0001731249988079071}
+BST search total time: series 2, i: 9, time: 0.12608300149440765}
+BST search avg time: series 2, i: 9, time: 0.00012608300149440766}
+AVL search total time: series 2, i: 10, time: 0.17366699874401093}
+AVL search avg time: series 2, i: 10, time: 0.00017366699874401092}
+BST search total time: series 2, i: 10, time: 5.282041996717453}
+BST search avg time: series 2, i: 10, time: 0.005282041996717453}
+AVL search total time: series 2, i: 11, time: 0.17329099774360657}
+AVL search avg time: series 2, i: 11, time: 0.00017329099774360656}
+BST search total time: series 2, i: 11, time: 5.319249987602234}
+BST search avg time: series 2, i: 11, time: 0.005319249987602234}
+AVL search total time: series 2, i: 12, time: 0.17066700756549835}
+AVL search avg time: series 2, i: 12, time: 0.00017066700756549836}
+BST search total time: series 2, i: 12, time: 5.5396250039339066}
+BST search avg time: series 2, i: 12, time: 0.005539625003933906}
+AVL search total time: series 2, i: 13, time: 0.18674999475479126}
+AVL search avg time: series 2, i: 13, time: 0.00018674999475479126}
+BST search total time: series 2, i: 13, time: 5.165207996964455}
+BST search avg time: series 2, i: 13, time: 0.005165207996964454}
+AVL search total time: series 2, i: 14, time: 0.15025000274181366}
+AVL search avg time: series 2, i: 14, time: 0.00015025000274181366}
+BST search total time: series 2, i: 14, time: 5.291459009051323}
+BST search avg time: series 2, i: 14, time: 0.005291459009051323}
+AVL search total time: series 2, i: 15, time: 0.1492910087108612}
+AVL search avg time: series 2, i: 15, time: 0.0001492910087108612}
+BST search total time: series 2, i: 15, time: 5.155790999531746}
+BST search avg time: series 2, i: 15, time: 0.005155790999531746}
+AVL search total time: series 2, i: 16, time: 0.17845799028873444}
+AVL search avg time: series 2, i: 16, time: 0.00017845799028873443}
+BST search total time: series 2, i: 16, time: 5.551957994699478}
+BST search avg time: series 2, i: 16, time: 0.005551957994699478}
+AVL search total time: series 2, i: 17, time: 0.1462080031633377}
+AVL search avg time: series 2, i: 17, time: 0.0001462080031633377}
+BST search total time: series 2, i: 17, time: 5.177166998386383}
+BST search avg time: series 2, i: 17, time: 0.005177166998386383}
+AVL search total time: series 2, i: 18, time: 0.1457499861717224}
+AVL search avg time: series 2, i: 18, time: 0.0001457499861717224}
+BST search total time: series 2, i: 18, time: 5.218042001128197}
+BST search avg time: series 2, i: 18, time: 0.0052180420011281965}
+AVL search total time: series 2, i: 19, time: 0.14658299088478088}
+AVL search avg time: series 2, i: 19, time: 0.00014658299088478088}
+BST search total time: series 2, i: 19, time: 5.396667003631592}
+BST search avg time: series 2, i: 19, time: 0.0053966670036315915}
+AVL delete total time: series 2, i: 0, time: 1.019666999578476}
+AVL delete avg time: series 2, i: 0, time: 0.00020204199850559234}
+BST delete total time: series 2, i: 0, time: 0.3313330113887787}
+BST delete avg time: series 2, i: 0, time: 0.0001897920072078705}
+AVL delete total time: series 2, i: 1, time: 0.3525419980287552}
+AVL delete avg time: series 2, i: 1, time: 0.00016520799696445465}
+BST delete total time: series 2, i: 1, time: 0.12366600334644318}
+BST delete avg time: series 2, i: 1, time: 0.00012645900249481202}
+AVL delete total time: series 2, i: 2, time: 0.3512910008430481}
+AVL delete avg time: series 2, i: 2, time: 0.0001649170070886612}
+BST delete total time: series 2, i: 2, time: 0.12337499856948853}
+BST delete avg time: series 2, i: 2, time: 0.00012512500584125518}
+AVL delete total time: series 2, i: 3, time: 0.3465829938650131}
+AVL delete avg time: series 2, i: 3, time: 0.00016724999248981476}
+BST delete total time: series 2, i: 3, time: 0.1228329986333847}
+BST delete avg time: series 2, i: 3, time: 0.0001225840002298355}
+AVL delete total time: series 2, i: 4, time: 0.35029199719429016}
+AVL delete avg time: series 2, i: 4, time: 0.00016666699945926667}
+BST delete total time: series 2, i: 4, time: 0.12466700375080109}
+BST delete avg time: series 2, i: 4, time: 0.00012270799279212951}
+AVL delete total time: series 2, i: 5, time: 0.3574170023202896}
+AVL delete avg time: series 2, i: 5, time: 0.00016520901024341583}
+BST delete total time: series 2, i: 5, time: 0.1253329962491989}
+BST delete avg time: series 2, i: 5, time: 0.00012266600131988526}
+AVL delete total time: series 2, i: 6, time: 0.35166600346565247}
+AVL delete avg time: series 2, i: 6, time: 0.00016508299112319945}
+BST delete total time: series 2, i: 6, time: 0.12270800769329071}
+BST delete avg time: series 2, i: 6, time: 0.00012162500619888306}
+AVL delete total time: series 2, i: 7, time: 0.3520420044660568}
+AVL delete avg time: series 2, i: 7, time: 0.00016449999809265136}
+BST delete total time: series 2, i: 7, time: 0.12270800769329071}
+BST delete avg time: series 2, i: 7, time: 0.000123541995882988}
+AVL delete total time: series 2, i: 8, time: 0.3540000021457672}
+AVL delete avg time: series 2, i: 8, time: 0.0001694590002298355}
+BST delete total time: series 2, i: 8, time: 0.1237500011920929}
+BST delete avg time: series 2, i: 8, time: 0.00012975001335144043}
+AVL delete total time: series 2, i: 9, time: 0.35225000977516174}
+AVL delete avg time: series 2, i: 9, time: 0.0001731249988079071}
+BST delete total time: series 2, i: 9, time: 0.12550000846385956}
+BST delete avg time: series 2, i: 9, time: 0.00012608300149440766}
+AVL delete total time: series 2, i: 10, time: 0.2492079883813858}
+AVL delete avg time: series 2, i: 10, time: 0.00017366699874401092}
+BST delete total time: series 2, i: 10, time: 0.0762920081615448}
+BST delete avg time: series 2, i: 10, time: 0.005282041996717453}
+AVL delete total time: series 2, i: 11, time: 0.25337499380111694}
+AVL delete avg time: series 2, i: 11, time: 0.00017329099774360656}
+BST delete total time: series 2, i: 11, time: 0.0772089958190918}
+BST delete avg time: series 2, i: 11, time: 0.005319249987602234}
+AVL delete total time: series 2, i: 12, time: 28.01375000178814}
+AVL delete avg time: series 2, i: 12, time: 0.00017066700756549836}
+BST delete total time: series 2, i: 12, time: 0.36658400297164917}
+BST delete avg time: series 2, i: 12, time: 0.005539625003933906}
+AVL delete total time: series 2, i: 13, time: 0.25737500190734863}
+AVL delete avg time: series 2, i: 13, time: 0.00018674999475479126}
+BST delete total time: series 2, i: 13, time: 0.06337499618530273}
+BST delete avg time: series 2, i: 13, time: 0.005165207996964454}
+AVL delete total time: series 2, i: 14, time: 0.23416700959205627}
+AVL delete avg time: series 2, i: 14, time: 0.00015025000274181366}
+BST delete total time: series 2, i: 14, time: 0.049542009830474854}
+BST delete avg time: series 2, i: 14, time: 0.005291459009051323}
+AVL delete total time: series 2, i: 15, time: 0.23354199528694153}
+AVL delete avg time: series 2, i: 15, time: 0.0001492910087108612}
+BST delete total time: series 2, i: 15, time: 0.0493750125169754}
+BST delete avg time: series 2, i: 15, time: 0.005155790999531746}
+AVL delete total time: series 2, i: 16, time: 0.22904199361801147}
+AVL delete avg time: series 2, i: 16, time: 0.00017845799028873443}
+BST delete total time: series 2, i: 16, time: 0.04966700077056885}
+BST delete avg time: series 2, i: 16, time: 0.005551957994699478}
+AVL delete total time: series 2, i: 17, time: 0.2307089865207672}
+AVL delete avg time: series 2, i: 17, time: 0.0001462080031633377}
+BST delete total time: series 2, i: 17, time: 0.0494999885559082}
+BST delete avg time: series 2, i: 17, time: 0.005177166998386383}
+AVL delete total time: series 2, i: 18, time: 0.2284580022096634}
+AVL delete avg time: series 2, i: 18, time: 0.0001457499861717224}
+BST delete total time: series 2, i: 18, time: 0.04941698908805847}
+BST delete avg time: series 2, i: 18, time: 0.0052180420011281965}
+AVL delete total time: series 2, i: 19, time: 0.2307090014219284}
+AVL delete avg time: series 2, i: 19, time: 0.00014658299088478088}
+BST delete total time: series 2, i: 19, time: 0.04945799708366394}
+BST delete avg time: series 2, i: 19, time: 0.0053966670036315915}
+TOTAL ELEMENTS: 
+8192
+AVL insertion time: series 3, i: 0, time: 2.83466699719429}
+BST insertion time: series 3, i: 0, time: 0.688958004117012}
+AVL insertion time: series 3, i: 1, time: 2.1257499903440475}
+BST insertion time: series 3, i: 1, time: 0.6672089993953705}
+AVL insertion time: series 3, i: 2, time: 2.0849170088768005}
+BST insertion time: series 3, i: 2, time: 0.6806249916553497}
+AVL insertion time: series 3, i: 3, time: 2.1511249989271164}
+BST insertion time: series 3, i: 3, time: 0.7332919985055923}
+AVL insertion time: series 3, i: 4, time: 2.1555000096559525}
+BST insertion time: series 3, i: 4, time: 0.7261250019073486}
+AVL insertion time: series 3, i: 5, time: 2.1573339998722076}
+BST insertion time: series 3, i: 5, time: 0.7338339984416962}
+AVL insertion time: series 3, i: 6, time: 2.1750829964876175}
+BST insertion time: series 3, i: 6, time: 0.7002499997615814}
+AVL insertion time: series 3, i: 7, time: 2.138042002916336}
+BST insertion time: series 3, i: 7, time: 0.6742080003023148}
+AVL insertion time: series 3, i: 8, time: 2.114541992545128}
+BST insertion time: series 3, i: 8, time: 0.6821250021457672}
+AVL insertion time: series 3, i: 9, time: 2.188291996717453}
+BST insertion time: series 3, i: 9, time: 0.7360000014305115}
+AVL insertion time: series 3, i: 10, time: 2.0918750017881393}
+BST insertion time: series 3, i: 10, time: 76.48087500035763}
+AVL insertion time: series 3, i: 11, time: 2.130750000476837}
+BST insertion time: series 3, i: 11, time: 75.16741700470448}
+AVL insertion time: series 3, i: 12, time: 2.0945829898118973}
+BST insertion time: series 3, i: 12, time: 105.27058300375938}
+AVL insertion time: series 3, i: 13, time: 2.02470900118351}
+BST insertion time: series 3, i: 13, time: 74.99141600728035}
+AVL insertion time: series 3, i: 14, time: 2.0147919952869415}
+BST insertion time: series 3, i: 14, time: 77.17891700565815}
+AVL insertion time: series 3, i: 15, time: 2.0224169939756393}
+BST insertion time: series 3, i: 15, time: 74.16087499260902}
+AVL insertion time: series 3, i: 16, time: 2.0413329899311066}
+BST insertion time: series 3, i: 16, time: 74.92058299481869}
+AVL insertion time: series 3, i: 17, time: 2.208499997854233}
+BST insertion time: series 3, i: 17, time: 95.83320799469948}
+AVL insertion time: series 3, i: 18, time: 2.01112499833107}
+BST insertion time: series 3, i: 18, time: 75.86570899188519}
+AVL insertion time: series 3, i: 19, time: 2.0412079989910126}
+BST insertion time: series 3, i: 19, time: 74.1412919908762}
+AVL search total time: series 3, i: 0, time: 0.22712500393390656}
+AVL search avg time: series 3, i: 0, time: 0.00022712500393390656}
+BST search total time: series 3, i: 0, time: 0.17441700398921967}
+BST search avg time: series 3, i: 0, time: 0.00017441700398921966}
+AVL search total time: series 3, i: 1, time: 0.15529100596904755}
+AVL search avg time: series 3, i: 1, time: 0.00015529100596904755}
+BST search total time: series 3, i: 1, time: 0.11020900309085846}
+BST search avg time: series 3, i: 1, time: 0.00011020900309085846}
+AVL search total time: series 3, i: 2, time: 0.16033399105072021}
+AVL search avg time: series 3, i: 2, time: 0.00016033399105072022}
+BST search total time: series 3, i: 2, time: 0.1158750057220459}
+BST search avg time: series 3, i: 2, time: 0.0001158750057220459}
+AVL search total time: series 3, i: 3, time: 0.1579580008983612}
+AVL search avg time: series 3, i: 3, time: 0.0001579580008983612}
+BST search total time: series 3, i: 3, time: 0.11029200255870819}
+BST search avg time: series 3, i: 3, time: 0.00011029200255870819}
+AVL search total time: series 3, i: 4, time: 0.15470901131629944}
+AVL search avg time: series 3, i: 4, time: 0.00015470901131629943}
+BST search total time: series 3, i: 4, time: 0.10962499678134918}
+BST search avg time: series 3, i: 4, time: 0.00010962499678134919}
+AVL search total time: series 3, i: 5, time: 0.1612909883260727}
+AVL search avg time: series 3, i: 5, time: 0.0001612909883260727}
+BST search total time: series 3, i: 5, time: 0.10870900750160217}
+BST search avg time: series 3, i: 5, time: 0.00010870900750160217}
+AVL search total time: series 3, i: 6, time: 0.15195900201797485}
+AVL search avg time: series 3, i: 6, time: 0.00015195900201797486}
+BST search total time: series 3, i: 6, time: 0.11374999582767487}
+BST search avg time: series 3, i: 6, time: 0.00011374999582767486}
+AVL search total time: series 3, i: 7, time: 0.1683330088853836}
+AVL search avg time: series 3, i: 7, time: 0.00016833300888538362}
+BST search total time: series 3, i: 7, time: 0.10795800387859344}
+BST search avg time: series 3, i: 7, time: 0.00010795800387859345}
+AVL search total time: series 3, i: 8, time: 0.15258300304412842}
+AVL search avg time: series 3, i: 8, time: 0.00015258300304412843}
+BST search total time: series 3, i: 8, time: 0.10995800793170929}
+BST search avg time: series 3, i: 8, time: 0.00010995800793170929}
+AVL search total time: series 3, i: 9, time: 0.16345900297164917}
+AVL search avg time: series 3, i: 9, time: 0.00016345900297164918}
+BST search total time: series 3, i: 9, time: 0.11041700839996338}
+BST search avg time: series 3, i: 9, time: 0.00011041700839996338}
+AVL search total time: series 3, i: 10, time: 0.16637499630451202}
+AVL search avg time: series 3, i: 10, time: 0.000166374996304512}
+BST search total time: series 3, i: 10, time: 10.679542005062103}
+BST search avg time: series 3, i: 10, time: 0.010679542005062104}
+AVL search total time: series 3, i: 11, time: 0.18037500977516174}
+AVL search avg time: series 3, i: 11, time: 0.00018037500977516175}
+BST search total time: series 3, i: 11, time: 10.903082996606827}
+BST search avg time: series 3, i: 11, time: 0.010903082996606826}
+AVL search total time: series 3, i: 12, time: 0.16174998879432678}
+AVL search avg time: series 3, i: 12, time: 0.00016174998879432678}
+BST search total time: series 3, i: 12, time: 11.40616600215435}
+BST search avg time: series 3, i: 12, time: 0.01140616600215435}
+AVL search total time: series 3, i: 13, time: 0.1626249998807907}
+AVL search avg time: series 3, i: 13, time: 0.0001626249998807907}
+BST search total time: series 3, i: 13, time: 10.611958011984825}
+BST search avg time: series 3, i: 13, time: 0.010611958011984826}
+AVL search total time: series 3, i: 14, time: 0.1593339890241623}
+AVL search avg time: series 3, i: 14, time: 0.0001593339890241623}
+BST search total time: series 3, i: 14, time: 10.356209009885788}
+BST search avg time: series 3, i: 14, time: 0.010356209009885788}
+AVL search total time: series 3, i: 15, time: 0.15962499380111694}
+AVL search avg time: series 3, i: 15, time: 0.00015962499380111695}
+BST search total time: series 3, i: 15, time: 10.50245900452137}
+BST search avg time: series 3, i: 15, time: 0.01050245900452137}
+AVL search total time: series 3, i: 16, time: 0.16266700625419617}
+AVL search avg time: series 3, i: 16, time: 0.00016266700625419616}
+BST search total time: series 3, i: 16, time: 10.418167009949684}
+BST search avg time: series 3, i: 16, time: 0.010418167009949684}
+AVL search total time: series 3, i: 17, time: 0.16324999928474426}
+AVL search avg time: series 3, i: 17, time: 0.00016324999928474428}
+BST search total time: series 3, i: 17, time: 11.107749998569489}
+BST search avg time: series 3, i: 17, time: 0.01110774999856949}
+AVL search total time: series 3, i: 18, time: 0.15891700983047485}
+AVL search avg time: series 3, i: 18, time: 0.00015891700983047485}
+BST search total time: series 3, i: 18, time: 10.548958986997604}
+BST search avg time: series 3, i: 18, time: 0.010548958986997604}
+AVL search total time: series 3, i: 19, time: 0.16174998879432678}
+AVL search avg time: series 3, i: 19, time: 0.00016174998879432678}
+BST search total time: series 3, i: 19, time: 10.441874995827675}
+BST search avg time: series 3, i: 19, time: 0.010441874995827674}
+AVL delete total time: series 3, i: 0, time: 0.5863329917192459}
+AVL delete avg time: series 3, i: 0, time: 0.00022712500393390656}
+BST delete total time: series 3, i: 0, time: 0.3194579929113388}
+BST delete avg time: series 3, i: 0, time: 0.00017441700398921966}
+AVL delete total time: series 3, i: 1, time: 0.3322499990463257}
+AVL delete avg time: series 3, i: 1, time: 0.00015529100596904755}
+BST delete total time: series 3, i: 1, time: 0.09958399832248688}
+BST delete avg time: series 3, i: 1, time: 0.00011020900309085846}
+AVL delete total time: series 3, i: 2, time: 0.3262919932603836}
+AVL delete avg time: series 3, i: 2, time: 0.00016033399105072022}
+BST delete total time: series 3, i: 2, time: 0.1032090038061142}
+BST delete avg time: series 3, i: 2, time: 0.0001158750057220459}
+AVL delete total time: series 3, i: 3, time: 0.326665997505188}
+AVL delete avg time: series 3, i: 3, time: 0.0001579580008983612}
+BST delete total time: series 3, i: 3, time: 0.1047080010175705}
+BST delete avg time: series 3, i: 3, time: 0.00011029200255870819}
+AVL delete total time: series 3, i: 4, time: 0.33150000870227814}
+AVL delete avg time: series 3, i: 4, time: 0.00015470901131629943}
+BST delete total time: series 3, i: 4, time: 0.09999999403953552}
+BST delete avg time: series 3, i: 4, time: 0.00010962499678134919}
+AVL delete total time: series 3, i: 5, time: 0.33983398973941803}
+AVL delete avg time: series 3, i: 5, time: 0.0001612909883260727}
+BST delete total time: series 3, i: 5, time: 0.10004200041294098}
+BST delete avg time: series 3, i: 5, time: 0.00010870900750160217}
+AVL delete total time: series 3, i: 6, time: 0.32704199850559235}
+AVL delete avg time: series 3, i: 6, time: 0.00015195900201797486}
+BST delete total time: series 3, i: 6, time: 0.10200001299381256}
+BST delete avg time: series 3, i: 6, time: 0.00011374999582767486}
+AVL delete total time: series 3, i: 7, time: 0.34645800292491913}
+AVL delete avg time: series 3, i: 7, time: 0.00016833300888538362}
+BST delete total time: series 3, i: 7, time: 0.10037501156330109}
+BST delete avg time: series 3, i: 7, time: 0.00010795800387859345}
+AVL delete total time: series 3, i: 8, time: 0.329583004117012}
+AVL delete avg time: series 3, i: 8, time: 0.00015258300304412843}
+BST delete total time: series 3, i: 8, time: 0.10020799934864044}
+BST delete avg time: series 3, i: 8, time: 0.00010995800793170929}
+AVL delete total time: series 3, i: 9, time: 0.3348750025033951}
+AVL delete avg time: series 3, i: 9, time: 0.00016345900297164918}
+BST delete total time: series 3, i: 9, time: 0.09929199516773224}
+BST delete avg time: series 3, i: 9, time: 0.00011041700839996338}
+AVL delete total time: series 3, i: 10, time: 0.227167010307312}
+AVL delete avg time: series 3, i: 10, time: 0.000166374996304512}
+BST delete total time: series 3, i: 10, time: 0.0464169979095459}
+BST delete avg time: series 3, i: 10, time: 0.010679542005062104}
+AVL delete total time: series 3, i: 11, time: 0.25658300518989563}
+AVL delete avg time: series 3, i: 11, time: 0.00018037500977516175}
+BST delete total time: series 3, i: 11, time: 0.04787500202655792}
+BST delete avg time: series 3, i: 11, time: 0.010903082996606826}
+AVL delete total time: series 3, i: 12, time: 0.22999998927116394}
+AVL delete avg time: series 3, i: 12, time: 0.00016174998879432678}
+BST delete total time: series 3, i: 12, time: 0.049042001366615295}
+BST delete avg time: series 3, i: 12, time: 0.01140616600215435}
+AVL delete total time: series 3, i: 13, time: 0.2275419980287552}
+AVL delete avg time: series 3, i: 13, time: 0.0001626249998807907}
+BST delete total time: series 3, i: 13, time: 0.04633300006389618}
+BST delete avg time: series 3, i: 13, time: 0.010611958011984826}
+AVL delete total time: series 3, i: 14, time: 0.22933299839496613}
+AVL delete avg time: series 3, i: 14, time: 0.0001593339890241623}
+BST delete total time: series 3, i: 14, time: 0.04641599953174591}
+BST delete avg time: series 3, i: 14, time: 0.010356209009885788}
+AVL delete total time: series 3, i: 15, time: 0.22658300399780273}
+AVL delete avg time: series 3, i: 15, time: 0.00015962499380111695}
+BST delete total time: series 3, i: 15, time: 0.046459004282951355}
+BST delete avg time: series 3, i: 15, time: 0.01050245900452137}
+AVL delete total time: series 3, i: 16, time: 0.2268339991569519}
+AVL delete avg time: series 3, i: 16, time: 0.00016266700625419616}
+BST delete total time: series 3, i: 16, time: 0.04633399844169617}
+BST delete avg time: series 3, i: 16, time: 0.010418167009949684}
+AVL delete total time: series 3, i: 17, time: 0.23650000989437103}
+AVL delete avg time: series 3, i: 17, time: 0.00016324999928474428}
+BST delete total time: series 3, i: 17, time: 0.04816600680351257}
+BST delete avg time: series 3, i: 17, time: 0.01110774999856949}
+AVL delete total time: series 3, i: 18, time: 0.2286669909954071}
+AVL delete avg time: series 3, i: 18, time: 0.00015891700983047485}
+BST delete total time: series 3, i: 18, time: 0.046500012278556824}
+BST delete avg time: series 3, i: 18, time: 0.010548958986997604}
+AVL delete total time: series 3, i: 19, time: 0.2259169965982437}
+AVL delete avg time: series 3, i: 19, time: 0.00016174998879432678}
+BST delete total time: series 3, i: 19, time: 0.04629199206829071}
+BST delete avg time: series 3, i: 19, time: 0.010441874995827674}
+TOTAL ELEMENTS: 
+16384
+AVL insertion time: series 4, i: 0, time: 9.916166990995407}
+BST insertion time: series 4, i: 0, time: 1.3942909985780716}
+AVL insertion time: series 4, i: 1, time: 4.896249994635582}
+BST insertion time: series 4, i: 1, time: 1.3722500056028366}
+AVL insertion time: series 4, i: 2, time: 4.528500005602837}
+BST insertion time: series 4, i: 2, time: 1.376000002026558}
+AVL insertion time: series 4, i: 3, time: 4.555915996432304}
+BST insertion time: series 4, i: 3, time: 1.3917080014944077}
+AVL insertion time: series 4, i: 4, time: 4.8844999969005585}
+BST insertion time: series 4, i: 4, time: 1.3677919954061508}
+AVL insertion time: series 4, i: 5, time: 4.68545900285244}
+BST insertion time: series 4, i: 5, time: 1.5474160015583038}
+AVL insertion time: series 4, i: 6, time: 4.640833005309105}
+BST insertion time: series 4, i: 6, time: 1.5411249995231628}
+AVL insertion time: series 4, i: 7, time: 4.668750002980232}
+BST insertion time: series 4, i: 7, time: 1.5551669895648956}
+AVL insertion time: series 4, i: 8, time: 4.637957990169525}
+BST insertion time: series 4, i: 8, time: 1.531833991408348}
+AVL insertion time: series 4, i: 9, time: 4.664666995406151}
+BST insertion time: series 4, i: 9, time: 1.5422919988632202}
+AVL insertion time: series 4, i: 10, time: 4.782040998339653}
+BST insertion time: series 4, i: 10, time: 361.16233299672604}
+AVL insertion time: series 4, i: 11, time: 4.627209007740021}
+BST insertion time: series 4, i: 11, time: 323.6933750063181}
+AVL insertion time: series 4, i: 12, time: 4.779040992259979}
+BST insertion time: series 4, i: 12, time: 309.0682080090046}
+AVL insertion time: series 4, i: 13, time: 4.832832992076874}
+BST insertion time: series 4, i: 13, time: 315.22558300197124}
+AVL insertion time: series 4, i: 14, time: 4.78541699051857}
+BST insertion time: series 4, i: 14, time: 304.60237500071526}
+AVL insertion time: series 4, i: 15, time: 4.791333004832268}
+BST insertion time: series 4, i: 15, time: 318.4058749973774}
+AVL insertion time: series 4, i: 16, time: 7.157040998339653}
+BST insertion time: series 4, i: 16, time: 324.10154101252556}
+AVL insertion time: series 4, i: 17, time: 4.6325840055942535}
+BST insertion time: series 4, i: 17, time: 316.4597090035677}
+AVL insertion time: series 4, i: 18, time: 4.6562079936265945}
+BST insertion time: series 4, i: 18, time: 338.6168330013752}
+AVL insertion time: series 4, i: 19, time: 4.6546249985694885}
+BST insertion time: series 4, i: 19, time: 313.9645420014858}
+AVL search total time: series 4, i: 0, time: 0.8763329982757568}
+AVL search avg time: series 4, i: 0, time: 0.0008763329982757568}
+BST search total time: series 4, i: 0, time: 0.2139580100774765}
+BST search avg time: series 4, i: 0, time: 0.0002139580100774765}
+AVL search total time: series 4, i: 1, time: 0.19987501204013824}
+AVL search avg time: series 4, i: 1, time: 0.00019987501204013825}
+BST search total time: series 4, i: 1, time: 0.1140419989824295}
+BST search avg time: series 4, i: 1, time: 0.00011404199898242951}
+AVL search total time: series 4, i: 2, time: 0.16062499582767487}
+AVL search avg time: series 4, i: 2, time: 0.00016062499582767488}
+BST search total time: series 4, i: 2, time: 0.1197499930858612}
+BST search avg time: series 4, i: 2, time: 0.00011974999308586121}
+AVL search total time: series 4, i: 3, time: 0.16016699373722076}
+AVL search avg time: series 4, i: 3, time: 0.00016016699373722076}
+BST search total time: series 4, i: 3, time: 0.2115830034017563}
+BST search avg time: series 4, i: 3, time: 0.00021158300340175628}
+AVL search total time: series 4, i: 4, time: 0.19562500715255737}
+AVL search avg time: series 4, i: 4, time: 0.00019562500715255738}
+BST search total time: series 4, i: 4, time: 0.11229200661182404}
+BST search avg time: series 4, i: 4, time: 0.00011229200661182403}
+AVL search total time: series 4, i: 5, time: 0.1669580042362213}
+AVL search avg time: series 4, i: 5, time: 0.0001669580042362213}
+BST search total time: series 4, i: 5, time: 0.11812499165534973}
+BST search avg time: series 4, i: 5, time: 0.00011812499165534974}
+AVL search total time: series 4, i: 6, time: 0.16562500596046448}
+AVL search avg time: series 4, i: 6, time: 0.0001656250059604645}
+BST search total time: series 4, i: 6, time: 0.11670799553394318}
+BST search avg time: series 4, i: 6, time: 0.00011670799553394317}
+AVL search total time: series 4, i: 7, time: 0.17120800912380219}
+AVL search avg time: series 4, i: 7, time: 0.0001712080091238022}
+BST search total time: series 4, i: 7, time: 0.1158749908208847}
+BST search avg time: series 4, i: 7, time: 0.0001158749908208847}
+AVL search total time: series 4, i: 8, time: 0.16687500476837158}
+AVL search avg time: series 4, i: 8, time: 0.00016687500476837157}
+BST search total time: series 4, i: 8, time: 0.11920800805091858}
+BST search avg time: series 4, i: 8, time: 0.00011920800805091858}
+AVL search total time: series 4, i: 9, time: 0.16929200291633606}
+AVL search avg time: series 4, i: 9, time: 0.00016929200291633607}
+BST search total time: series 4, i: 9, time: 0.11604200303554535}
+BST search avg time: series 4, i: 9, time: 0.00011604200303554535}
+AVL search total time: series 4, i: 10, time: 0.18070799112319946}
+AVL search avg time: series 4, i: 10, time: 0.00018070799112319947}
+BST search total time: series 4, i: 10, time: 22.095667004585266}
+BST search avg time: series 4, i: 10, time: 0.022095667004585266}
+AVL search total time: series 4, i: 11, time: 0.17808300256729126}
+AVL search avg time: series 4, i: 11, time: 0.00017808300256729126}
+BST search total time: series 4, i: 11, time: 22.269207999110222}
+BST search avg time: series 4, i: 11, time: 0.02226920799911022}
+AVL search total time: series 4, i: 12, time: 0.18299999833106995}
+AVL search avg time: series 4, i: 12, time: 0.00018299999833106995}
+BST search total time: series 4, i: 12, time: 20.93120799958706}
+BST search avg time: series 4, i: 12, time: 0.02093120799958706}
+AVL search total time: series 4, i: 13, time: 0.18812499940395355}
+AVL search avg time: series 4, i: 13, time: 0.00018812499940395355}
+BST search total time: series 4, i: 13, time: 21.494290992617607}
+BST search avg time: series 4, i: 13, time: 0.021494290992617605}
+AVL search total time: series 4, i: 14, time: 0.1806659996509552}
+AVL search avg time: series 4, i: 14, time: 0.0001806659996509552}
+BST search total time: series 4, i: 14, time: 21.140667006373405}
+BST search avg time: series 4, i: 14, time: 0.021140667006373407}
+AVL search total time: series 4, i: 15, time: 0.18400000035762787}
+AVL search avg time: series 4, i: 15, time: 0.00018400000035762788}
+BST search total time: series 4, i: 15, time: 21.423792004585266}
+BST search avg time: series 4, i: 15, time: 0.021423792004585267}
+AVL search total time: series 4, i: 16, time: 0.2626250088214874}
+AVL search avg time: series 4, i: 16, time: 0.00026262500882148743}
+BST search total time: series 4, i: 16, time: 21.769999995827675}
+BST search avg time: series 4, i: 16, time: 0.021769999995827675}
+AVL search total time: series 4, i: 17, time: 0.18079200387001038}
+AVL search avg time: series 4, i: 17, time: 0.00018079200387001036}
+BST search total time: series 4, i: 17, time: 20.549542009830475}
+BST search avg time: series 4, i: 17, time: 0.020549542009830474}
+AVL search total time: series 4, i: 18, time: 0.17866699397563934}
+AVL search avg time: series 4, i: 18, time: 0.00017866699397563933}
+BST search total time: series 4, i: 18, time: 22.871249988675117}
+BST search avg time: series 4, i: 18, time: 0.022871249988675117}
+AVL search total time: series 4, i: 19, time: 0.18062499165534973}
+AVL search avg time: series 4, i: 19, time: 0.00018062499165534974}
+BST search total time: series 4, i: 19, time: 21.408500000834465}
+BST search avg time: series 4, i: 19, time: 0.021408500000834465}
+AVL delete total time: series 4, i: 0, time: 5.699415996670723}
+AVL delete avg time: series 4, i: 0, time: 0.0008763329982757568}
+BST delete total time: series 4, i: 0, time: 3.1660829931497574}
+BST delete avg time: series 4, i: 0, time: 0.0002139580100774765}
+AVL delete total time: series 4, i: 1, time: 3.4815409928560257}
+AVL delete avg time: series 4, i: 1, time: 0.00019987501204013825}
+BST delete total time: series 4, i: 1, time: 2.953374996781349}
+BST delete avg time: series 4, i: 1, time: 0.00011404199898242951}
+AVL delete total time: series 4, i: 2, time: 3.4576670080423355}
+AVL delete avg time: series 4, i: 2, time: 0.00016062499582767488}
+BST delete total time: series 4, i: 2, time: 2.955833002924919}
+BST delete avg time: series 4, i: 2, time: 0.00011974999308586121}
+AVL delete total time: series 4, i: 3, time: 4.495124995708466}
+AVL delete avg time: series 4, i: 3, time: 0.00016016699373722076}
+BST delete total time: series 4, i: 3, time: 3.1986670047044754}
+BST delete avg time: series 4, i: 3, time: 0.00021158300340175628}
+AVL delete total time: series 4, i: 4, time: 3.4270839989185333}
+AVL delete avg time: series 4, i: 4, time: 0.00019562500715255738}
+BST delete total time: series 4, i: 4, time: 2.934041991829872}
+BST delete avg time: series 4, i: 4, time: 0.00011229200661182403}
+AVL delete total time: series 4, i: 5, time: 3.4386669993400574}
+AVL delete avg time: series 4, i: 5, time: 0.0001669580042362213}
+BST delete total time: series 4, i: 5, time: 2.9358749985694885}
+BST delete avg time: series 4, i: 5, time: 0.00011812499165534974}
+AVL delete total time: series 4, i: 6, time: 3.4262080043554306}
+AVL delete avg time: series 4, i: 6, time: 0.0001656250059604645}
+BST delete total time: series 4, i: 6, time: 2.9308329969644547}
+BST delete avg time: series 4, i: 6, time: 0.00011670799553394317}
+AVL delete total time: series 4, i: 7, time: 3.457291007041931}
+AVL delete avg time: series 4, i: 7, time: 0.0001712080091238022}
+BST delete total time: series 4, i: 7, time: 2.9557909965515137}
+BST delete avg time: series 4, i: 7, time: 0.0001158749908208847}
+AVL delete total time: series 4, i: 8, time: 3.4639580100774765}
+AVL delete avg time: series 4, i: 8, time: 0.00016687500476837157}
+BST delete total time: series 4, i: 8, time: 2.9541660100221634}
+BST delete avg time: series 4, i: 8, time: 0.00011920800805091858}
+AVL delete total time: series 4, i: 9, time: 3.4487079977989197}
+AVL delete avg time: series 4, i: 9, time: 0.00016929200291633607}
+BST delete total time: series 4, i: 9, time: 3.1121249943971634}
+BST delete avg time: series 4, i: 9, time: 0.00011604200303554535}
+AVL delete total time: series 4, i: 10, time: 3.3035420030355453}
+AVL delete avg time: series 4, i: 10, time: 0.00018070799112319947}
+BST delete total time: series 4, i: 10, time: 2.7845410108566284}
+BST delete avg time: series 4, i: 10, time: 0.022095667004585266}
+AVL delete total time: series 4, i: 11, time: 3.269209012389183}
+AVL delete avg time: series 4, i: 11, time: 0.00017808300256729126}
+BST delete total time: series 4, i: 11, time: 2.771250009536743}
+BST delete avg time: series 4, i: 11, time: 0.02226920799911022}
+AVL delete total time: series 4, i: 12, time: 3.2958329916000366}
+AVL delete avg time: series 4, i: 12, time: 0.00018299999833106995}
+BST delete total time: series 4, i: 12, time: 2.770583003759384}
+BST delete avg time: series 4, i: 12, time: 0.02093120799958706}
+AVL delete total time: series 4, i: 13, time: 3.3079579919576645}
+AVL delete avg time: series 4, i: 13, time: 0.00018812499940395355}
+BST delete total time: series 4, i: 13, time: 2.77462500333786}
+BST delete avg time: series 4, i: 13, time: 0.021494290992617605}
+AVL delete total time: series 4, i: 14, time: 3.278750002384186}
+AVL delete avg time: series 4, i: 14, time: 0.0001806659996509552}
+BST delete total time: series 4, i: 14, time: 2.7726249992847443}
+BST delete avg time: series 4, i: 14, time: 0.021140667006373407}
+AVL delete total time: series 4, i: 15, time: 3.2563329935073853}
+AVL delete avg time: series 4, i: 15, time: 0.00018400000035762788}
+BST delete total time: series 4, i: 15, time: 2.763624995946884}
+BST delete avg time: series 4, i: 15, time: 0.021423792004585267}
+AVL delete total time: series 4, i: 16, time: 3.2939999997615814}
+AVL delete avg time: series 4, i: 16, time: 0.00026262500882148743}
+BST delete total time: series 4, i: 16, time: 2.7717500030994415}
+BST delete avg time: series 4, i: 16, time: 0.021769999995827675}
+AVL delete total time: series 4, i: 17, time: 3.2841250002384186}
+AVL delete avg time: series 4, i: 17, time: 0.00018079200387001036}
+BST delete total time: series 4, i: 17, time: 2.7676249891519547}
+BST delete avg time: series 4, i: 17, time: 0.020549542009830474}
+AVL delete total time: series 4, i: 18, time: 3.3135830014944077}
+AVL delete avg time: series 4, i: 18, time: 0.00017866699397563933}
+BST delete total time: series 4, i: 18, time: 2.781000003218651}
+BST delete avg time: series 4, i: 18, time: 0.022871249988675117}
+AVL delete total time: series 4, i: 19, time: 3.3071670085191727}
+AVL delete avg time: series 4, i: 19, time: 0.00018062499165534974}
+BST delete total time: series 4, i: 19, time: 2.814750000834465}
+BST delete avg time: series 4, i: 19, time: 0.021408500000834465}
+TOTAL ELEMENTS: 
+32768
+AVL insertion time: series 5, i: 0, time: 9.910957992076874}
+BST insertion time: series 5, i: 0, time: 2.9934159964323044}
+AVL insertion time: series 5, i: 1, time: 11.43299999833107}
+BST insertion time: series 5, i: 1, time: 2.904790997505188}
+AVL insertion time: series 5, i: 2, time: 9.065375000238419}
+BST insertion time: series 5, i: 2, time: 2.8743750005960464}
+AVL insertion time: series 5, i: 3, time: 9.087874993681908}
+BST insertion time: series 5, i: 3, time: 2.91941699385643}
+AVL insertion time: series 5, i: 4, time: 9.170791000127792}
+BST insertion time: series 5, i: 4, time: 3.003499999642372}
+AVL insertion time: series 5, i: 5, time: 9.11387500166893}
+BST insertion time: series 5, i: 5, time: 2.991209000349045}
+AVL insertion time: series 5, i: 6, time: 9.079374998807907}
+BST insertion time: series 5, i: 6, time: 4.811708003282547}
+AVL insertion time: series 5, i: 7, time: 9.024292007088661}
+BST insertion time: series 5, i: 7, time: 2.896250009536743}
+AVL insertion time: series 5, i: 8, time: 9.492541998624802}
+BST insertion time: series 5, i: 8, time: 2.8895410001277924}
+AVL insertion time: series 5, i: 9, time: 9.114457994699478}
+BST insertion time: series 5, i: 9, time: 2.9128330051898956}
+AVL insertion time: series 5, i: 10, time: 10.105374991893768}
+BST insertion time: series 5, i: 10, time: 1313.1978329867125}
+AVL insertion time: series 5, i: 11, time: 11.5782919973135}
+BST insertion time: series 5, i: 11, time: 1303.2556660026312}
+AVL insertion time: series 5, i: 12, time: 10.342250004410744}
+BST insertion time: series 5, i: 12, time: 1345.39849999547}
+AVL insertion time: series 5, i: 13, time: 9.757792010903358}
+BST insertion time: series 5, i: 13, time: 1300.4009170085192}
+AVL insertion time: series 5, i: 14, time: 12.42220900952816}
+BST insertion time: series 5, i: 14, time: 1306.603416994214}
+AVL insertion time: series 5, i: 15, time: 9.998207986354828}
+BST insertion time: series 5, i: 15, time: 1307.9154579937458}
+AVL insertion time: series 5, i: 16, time: 9.754041999578476}
+BST insertion time: series 5, i: 16, time: 1330.2700829952955}
+AVL insertion time: series 5, i: 17, time: 16.97920799255371}
+BST insertion time: series 5, i: 17, time: 1304.6774580031633}
+AVL insertion time: series 5, i: 18, time: 10.237167000770569}
+BST insertion time: series 5, i: 18, time: 1335.4615830034018}
+AVL insertion time: series 5, i: 19, time: 9.836291998624802}
+BST insertion time: series 5, i: 19, time: 1313.6983750015497}
+AVL search total time: series 5, i: 0, time: 0.24745801091194153}
+AVL search avg time: series 5, i: 0, time: 0.00024745801091194153}
+BST search total time: series 5, i: 0, time: 0.18404200673103333}
+BST search avg time: series 5, i: 0, time: 0.00018404200673103333}
+AVL search total time: series 5, i: 1, time: 0.17020899057388306}
+AVL search avg time: series 5, i: 1, time: 0.00017020899057388305}
+BST search total time: series 5, i: 1, time: 0.12245799601078033}
+BST search avg time: series 5, i: 1, time: 0.00012245799601078033}
+AVL search total time: series 5, i: 2, time: 0.16541700065135956}
+AVL search avg time: series 5, i: 2, time: 0.00016541700065135956}
+BST search total time: series 5, i: 2, time: 0.117125004529953}
+BST search avg time: series 5, i: 2, time: 0.000117125004529953}
+AVL search total time: series 5, i: 3, time: 0.16704200208187103}
+AVL search avg time: series 5, i: 3, time: 0.00016704200208187103}
+BST search total time: series 5, i: 3, time: 0.11854200065135956}
+BST search avg time: series 5, i: 3, time: 0.00011854200065135956}
+AVL search total time: series 5, i: 4, time: 0.17133300006389618}
+AVL search avg time: series 5, i: 4, time: 0.00017133300006389618}
+BST search total time: series 5, i: 4, time: 0.12141700088977814}
+BST search avg time: series 5, i: 4, time: 0.00012141700088977814}
+AVL search total time: series 5, i: 5, time: 0.1678749918937683}
+AVL search avg time: series 5, i: 5, time: 0.0001678749918937683}
+BST search total time: series 5, i: 5, time: 0.12199999392032623}
+BST search avg time: series 5, i: 5, time: 0.00012199999392032623}
+AVL search total time: series 5, i: 6, time: 0.17162500321865082}
+AVL search avg time: series 5, i: 6, time: 0.0001716250032186508}
+BST search total time: series 5, i: 6, time: 0.12366600334644318}
+BST search avg time: series 5, i: 6, time: 0.00012366600334644316}
+AVL search total time: series 5, i: 7, time: 0.1685830056667328}
+AVL search avg time: series 5, i: 7, time: 0.0001685830056667328}
+BST search total time: series 5, i: 7, time: 0.11979100108146667}
+BST search avg time: series 5, i: 7, time: 0.00011979100108146667}
+AVL search total time: series 5, i: 8, time: 0.23487499356269836}
+AVL search avg time: series 5, i: 8, time: 0.00023487499356269836}
+BST search total time: series 5, i: 8, time: 0.18745799362659454}
+BST search avg time: series 5, i: 8, time: 0.00018745799362659455}
+AVL search total time: series 5, i: 9, time: 0.16641700267791748}
+AVL search avg time: series 5, i: 9, time: 0.0001664170026779175}
+BST search total time: series 5, i: 9, time: 0.11958301067352295}
+BST search avg time: series 5, i: 9, time: 0.00011958301067352295}
+AVL search total time: series 5, i: 10, time: 0.2033340036869049}
+AVL search avg time: series 5, i: 10, time: 0.0002033340036869049}
+BST search total time: series 5, i: 10, time: 45.437374994158745}
+BST search avg time: series 5, i: 10, time: 0.045437374994158744}
+AVL search total time: series 5, i: 11, time: 0.2204580008983612}
+AVL search avg time: series 5, i: 11, time: 0.0002204580008983612}
+BST search total time: series 5, i: 11, time: 46.51970799267292}
+BST search avg time: series 5, i: 11, time: 0.04651970799267292}
+AVL search total time: series 5, i: 12, time: 0.249208003282547}
+AVL search avg time: series 5, i: 12, time: 0.000249208003282547}
+BST search total time: series 5, i: 12, time: 44.395583003759384}
+BST search avg time: series 5, i: 12, time: 0.044395583003759384}
+AVL search total time: series 5, i: 13, time: 0.19750000536441803}
+AVL search avg time: series 5, i: 13, time: 0.00019750000536441803}
+BST search total time: series 5, i: 13, time: 44.93391600251198}
+BST search avg time: series 5, i: 13, time: 0.04493391600251198}
+AVL search total time: series 5, i: 14, time: 0.3419580012559891}
+AVL search avg time: series 5, i: 14, time: 0.0003419580012559891}
+BST search total time: series 5, i: 14, time: 44.36062499880791}
+BST search avg time: series 5, i: 14, time: 0.044360624998807906}
+AVL search total time: series 5, i: 15, time: 0.26945799589157104}
+AVL search avg time: series 5, i: 15, time: 0.00026945799589157105}
+BST search total time: series 5, i: 15, time: 43.64120800793171}
+BST search avg time: series 5, i: 15, time: 0.04364120800793171}
+AVL search total time: series 5, i: 16, time: 0.19587500393390656}
+AVL search avg time: series 5, i: 16, time: 0.00019587500393390656}
+BST search total time: series 5, i: 16, time: 44.836916998028755}
+BST search avg time: series 5, i: 16, time: 0.044836916998028754}
+AVL search total time: series 5, i: 17, time: 0.3324579894542694}
+AVL search avg time: series 5, i: 17, time: 0.0003324579894542694}
+BST search total time: series 5, i: 17, time: 44.20487500727177}
+BST search avg time: series 5, i: 17, time: 0.044204875007271764}
+AVL search total time: series 5, i: 18, time: 0.3163340091705322}
+AVL search avg time: series 5, i: 18, time: 0.0003163340091705322}
+BST search total time: series 5, i: 18, time: 44.98962499201298}
+BST search avg time: series 5, i: 18, time: 0.04498962499201298}
+AVL search total time: series 5, i: 19, time: 0.22108300030231476}
+AVL search avg time: series 5, i: 19, time: 0.00022108300030231477}
+BST search total time: series 5, i: 19, time: 45.257334008812904}
+BST search avg time: series 5, i: 19, time: 0.045257334008812905}
+AVL delete total time: series 5, i: 0, time: 7.919374987483025}
+AVL delete avg time: series 5, i: 0, time: 0.00024745801091194153}
+BST delete total time: series 5, i: 0, time: 7.374707996845245}
+BST delete avg time: series 5, i: 0, time: 0.00018404200673103333}
+AVL delete total time: series 5, i: 1, time: 7.35929100215435}
+AVL delete avg time: series 5, i: 1, time: 0.00017020899057388305}
+BST delete total time: series 5, i: 1, time: 7.154334008693695}
+BST delete avg time: series 5, i: 1, time: 0.00012245799601078033}
+AVL delete total time: series 5, i: 2, time: 7.3766250014305115}
+AVL delete avg time: series 5, i: 2, time: 0.00016541700065135956}
+BST delete total time: series 5, i: 2, time: 6.947874993085861}
+BST delete avg time: series 5, i: 2, time: 0.000117125004529953}
+AVL delete total time: series 5, i: 3, time: 7.432291999459267}
+AVL delete avg time: series 5, i: 3, time: 0.00016704200208187103}
+BST delete total time: series 5, i: 3, time: 7.015874996781349}
+BST delete avg time: series 5, i: 3, time: 0.00011854200065135956}
+AVL delete total time: series 5, i: 4, time: 7.420542001724243}
+AVL delete avg time: series 5, i: 4, time: 0.00017133300006389618}
+BST delete total time: series 5, i: 4, time: 7.240749999880791}
+BST delete avg time: series 5, i: 4, time: 0.00012141700088977814}
+AVL delete total time: series 5, i: 5, time: 7.393291994929314}
+AVL delete avg time: series 5, i: 5, time: 0.0001678749918937683}
+BST delete total time: series 5, i: 5, time: 6.995542004704475}
+BST delete avg time: series 5, i: 5, time: 0.00012199999392032623}
+AVL delete total time: series 5, i: 6, time: 7.3930419981479645}
+AVL delete avg time: series 5, i: 6, time: 0.0001716250032186508}
+BST delete total time: series 5, i: 6, time: 7.153500005602837}
+BST delete avg time: series 5, i: 6, time: 0.00012366600334644316}
+AVL delete total time: series 5, i: 7, time: 7.443542003631592}
+AVL delete avg time: series 5, i: 7, time: 0.0001685830056667328}
+BST delete total time: series 5, i: 7, time: 7.780374988913536}
+BST delete avg time: series 5, i: 7, time: 0.00011979100108146667}
+AVL delete total time: series 5, i: 8, time: 7.8874160051345825}
+AVL delete avg time: series 5, i: 8, time: 0.00023487499356269836}
+BST delete total time: series 5, i: 8, time: 6.858250007033348}
+BST delete avg time: series 5, i: 8, time: 0.00018745799362659455}
+AVL delete total time: series 5, i: 9, time: 7.383083000779152}
+AVL delete avg time: series 5, i: 9, time: 0.0001664170026779175}
+BST delete total time: series 5, i: 9, time: 7.1017909944057465}
+BST delete avg time: series 5, i: 9, time: 0.00011958301067352295}
+AVL delete total time: series 5, i: 10, time: 7.272790998220444}
+AVL delete avg time: series 5, i: 10, time: 0.0002033340036869049}
+BST delete total time: series 5, i: 10, time: 6.967624992132187}
+BST delete avg time: series 5, i: 10, time: 0.045437374994158744}
+AVL delete total time: series 5, i: 11, time: 7.226707994937897}
+AVL delete avg time: series 5, i: 11, time: 0.0002204580008983612}
+BST delete total time: series 5, i: 11, time: 7.661458000540733}
+BST delete avg time: series 5, i: 11, time: 0.04651970799267292}
+AVL delete total time: series 5, i: 12, time: 7.751708000898361}
+AVL delete avg time: series 5, i: 12, time: 0.000249208003282547}
+BST delete total time: series 5, i: 12, time: 7.2103749960660934}
+BST delete avg time: series 5, i: 12, time: 0.044395583003759384}
+AVL delete total time: series 5, i: 13, time: 7.264458000659943}
+AVL delete avg time: series 5, i: 13, time: 0.00019750000536441803}
+BST delete total time: series 5, i: 13, time: 6.919209003448486}
+BST delete avg time: series 5, i: 13, time: 0.04493391600251198}
+AVL delete total time: series 5, i: 14, time: 7.442708998918533}
+AVL delete avg time: series 5, i: 14, time: 0.0003419580012559891}
+BST delete total time: series 5, i: 14, time: 7.0405419915914536}
+BST delete avg time: series 5, i: 14, time: 0.044360624998807906}
+AVL delete total time: series 5, i: 15, time: 7.320542007684708}
+AVL delete avg time: series 5, i: 15, time: 0.00026945799589157105}
+BST delete total time: series 5, i: 15, time: 6.749207988381386}
+BST delete avg time: series 5, i: 15, time: 0.04364120800793171}
+AVL delete total time: series 5, i: 16, time: 7.261291012167931}
+AVL delete avg time: series 5, i: 16, time: 0.00019587500393390656}
+BST delete total time: series 5, i: 16, time: 6.743791997432709}
+BST delete avg time: series 5, i: 16, time: 0.044836916998028754}
+AVL delete total time: series 5, i: 17, time: 8.444000005722046}
+AVL delete avg time: series 5, i: 17, time: 0.0003324579894542694}
+BST delete total time: series 5, i: 17, time: 7.258332997560501}
+BST delete avg time: series 5, i: 17, time: 0.044204875007271764}
+AVL delete total time: series 5, i: 18, time: 7.814042001962662}
+AVL delete avg time: series 5, i: 18, time: 0.0003163340091705322}
+BST delete total time: series 5, i: 18, time: 6.892499998211861}
+BST delete avg time: series 5, i: 18, time: 0.04498962499201298}
+AVL delete total time: series 5, i: 19, time: 7.343708008527756}
+AVL delete avg time: series 5, i: 19, time: 0.00022108300030231477}
+BST delete total time: series 5, i: 19, time: 7.015749990940094}
+BST delete avg time: series 5, i: 19, time: 0.045257334008812905}
+TOTAL ELEMENTS: 
+2048
+AVL insertion time: series 1, i: 0, time: 6.906749993562698}
+BST insertion time: series 1, i: 0, time: 1.4216249883174896}
+AVL insertion time: series 1, i: 1, time: 5.7857920080423355}
+BST insertion time: series 1, i: 1, time: 1.5565000027418137}
+AVL insertion time: series 1, i: 2, time: 1.0912920087575912}
+BST insertion time: series 1, i: 2, time: 0.27079200744628906}
+AVL insertion time: series 1, i: 3, time: 4.488541007041931}
+BST insertion time: series 1, i: 3, time: 0.24825000762939453}
+AVL insertion time: series 1, i: 4, time: 0.8274170011281967}
+BST insertion time: series 1, i: 4, time: 0.1729160100221634}
+AVL insertion time: series 1, i: 5, time: 0.5129999965429306}
+BST insertion time: series 1, i: 5, time: 0.17787499725818634}
+AVL insertion time: series 1, i: 6, time: 0.5354579985141754}
+BST insertion time: series 1, i: 6, time: 0.25325000286102295}
+AVL insertion time: series 1, i: 7, time: 1.7956660091876984}
+BST insertion time: series 1, i: 7, time: 0.2433749884366989}
+AVL insertion time: series 1, i: 8, time: 1.1201249957084656}
+BST insertion time: series 1, i: 8, time: 0.25824999809265137}
+AVL insertion time: series 1, i: 9, time: 0.9203329980373383}
+BST insertion time: series 1, i: 9, time: 0.2462090104818344}
+AVL insertion time: series 1, i: 10, time: 0.4967080056667328}
+BST insertion time: series 1, i: 10, time: 4.2100419998168945}
+AVL insertion time: series 1, i: 11, time: 0.4831250011920929}
+BST insertion time: series 1, i: 11, time: 4.218291997909546}
+AVL insertion time: series 1, i: 12, time: 0.5650829970836639}
+BST insertion time: series 1, i: 12, time: 4.278292000293732}
+AVL insertion time: series 1, i: 13, time: 0.5098749995231628}
+BST insertion time: series 1, i: 13, time: 4.235166996717453}
+AVL insertion time: series 1, i: 14, time: 0.5037499964237213}
+BST insertion time: series 1, i: 14, time: 4.251375004649162}
+AVL insertion time: series 1, i: 15, time: 0.8614580035209656}
+BST insertion time: series 1, i: 15, time: 4.217540994286537}
+AVL insertion time: series 1, i: 16, time: 0.4809589982032776}
+BST insertion time: series 1, i: 16, time: 4.2079169899225235}
+AVL insertion time: series 1, i: 17, time: 0.5081249922513962}
+BST insertion time: series 1, i: 17, time: 4.223917007446289}
+AVL insertion time: series 1, i: 18, time: 1.1504999995231628}
+BST insertion time: series 1, i: 18, time: 4.631750002503395}
+AVL insertion time: series 1, i: 19, time: 0.44258299469947815}
+BST insertion time: series 1, i: 19, time: 4.629334002733231}
+AVL search total time: series 1, i: 0, time: 0.753917008638382}
+AVL search avg time: series 1, i: 0, time: 0.000753917008638382}
+BST search total time: series 1, i: 0, time: 1.067209005355835}
+BST search avg time: series 1, i: 0, time: 0.0010672090053558349}
+AVL search total time: series 1, i: 1, time: 0.5052919983863831}
+AVL search avg time: series 1, i: 1, time: 0.0005052919983863831}
+BST search total time: series 1, i: 1, time: 0.4894170016050339}
+BST search avg time: series 1, i: 1, time: 0.0004894170016050338}
+AVL search total time: series 1, i: 2, time: 0.3209590017795563}
+AVL search avg time: series 1, i: 2, time: 0.00032095900177955627}
+BST search total time: series 1, i: 2, time: 0.22745800018310547}
+BST search avg time: series 1, i: 2, time: 0.00022745800018310547}
+AVL search total time: series 1, i: 3, time: 0.2620000094175339}
+AVL search avg time: series 1, i: 3, time: 0.0002620000094175339}
+BST search total time: series 1, i: 3, time: 0.22037498652935028}
+BST search avg time: series 1, i: 3, time: 0.00022037498652935028}
+AVL search total time: series 1, i: 4, time: 0.20041599869728088}
+AVL search avg time: series 1, i: 4, time: 0.0002004159986972809}
+BST search total time: series 1, i: 4, time: 0.11779201030731201}
+BST search avg time: series 1, i: 4, time: 0.00011779201030731201}
+AVL search total time: series 1, i: 5, time: 0.16200000047683716}
+AVL search avg time: series 1, i: 5, time: 0.00016200000047683716}
+BST search total time: series 1, i: 5, time: 0.1217079907655716}
+BST search avg time: series 1, i: 5, time: 0.0001217079907655716}
+AVL search total time: series 1, i: 6, time: 0.16666600108146667}
+AVL search avg time: series 1, i: 6, time: 0.00016666600108146667}
+BST search total time: series 1, i: 6, time: 0.22287499904632568}
+BST search avg time: series 1, i: 6, time: 0.0002228749990463257}
+AVL search total time: series 1, i: 7, time: 0.24020899832248688}
+AVL search avg time: series 1, i: 7, time: 0.00024020899832248688}
+BST search total time: series 1, i: 7, time: 0.17970798909664154}
+BST search avg time: series 1, i: 7, time: 0.00017970798909664154}
+AVL search total time: series 1, i: 8, time: 0.23120799660682678}
+AVL search avg time: series 1, i: 8, time: 0.00023120799660682678}
+BST search total time: series 1, i: 8, time: 0.20170900225639343}
+BST search avg time: series 1, i: 8, time: 0.00020170900225639343}
+AVL search total time: series 1, i: 9, time: 0.2381249964237213}
+AVL search avg time: series 1, i: 9, time: 0.00023812499642372132}
+BST search total time: series 1, i: 9, time: 0.18312498927116394}
+BST search avg time: series 1, i: 9, time: 0.00018312498927116393}
+AVL search total time: series 1, i: 10, time: 0.1634169965982437}
+AVL search avg time: series 1, i: 10, time: 0.0001634169965982437}
+BST search total time: series 1, i: 10, time: 2.5795000046491623}
+BST search avg time: series 1, i: 10, time: 0.0025795000046491623}
+AVL search total time: series 1, i: 11, time: 0.16466699540615082}
+AVL search avg time: series 1, i: 11, time: 0.00016466699540615081}
+BST search total time: series 1, i: 11, time: 2.6235829889774323}
+BST search avg time: series 1, i: 11, time: 0.0026235829889774322}
+AVL search total time: series 1, i: 12, time: 0.17079199850559235}
+AVL search avg time: series 1, i: 12, time: 0.00017079199850559233}
+BST search total time: series 1, i: 12, time: 2.5703340023756027}
+BST search avg time: series 1, i: 12, time: 0.002570334002375603}
+AVL search total time: series 1, i: 13, time: 0.17020899057388306}
+AVL search avg time: series 1, i: 13, time: 0.00017020899057388305}
+BST search total time: series 1, i: 13, time: 2.636250004172325}
+BST search avg time: series 1, i: 13, time: 0.002636250004172325}
+AVL search total time: series 1, i: 14, time: 0.1741669923067093}
+AVL search avg time: series 1, i: 14, time: 0.00017416699230670928}
+BST search total time: series 1, i: 14, time: 2.681874990463257}
+BST search avg time: series 1, i: 14, time: 0.002681874990463257}
+AVL search total time: series 1, i: 15, time: 0.16395799815654755}
+AVL search avg time: series 1, i: 15, time: 0.00016395799815654754}
+BST search total time: series 1, i: 15, time: 2.597249999642372}
+BST search avg time: series 1, i: 15, time: 0.002597249999642372}
+AVL search total time: series 1, i: 16, time: 0.16124999523162842}
+AVL search avg time: series 1, i: 16, time: 0.00016124999523162842}
+BST search total time: series 1, i: 16, time: 2.655333012342453}
+BST search avg time: series 1, i: 16, time: 0.002655333012342453}
+AVL search total time: series 1, i: 17, time: 0.16683299839496613}
+AVL search avg time: series 1, i: 17, time: 0.00016683299839496612}
+BST search total time: series 1, i: 17, time: 2.6889169961214066}
+BST search avg time: series 1, i: 17, time: 0.0026889169961214067}
+AVL search total time: series 1, i: 18, time: 0.21266700327396393}
+AVL search avg time: series 1, i: 18, time: 0.00021266700327396393}
+BST search total time: series 1, i: 18, time: 4.0367910116910934}
+BST search avg time: series 1, i: 18, time: 0.004036791011691093}
+AVL search total time: series 1, i: 19, time: 0.13837499916553497}
+AVL search avg time: series 1, i: 19, time: 0.00013837499916553498}
+BST search total time: series 1, i: 19, time: 3.853500008583069}
+BST search avg time: series 1, i: 19, time: 0.003853500008583069}
+AVL delete total time: series 1, i: 0, time: 2.9796250015497208}
+AVL delete avg time: series 1, i: 0, time: 0.000753917008638382}
+BST delete total time: series 1, i: 0, time: 1.2565830051898956}
+BST delete avg time: series 1, i: 0, time: 0.0010672090053558349}
+AVL delete total time: series 1, i: 1, time: 2.1424580067396164}
+AVL delete avg time: series 1, i: 1, time: 0.0005052919983863831}
+BST delete total time: series 1, i: 1, time: 1.6610409915447235}
+BST delete avg time: series 1, i: 1, time: 0.0004894170016050338}
+AVL delete total time: series 1, i: 2, time: 1.480541005730629}
+AVL delete avg time: series 1, i: 2, time: 0.00032095900177955627}
+BST delete total time: series 1, i: 2, time: 0.22812499105930328}
+BST delete avg time: series 1, i: 2, time: 0.00022745800018310547}
+AVL delete total time: series 1, i: 3, time: 1.3757089972496033}
+AVL delete avg time: series 1, i: 3, time: 0.0002620000094175339}
+BST delete total time: series 1, i: 3, time: 0.23741701245307922}
+BST delete avg time: series 1, i: 3, time: 0.00022037498652935028}
+AVL delete total time: series 1, i: 4, time: 0.3229999989271164}
+AVL delete avg time: series 1, i: 4, time: 0.0002004159986972809}
+BST delete total time: series 1, i: 4, time: 0.14570800960063934}
+BST delete avg time: series 1, i: 4, time: 0.00011779201030731201}
+AVL delete total time: series 1, i: 5, time: 0.5347499996423721}
+AVL delete avg time: series 1, i: 5, time: 0.00016200000047683716}
+BST delete total time: series 1, i: 5, time: 0.39887499809265137}
+BST delete avg time: series 1, i: 5, time: 0.0001217079907655716}
+AVL delete total time: series 1, i: 6, time: 2.396125003695488}
+AVL delete avg time: series 1, i: 6, time: 0.00016666600108146667}
+BST delete total time: series 1, i: 6, time: 0.44783298671245575}
+BST delete avg time: series 1, i: 6, time: 0.0002228749990463257}
+AVL delete total time: series 1, i: 7, time: 0.9717500060796738}
+AVL delete avg time: series 1, i: 7, time: 0.00024020899832248688}
+BST delete total time: series 1, i: 7, time: 0.3562919944524765}
+BST delete avg time: series 1, i: 7, time: 0.00017970798909664154}
+AVL delete total time: series 1, i: 8, time: 0.9638329893350601}
+AVL delete avg time: series 1, i: 8, time: 0.00023120799660682678}
+BST delete total time: series 1, i: 8, time: 0.9308329969644547}
+BST delete avg time: series 1, i: 8, time: 0.00020170900225639343}
+AVL delete total time: series 1, i: 9, time: 0.9677500128746033}
+AVL delete avg time: series 1, i: 9, time: 0.00023812499642372132}
+BST delete total time: series 1, i: 9, time: 0.11958400905132294}
+BST delete avg time: series 1, i: 9, time: 0.00018312498927116393}
+AVL delete total time: series 1, i: 10, time: 0.21962501108646393}
+AVL delete avg time: series 1, i: 10, time: 0.0001634169965982437}
+BST delete total time: series 1, i: 10, time: 0.07704199850559235}
+BST delete avg time: series 1, i: 10, time: 0.0025795000046491623}
+AVL delete total time: series 1, i: 11, time: 0.218874990940094}
+AVL delete avg time: series 1, i: 11, time: 0.00016466699540615081}
+BST delete total time: series 1, i: 11, time: 0.07574999332427979}
+BST delete avg time: series 1, i: 11, time: 0.0026235829889774322}
+AVL delete total time: series 1, i: 12, time: 0.22283399105072021}
+AVL delete avg time: series 1, i: 12, time: 0.00017079199850559233}
+BST delete total time: series 1, i: 12, time: 0.07666701078414917}
+BST delete avg time: series 1, i: 12, time: 0.002570334002375603}
+AVL delete total time: series 1, i: 13, time: 0.22312499582767487}
+AVL delete avg time: series 1, i: 13, time: 0.00017020899057388305}
+BST delete total time: series 1, i: 13, time: 0.07670898735523224}
+BST delete avg time: series 1, i: 13, time: 0.002636250004172325}
+AVL delete total time: series 1, i: 14, time: 0.22608301043510437}
+AVL delete avg time: series 1, i: 14, time: 0.00017416699230670928}
+BST delete total time: series 1, i: 14, time: 0.07766599953174591}
+BST delete avg time: series 1, i: 14, time: 0.002681874990463257}
+AVL delete total time: series 1, i: 15, time: 0.22220799326896667}
+AVL delete avg time: series 1, i: 15, time: 0.00016395799815654754}
+BST delete total time: series 1, i: 15, time: 0.07587499916553497}
+BST delete avg time: series 1, i: 15, time: 0.002597249999642372}
+AVL delete total time: series 1, i: 16, time: 0.22545799612998962}
+AVL delete avg time: series 1, i: 16, time: 0.00016124999523162842}
+BST delete total time: series 1, i: 16, time: 0.07524999976158142}
+BST delete avg time: series 1, i: 16, time: 0.002655333012342453}
+AVL delete total time: series 1, i: 17, time: 0.22345800697803497}
+AVL delete avg time: series 1, i: 17, time: 0.00016683299839496612}
+BST delete total time: series 1, i: 17, time: 0.08062499761581421}
+BST delete avg time: series 1, i: 17, time: 0.0026889169961214067}
+AVL delete total time: series 1, i: 18, time: 0.5978340059518814}
+AVL delete avg time: series 1, i: 18, time: 0.00021266700327396393}
+BST delete total time: series 1, i: 18, time: 0.1537500023841858}
+BST delete avg time: series 1, i: 18, time: 0.004036791011691093}
+AVL delete total time: series 1, i: 19, time: 0.19841699302196503}
+AVL delete avg time: series 1, i: 19, time: 0.00013837499916553498}
+BST delete total time: series 1, i: 19, time: 0.054875001311302185}
+BST delete avg time: series 1, i: 19, time: 0.003853500008583069}
+TOTAL ELEMENTS: 
+4096
+AVL insertion time: series 2, i: 0, time: 1.6603749990463257}
+BST insertion time: series 2, i: 0, time: 0.4494580030441284}
+AVL insertion time: series 2, i: 1, time: 1.0873750001192093}
+BST insertion time: series 2, i: 1, time: 0.3948339968919754}
+AVL insertion time: series 2, i: 2, time: 1.0958749949932098}
+BST insertion time: series 2, i: 2, time: 0.3723750114440918}
+AVL insertion time: series 2, i: 3, time: 1.0933339893817902}
+BST insertion time: series 2, i: 3, time: 0.3771670013666153}
+AVL insertion time: series 2, i: 4, time: 1.1185829937458038}
+BST insertion time: series 2, i: 4, time: 0.3690829873085022}
+AVL insertion time: series 2, i: 5, time: 1.5888330042362213}
+BST insertion time: series 2, i: 5, time: 0.3667910099029541}
+AVL insertion time: series 2, i: 6, time: 1.112415999174118}
+BST insertion time: series 2, i: 6, time: 0.37679100036621094}
+AVL insertion time: series 2, i: 7, time: 1.1049579977989197}
+BST insertion time: series 2, i: 7, time: 0.3799999952316284}
+AVL insertion time: series 2, i: 8, time: 1.1703750044107437}
+BST insertion time: series 2, i: 8, time: 0.42045800387859344}
+AVL insertion time: series 2, i: 9, time: 1.146916002035141}
+BST insertion time: series 2, i: 9, time: 0.40974999964237213}
+AVL insertion time: series 2, i: 10, time: 1.1140419989824295}
+BST insertion time: series 2, i: 10, time: 16.987415999174118}
+AVL insertion time: series 2, i: 11, time: 1.08229199051857}
+BST insertion time: series 2, i: 11, time: 18.114750012755394}
+AVL insertion time: series 2, i: 12, time: 1.0331249982118607}
+BST insertion time: series 2, i: 12, time: 17.01316699385643}
+AVL insertion time: series 2, i: 13, time: 1.3733749985694885}
+BST insertion time: series 2, i: 13, time: 18.95370800793171}
+AVL insertion time: series 2, i: 14, time: 1.0170000046491623}
+BST insertion time: series 2, i: 14, time: 19.666749998927116}
+AVL insertion time: series 2, i: 15, time: 0.9673750102519989}
+BST insertion time: series 2, i: 15, time: 18.55841599404812}
+AVL insertion time: series 2, i: 16, time: 1.6004589945077896}
+BST insertion time: series 2, i: 16, time: 18.558999985456467}
+AVL insertion time: series 2, i: 17, time: 0.9151249974966049}
+BST insertion time: series 2, i: 17, time: 18.465250000357628}
+AVL insertion time: series 2, i: 18, time: 0.9489579945802689}
+BST insertion time: series 2, i: 18, time: 19.156957998871803}
+AVL insertion time: series 2, i: 19, time: 0.9299580007791519}
+BST insertion time: series 2, i: 19, time: 19.195041999220848}
+AVL search total time: series 2, i: 0, time: 0.21016700565814972}
+AVL search avg time: series 2, i: 0, time: 0.0002101670056581497}
+BST search total time: series 2, i: 0, time: 0.19550000131130219}
+BST search avg time: series 2, i: 0, time: 0.00019550000131130218}
+AVL search total time: series 2, i: 1, time: 0.17641600966453552}
+AVL search avg time: series 2, i: 1, time: 0.00017641600966453552}
+BST search total time: series 2, i: 1, time: 0.13395799696445465}
+BST search avg time: series 2, i: 1, time: 0.00013395799696445465}
+AVL search total time: series 2, i: 2, time: 0.17695800960063934}
+AVL search avg time: series 2, i: 2, time: 0.00017695800960063933}
+BST search total time: series 2, i: 2, time: 0.13220900297164917}
+BST search avg time: series 2, i: 2, time: 0.00013220900297164918}
+AVL search total time: series 2, i: 3, time: 0.17708399891853333}
+AVL search avg time: series 2, i: 3, time: 0.00017708399891853334}
+BST search total time: series 2, i: 3, time: 0.1341250091791153}
+BST search avg time: series 2, i: 3, time: 0.0001341250091791153}
+AVL search total time: series 2, i: 4, time: 0.1780419945716858}
+AVL search avg time: series 2, i: 4, time: 0.0001780419945716858}
+BST search total time: series 2, i: 4, time: 0.12837499380111694}
+BST search avg time: series 2, i: 4, time: 0.00012837499380111695}
+AVL search total time: series 2, i: 5, time: 0.17466700077056885}
+AVL search avg time: series 2, i: 5, time: 0.00017466700077056884}
+BST search total time: series 2, i: 5, time: 0.13158300518989563}
+BST search avg time: series 2, i: 5, time: 0.00013158300518989564}
+AVL search total time: series 2, i: 6, time: 0.17708399891853333}
+AVL search avg time: series 2, i: 6, time: 0.00017708399891853334}
+BST search total time: series 2, i: 6, time: 0.13166700303554535}
+BST search avg time: series 2, i: 6, time: 0.00013166700303554534}
+AVL search total time: series 2, i: 7, time: 0.18195798993110657}
+AVL search avg time: series 2, i: 7, time: 0.00018195798993110658}
+BST search total time: series 2, i: 7, time: 0.13133399188518524}
+BST search avg time: series 2, i: 7, time: 0.00013133399188518523}
+AVL search total time: series 2, i: 8, time: 0.1823749989271164}
+AVL search avg time: series 2, i: 8, time: 0.00018237499892711638}
+BST search total time: series 2, i: 8, time: 0.14375001192092896}
+BST search avg time: series 2, i: 8, time: 0.00014375001192092895}
+AVL search total time: series 2, i: 9, time: 0.17750000953674316}
+AVL search avg time: series 2, i: 9, time: 0.00017750000953674317}
+BST search total time: series 2, i: 9, time: 0.13566599786281586}
+BST search avg time: series 2, i: 9, time: 0.00013566599786281585}
+AVL search total time: series 2, i: 10, time: 0.18220800161361694}
+AVL search avg time: series 2, i: 10, time: 0.00018220800161361696}
+BST search total time: series 2, i: 10, time: 5.311291992664337}
+BST search avg time: series 2, i: 10, time: 0.005311291992664337}
+AVL search total time: series 2, i: 11, time: 0.18216700851917267}
+AVL search avg time: series 2, i: 11, time: 0.00018216700851917268}
+BST search total time: series 2, i: 11, time: 5.277457997202873}
+BST search avg time: series 2, i: 11, time: 0.005277457997202873}
+AVL search total time: series 2, i: 12, time: 0.17683298885822296}
+AVL search avg time: series 2, i: 12, time: 0.00017683298885822296}
+BST search total time: series 2, i: 12, time: 5.244292005896568}
+BST search avg time: series 2, i: 12, time: 0.005244292005896568}
+AVL search total time: series 2, i: 13, time: 0.19095799326896667}
+AVL search avg time: series 2, i: 13, time: 0.00019095799326896668}
+BST search total time: series 2, i: 13, time: 5.377624988555908}
+BST search avg time: series 2, i: 13, time: 0.005377624988555908}
+AVL search total time: series 2, i: 14, time: 0.1571670025587082}
+AVL search avg time: series 2, i: 14, time: 0.0001571670025587082}
+BST search total time: series 2, i: 14, time: 5.302832990884781}
+BST search avg time: series 2, i: 14, time: 0.005302832990884781}
+AVL search total time: series 2, i: 15, time: 0.15775001049041748}
+AVL search avg time: series 2, i: 15, time: 0.0001577500104904175}
+BST search total time: series 2, i: 15, time: 5.016500011086464}
+BST search avg time: series 2, i: 15, time: 0.005016500011086464}
+AVL search total time: series 2, i: 16, time: 0.15333299338817596}
+AVL search avg time: series 2, i: 16, time: 0.00015333299338817597}
+BST search total time: series 2, i: 16, time: 5.186207994818687}
+BST search avg time: series 2, i: 16, time: 0.0051862079948186875}
+AVL search total time: series 2, i: 17, time: 0.15120799839496613}
+AVL search avg time: series 2, i: 17, time: 0.00015120799839496614}
+BST search total time: series 2, i: 17, time: 5.226916998624802}
+BST search avg time: series 2, i: 17, time: 0.005226916998624802}
+AVL search total time: series 2, i: 18, time: 0.15616700053215027}
+AVL search avg time: series 2, i: 18, time: 0.00015616700053215028}
+BST search total time: series 2, i: 18, time: 5.198958992958069}
+BST search avg time: series 2, i: 18, time: 0.005198958992958069}
+AVL search total time: series 2, i: 19, time: 0.15600000321865082}
+AVL search avg time: series 2, i: 19, time: 0.00015600000321865082}
+BST search total time: series 2, i: 19, time: 5.054875001311302}
+BST search avg time: series 2, i: 19, time: 0.005054875001311302}
+AVL delete total time: series 2, i: 0, time: 0.9989999979734421}
+AVL delete avg time: series 2, i: 0, time: 0.0002101670056581497}
+BST delete total time: series 2, i: 0, time: 0.2645830065011978}
+BST delete avg time: series 2, i: 0, time: 0.00019550000131130218}
+AVL delete total time: series 2, i: 1, time: 0.32725000381469727}
+AVL delete avg time: series 2, i: 1, time: 0.00017641600966453552}
+BST delete total time: series 2, i: 1, time: 0.11599999666213989}
+BST delete avg time: series 2, i: 1, time: 0.00013395799696445465}
+AVL delete total time: series 2, i: 2, time: 0.32079100608825684}
+AVL delete avg time: series 2, i: 2, time: 0.00017695800960063933}
+BST delete total time: series 2, i: 2, time: 0.11624999344348907}
+BST delete avg time: series 2, i: 2, time: 0.00013220900297164918}
+AVL delete total time: series 2, i: 3, time: 0.3282500058412552}
+AVL delete avg time: series 2, i: 3, time: 0.00017708399891853334}
+BST delete total time: series 2, i: 3, time: 0.11920799314975739}
+BST delete avg time: series 2, i: 3, time: 0.0001341250091791153}
+AVL delete total time: series 2, i: 4, time: 0.3291669934988022}
+AVL delete avg time: series 2, i: 4, time: 0.0001780419945716858}
+BST delete total time: series 2, i: 4, time: 0.11720800399780273}
+BST delete avg time: series 2, i: 4, time: 0.00012837499380111695}
+AVL delete total time: series 2, i: 5, time: 0.33162499964237213}
+AVL delete avg time: series 2, i: 5, time: 0.00017466700077056884}
+BST delete total time: series 2, i: 5, time: 0.11741700768470764}
+BST delete avg time: series 2, i: 5, time: 0.00013158300518989564}
+AVL delete total time: series 2, i: 6, time: 0.32958298921585083}
+AVL delete avg time: series 2, i: 6, time: 0.00017708399891853334}
+BST delete total time: series 2, i: 6, time: 0.1150830090045929}
+BST delete avg time: series 2, i: 6, time: 0.00013166700303554534}
+AVL delete total time: series 2, i: 7, time: 0.3347090035676956}
+AVL delete avg time: series 2, i: 7, time: 0.00018195798993110658}
+BST delete total time: series 2, i: 7, time: 0.11879101395606995}
+BST delete avg time: series 2, i: 7, time: 0.00013133399188518523}
+AVL delete total time: series 2, i: 8, time: 0.33266599476337433}
+AVL delete avg time: series 2, i: 8, time: 0.00018237499892711638}
+BST delete total time: series 2, i: 8, time: 0.11470898985862732}
+BST delete avg time: series 2, i: 8, time: 0.00014375001192092895}
+AVL delete total time: series 2, i: 9, time: 0.32191699743270874}
+AVL delete avg time: series 2, i: 9, time: 0.00017750000953674317}
+BST delete total time: series 2, i: 9, time: 0.13454098999500275}
+BST delete avg time: series 2, i: 9, time: 0.00013566599786281585}
+AVL delete total time: series 2, i: 10, time: 0.2335829883813858}
+AVL delete avg time: series 2, i: 10, time: 0.00018220800161361696}
+BST delete total time: series 2, i: 10, time: 0.07774999737739563}
+BST delete avg time: series 2, i: 10, time: 0.005311291992664337}
+AVL delete total time: series 2, i: 11, time: 0.23216699063777924}
+AVL delete avg time: series 2, i: 11, time: 0.00018216700851917268}
+BST delete total time: series 2, i: 11, time: 0.07804100215435028}
+BST delete avg time: series 2, i: 11, time: 0.005277457997202873}
+AVL delete total time: series 2, i: 12, time: 27.87304200232029}
+AVL delete avg time: series 2, i: 12, time: 0.00017683298885822296}
+BST delete total time: series 2, i: 12, time: 0.30375000834465027}
+BST delete avg time: series 2, i: 12, time: 0.005244292005896568}
+AVL delete total time: series 2, i: 13, time: 0.2366669923067093}
+AVL delete avg time: series 2, i: 13, time: 0.00019095799326896668}
+BST delete total time: series 2, i: 13, time: 0.06862500309944153}
+BST delete avg time: series 2, i: 13, time: 0.005377624988555908}
+AVL delete total time: series 2, i: 14, time: 0.21275000274181366}
+AVL delete avg time: series 2, i: 14, time: 0.0001571670025587082}
+BST delete total time: series 2, i: 14, time: 0.051375001668930054}
+BST delete avg time: series 2, i: 14, time: 0.005302832990884781}
+AVL delete total time: series 2, i: 15, time: 0.21299999952316284}
+AVL delete avg time: series 2, i: 15, time: 0.0001577500104904175}
+BST delete total time: series 2, i: 15, time: 0.0524589866399765}
+BST delete avg time: series 2, i: 15, time: 0.005016500011086464}
+AVL delete total time: series 2, i: 16, time: 0.2172500044107437}
+AVL delete avg time: series 2, i: 16, time: 0.00015333299338817597}
+BST delete total time: series 2, i: 16, time: 0.050874993205070496}
+BST delete avg time: series 2, i: 16, time: 0.0051862079948186875}
+AVL delete total time: series 2, i: 17, time: 0.2142920047044754}
+AVL delete avg time: series 2, i: 17, time: 0.00015120799839496614}
+BST delete total time: series 2, i: 17, time: 0.0513329952955246}
+BST delete avg time: series 2, i: 17, time: 0.005226916998624802}
+AVL delete total time: series 2, i: 18, time: 0.21279199421405792}
+AVL delete avg time: series 2, i: 18, time: 0.00015616700053215028}
+BST delete total time: series 2, i: 18, time: 0.05112498998641968}
+BST delete avg time: series 2, i: 18, time: 0.005198958992958069}
+AVL delete total time: series 2, i: 19, time: 0.21479199826717377}
+AVL delete avg time: series 2, i: 19, time: 0.00015600000321865082}
+BST delete total time: series 2, i: 19, time: 0.05037499964237213}
+BST delete avg time: series 2, i: 19, time: 0.005054875001311302}
+TOTAL ELEMENTS: 
+8192
+AVL insertion time: series 3, i: 0, time: 2.6912920027971268}
+BST insertion time: series 3, i: 0, time: 0.6649999916553497}
+AVL insertion time: series 3, i: 1, time: 1.9879169911146164}
+BST insertion time: series 3, i: 1, time: 0.629832997918129}
+AVL insertion time: series 3, i: 2, time: 1.968625009059906}
+BST insertion time: series 3, i: 2, time: 0.6623339951038361}
+AVL insertion time: series 3, i: 3, time: 2.037875011563301}
+BST insertion time: series 3, i: 3, time: 0.7182919979095459}
+AVL insertion time: series 3, i: 4, time: 2.0741669982671738}
+BST insertion time: series 3, i: 4, time: 0.720332995057106}
+AVL insertion time: series 3, i: 5, time: 2.0417909920215607}
+BST insertion time: series 3, i: 5, time: 0.7272909879684448}
+AVL insertion time: series 3, i: 6, time: 2.043957993388176}
+BST insertion time: series 3, i: 6, time: 0.7354589998722076}
+AVL insertion time: series 3, i: 7, time: 1.9902909994125366}
+BST insertion time: series 3, i: 7, time: 0.6440410017967224}
+AVL insertion time: series 3, i: 8, time: 1.9671669900417328}
+BST insertion time: series 3, i: 8, time: 0.6657090038061142}
+AVL insertion time: series 3, i: 9, time: 2.055207997560501}
+BST insertion time: series 3, i: 9, time: 0.7181660085916519}
+AVL insertion time: series 3, i: 10, time: 2.009792000055313}
+BST insertion time: series 3, i: 10, time: 74.53691700100899}
+AVL insertion time: series 3, i: 11, time: 2.0171670019626617}
+BST insertion time: series 3, i: 11, time: 74.57345800101757}
+AVL insertion time: series 3, i: 12, time: 2.0180829912424088}
+BST insertion time: series 3, i: 12, time: 97.55041700601578}
+AVL insertion time: series 3, i: 13, time: 1.9789170026779175}
+BST insertion time: series 3, i: 13, time: 74.86745899915695}
+AVL insertion time: series 3, i: 14, time: 1.9292500019073486}
+BST insertion time: series 3, i: 14, time: 83.05333299934864}
+AVL insertion time: series 3, i: 15, time: 1.961333006620407}
+BST insertion time: series 3, i: 15, time: 74.60879199206829}
+AVL insertion time: series 3, i: 16, time: 1.9552090018987656}
+BST insertion time: series 3, i: 16, time: 76.23779200017452}
+AVL insertion time: series 3, i: 17, time: 2.0948330014944077}
+BST insertion time: series 3, i: 17, time: 101.23308300971985}
+AVL insertion time: series 3, i: 18, time: 1.928042009472847}
+BST insertion time: series 3, i: 18, time: 77.20979200303555}
+AVL insertion time: series 3, i: 19, time: 1.93995800614357}
+BST insertion time: series 3, i: 19, time: 76.60150000452995}
+AVL search total time: series 3, i: 0, time: 0.22425000369548798}
+AVL search avg time: series 3, i: 0, time: 0.00022425000369548798}
+BST search total time: series 3, i: 0, time: 0.17383301258087158}
+BST search avg time: series 3, i: 0, time: 0.0001738330125808716}
+AVL search total time: series 3, i: 1, time: 0.15245799720287323}
+AVL search avg time: series 3, i: 1, time: 0.00015245799720287322}
+BST search total time: series 3, i: 1, time: 0.1054999977350235}
+BST search avg time: series 3, i: 1, time: 0.0001054999977350235}
+AVL search total time: series 3, i: 2, time: 0.15212500095367432}
+AVL search avg time: series 3, i: 2, time: 0.0001521250009536743}
+BST search total time: series 3, i: 2, time: 0.1076669991016388}
+BST search avg time: series 3, i: 2, time: 0.00010766699910163879}
+AVL search total time: series 3, i: 3, time: 0.15424999594688416}
+AVL search avg time: series 3, i: 3, time: 0.00015424999594688415}
+BST search total time: series 3, i: 3, time: 0.1067499965429306}
+BST search avg time: series 3, i: 3, time: 0.0001067499965429306}
+AVL search total time: series 3, i: 4, time: 0.15600000321865082}
+AVL search avg time: series 3, i: 4, time: 0.00015600000321865082}
+BST search total time: series 3, i: 4, time: 0.11562499403953552}
+BST search avg time: series 3, i: 4, time: 0.00011562499403953553}
+AVL search total time: series 3, i: 5, time: 0.15608400106430054}
+AVL search avg time: series 3, i: 5, time: 0.00015608400106430055}
+BST search total time: series 3, i: 5, time: 0.10795800387859344}
+BST search avg time: series 3, i: 5, time: 0.00010795800387859345}
+AVL search total time: series 3, i: 6, time: 0.16016699373722076}
+AVL search avg time: series 3, i: 6, time: 0.00016016699373722076}
+BST search total time: series 3, i: 6, time: 0.1077909916639328}
+BST search avg time: series 3, i: 6, time: 0.0001077909916639328}
+AVL search total time: series 3, i: 7, time: 0.15570800006389618}
+AVL search avg time: series 3, i: 7, time: 0.0001557080000638962}
+BST search total time: series 3, i: 7, time: 0.10591699182987213}
+BST search avg time: series 3, i: 7, time: 0.00010591699182987213}
+AVL search total time: series 3, i: 8, time: 0.15324999392032623}
+AVL search avg time: series 3, i: 8, time: 0.00015324999392032625}
+BST search total time: series 3, i: 8, time: 0.11058300733566284}
+BST search avg time: series 3, i: 8, time: 0.00011058300733566285}
+AVL search total time: series 3, i: 9, time: 0.15641699731349945}
+AVL search avg time: series 3, i: 9, time: 0.00015641699731349946}
+BST search total time: series 3, i: 9, time: 0.10954199731349945}
+BST search avg time: series 3, i: 9, time: 0.00010954199731349944}
+AVL search total time: series 3, i: 10, time: 0.16716699302196503}
+AVL search avg time: series 3, i: 10, time: 0.00016716699302196504}
+BST search total time: series 3, i: 10, time: 10.219249993562698}
+BST search avg time: series 3, i: 10, time: 0.010219249993562699}
+AVL search total time: series 3, i: 11, time: 0.16474999487400055}
+AVL search avg time: series 3, i: 11, time: 0.00016474999487400054}
+BST search total time: series 3, i: 11, time: 10.4373330026865}
+BST search avg time: series 3, i: 11, time: 0.0104373330026865}
+AVL search total time: series 3, i: 12, time: 0.1655000001192093}
+AVL search avg time: series 3, i: 12, time: 0.0001655000001192093}
+BST search total time: series 3, i: 12, time: 10.796208992600441}
+BST search avg time: series 3, i: 12, time: 0.010796208992600441}
+AVL search total time: series 3, i: 13, time: 0.16258299350738525}
+AVL search avg time: series 3, i: 13, time: 0.00016258299350738526}
+BST search total time: series 3, i: 13, time: 10.663750007748604}
+BST search avg time: series 3, i: 13, time: 0.010663750007748603}
+AVL search total time: series 3, i: 14, time: 0.15995900332927704}
+AVL search avg time: series 3, i: 14, time: 0.00015995900332927703}
+BST search total time: series 3, i: 14, time: 10.854207992553711}
+BST search avg time: series 3, i: 14, time: 0.01085420799255371}
+AVL search total time: series 3, i: 15, time: 0.16474999487400055}
+AVL search avg time: series 3, i: 15, time: 0.00016474999487400054}
+BST search total time: series 3, i: 15, time: 10.700000002980232}
+BST search avg time: series 3, i: 15, time: 0.010700000002980232}
+AVL search total time: series 3, i: 16, time: 0.16212500631809235}
+AVL search avg time: series 3, i: 16, time: 0.00016212500631809234}
+BST search total time: series 3, i: 16, time: 10.792332991957664}
+BST search avg time: series 3, i: 16, time: 0.010792332991957665}
+AVL search total time: series 3, i: 17, time: 0.16079100966453552}
+AVL search avg time: series 3, i: 17, time: 0.00016079100966453553}
+BST search total time: series 3, i: 17, time: 11.22316698729992}
+BST search avg time: series 3, i: 17, time: 0.011223166987299919}
+AVL search total time: series 3, i: 18, time: 0.1762079894542694}
+AVL search avg time: series 3, i: 18, time: 0.00017620798945426942}
+BST search total time: series 3, i: 18, time: 10.770833000540733}
+BST search avg time: series 3, i: 18, time: 0.010770833000540733}
+AVL search total time: series 3, i: 19, time: 0.16404099762439728}
+AVL search avg time: series 3, i: 19, time: 0.00016404099762439727}
+BST search total time: series 3, i: 19, time: 10.453499987721443}
+BST search avg time: series 3, i: 19, time: 0.010453499987721443}
+AVL delete total time: series 3, i: 0, time: 0.583541989326477}
+AVL delete avg time: series 3, i: 0, time: 0.00022425000369548798}
+BST delete total time: series 3, i: 0, time: 0.26829199492931366}
+BST delete avg time: series 3, i: 0, time: 0.0001738330125808716}
+AVL delete total time: series 3, i: 1, time: 0.32625000178813934}
+AVL delete avg time: series 3, i: 1, time: 0.00015245799720287322}
+BST delete total time: series 3, i: 1, time: 0.10237500071525574}
+BST delete avg time: series 3, i: 1, time: 0.0001054999977350235}
+AVL delete total time: series 3, i: 2, time: 0.3207080066204071}
+AVL delete avg time: series 3, i: 2, time: 0.0001521250009536743}
+BST delete total time: series 3, i: 2, time: 0.10279099643230438}
+BST delete avg time: series 3, i: 2, time: 0.00010766699910163879}
+AVL delete total time: series 3, i: 3, time: 0.32250000536441803}
+AVL delete avg time: series 3, i: 3, time: 0.00015424999594688415}
+BST delete total time: series 3, i: 3, time: 0.10229100286960602}
+BST delete avg time: series 3, i: 3, time: 0.0001067499965429306}
+AVL delete total time: series 3, i: 4, time: 0.3255840092897415}
+AVL delete avg time: series 3, i: 4, time: 0.00015600000321865082}
+BST delete total time: series 3, i: 4, time: 0.10295800864696503}
+BST delete avg time: series 3, i: 4, time: 0.00011562499403953553}
+AVL delete total time: series 3, i: 5, time: 0.31870900094509125}
+AVL delete avg time: series 3, i: 5, time: 0.00015608400106430055}
+BST delete total time: series 3, i: 5, time: 0.10237500071525574}
+BST delete avg time: series 3, i: 5, time: 0.00010795800387859345}
+AVL delete total time: series 3, i: 6, time: 0.3194579929113388}
+AVL delete avg time: series 3, i: 6, time: 0.00016016699373722076}
+BST delete total time: series 3, i: 6, time: 0.10212500393390656}
+BST delete avg time: series 3, i: 6, time: 0.0001077909916639328}
+AVL delete total time: series 3, i: 7, time: 0.33329200744628906}
+AVL delete avg time: series 3, i: 7, time: 0.0001557080000638962}
+BST delete total time: series 3, i: 7, time: 0.10483299195766449}
+BST delete avg time: series 3, i: 7, time: 0.00010591699182987213}
+AVL delete total time: series 3, i: 8, time: 0.32441699504852295}
+AVL delete avg time: series 3, i: 8, time: 0.00015324999392032625}
+BST delete total time: series 3, i: 8, time: 0.10362499952316284}
+BST delete avg time: series 3, i: 8, time: 0.00011058300733566285}
+AVL delete total time: series 3, i: 9, time: 0.3176250010728836}
+AVL delete avg time: series 3, i: 9, time: 0.00015641699731349946}
+BST delete total time: series 3, i: 9, time: 0.1036670058965683}
+BST delete avg time: series 3, i: 9, time: 0.00010954199731349944}
+AVL delete total time: series 3, i: 10, time: 0.2245829999446869}
+AVL delete avg time: series 3, i: 10, time: 0.00016716699302196504}
+BST delete total time: series 3, i: 10, time: 0.047749996185302734}
+BST delete avg time: series 3, i: 10, time: 0.010219249993562699}
+AVL delete total time: series 3, i: 11, time: 0.22554200887680054}
+AVL delete avg time: series 3, i: 11, time: 0.00016474999487400054}
+BST delete total time: series 3, i: 11, time: 0.05004200339317322}
+BST delete avg time: series 3, i: 11, time: 0.0104373330026865}
+AVL delete total time: series 3, i: 12, time: 0.22574999928474426}
+AVL delete avg time: series 3, i: 12, time: 0.0001655000001192093}
+BST delete total time: series 3, i: 12, time: 0.05095799267292023}
+BST delete avg time: series 3, i: 12, time: 0.010796208992600441}
+AVL delete total time: series 3, i: 13, time: 0.22629199922084808}
+AVL delete avg time: series 3, i: 13, time: 0.00016258299350738526}
+BST delete total time: series 3, i: 13, time: 0.04779200255870819}
+BST delete avg time: series 3, i: 13, time: 0.010663750007748603}
+AVL delete total time: series 3, i: 14, time: 0.23033300042152405}
+AVL delete avg time: series 3, i: 14, time: 0.00015995900332927703}
+BST delete total time: series 3, i: 14, time: 0.0477910041809082}
+BST delete avg time: series 3, i: 14, time: 0.01085420799255371}
+AVL delete total time: series 3, i: 15, time: 0.22379198670387268}
+AVL delete avg time: series 3, i: 15, time: 0.00016474999487400054}
+BST delete total time: series 3, i: 15, time: 0.047916993498802185}
+BST delete avg time: series 3, i: 15, time: 0.010700000002980232}
+AVL delete total time: series 3, i: 16, time: 0.22704198956489563}
+AVL delete avg time: series 3, i: 16, time: 0.00016212500631809234}
+BST delete total time: series 3, i: 16, time: 0.047832995653152466}
+BST delete avg time: series 3, i: 16, time: 0.010792332991957665}
+AVL delete total time: series 3, i: 17, time: 0.2243340015411377}
+AVL delete avg time: series 3, i: 17, time: 0.00016079100966453553}
+BST delete total time: series 3, i: 17, time: 0.05004200339317322}
+BST delete avg time: series 3, i: 17, time: 0.011223166987299919}
+AVL delete total time: series 3, i: 18, time: 0.22679099440574646}
+AVL delete avg time: series 3, i: 18, time: 0.00017620798945426942}
+BST delete total time: series 3, i: 18, time: 0.0494999885559082}
+BST delete avg time: series 3, i: 18, time: 0.010770833000540733}
+AVL delete total time: series 3, i: 19, time: 0.22645799815654755}
+AVL delete avg time: series 3, i: 19, time: 0.00016404099762439727}
+BST delete total time: series 3, i: 19, time: 0.04770798981189728}
+BST delete avg time: series 3, i: 19, time: 0.010453499987721443}
