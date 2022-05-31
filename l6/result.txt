@@ -1,606 +1,1010 @@
 TOTAL ELEMENTS: 
 2048
-AVL insertion time: series 1, i: 0, time: 6.578499972820282}, IS_SORTED: false
-BST insertion time: series 1, i: 0, time: 3.035207986831665}, IS_SORTED: false
-AVL insertion time: series 1, i: 1, time: 3.3346670269966125}, IS_SORTED: false
-BST insertion time: series 1, i: 1, time: 1.0022499561309814}, IS_SORTED: false
-AVL insertion time: series 1, i: 2, time: 1.5705419778823853}, IS_SORTED: false
-BST insertion time: series 1, i: 2, time: 1.3697090148925781}, IS_SORTED: false
-AVL insertion time: series 1, i: 3, time: 1.8628750443458557}, IS_SORTED: false
-BST insertion time: series 1, i: 3, time: 0.7822500467300415}, IS_SORTED: false
-AVL insertion time: series 1, i: 4, time: 0.9055420160293579}, IS_SORTED: false
-BST insertion time: series 1, i: 4, time: 0.18275004625320435}, IS_SORTED: false
-AVL insertion time: series 1, i: 5, time: 0.5107499957084656}, IS_SORTED: false
-BST insertion time: series 1, i: 5, time: 0.37641704082489014}, IS_SORTED: false
-AVL insertion time: series 1, i: 6, time: 0.5127919912338257}, IS_SORTED: false
-BST insertion time: series 1, i: 6, time: 0.2615000009536743}, IS_SORTED: false
-AVL insertion time: series 1, i: 7, time: 1.1265000104904175}, IS_SORTED: false
-BST insertion time: series 1, i: 7, time: 0.24666595458984375}, IS_SORTED: false
-AVL insertion time: series 1, i: 8, time: 0.49654102325439453}, IS_SORTED: false
-BST insertion time: series 1, i: 8, time: 0.4521249532699585}, IS_SORTED: false
-AVL insertion time: series 1, i: 9, time: 1.1371660232543945}, IS_SORTED: false
-BST insertion time: series 1, i: 9, time: 0.24875003099441528}, IS_SORTED: false
-AVL insertion time: series 1, i: 10, time: 0.47345805168151855}, IS_SORTED: true
-BST insertion time: series 1, i: 10, time: 4.21337503194809}, IS_SORTED: true
-AVL insertion time: series 1, i: 11, time: 0.4886249899864197}, IS_SORTED: true
-BST insertion time: series 1, i: 11, time: 4.214667022228241}, IS_SORTED: true
-AVL insertion time: series 1, i: 12, time: 0.49983298778533936}, IS_SORTED: true
-BST insertion time: series 1, i: 12, time: 4.241500020027161}, IS_SORTED: true
-AVL insertion time: series 1, i: 13, time: 0.5043339729309082}, IS_SORTED: true
-BST insertion time: series 1, i: 13, time: 4.234749972820282}, IS_SORTED: true
-AVL insertion time: series 1, i: 14, time: 0.5069590210914612}, IS_SORTED: true
-BST insertion time: series 1, i: 14, time: 4.248165965080261}, IS_SORTED: true
-AVL insertion time: series 1, i: 15, time: 0.48079198598861694}, IS_SORTED: true
-BST insertion time: series 1, i: 15, time: 4.198665976524353}, IS_SORTED: true
-AVL insertion time: series 1, i: 16, time: 0.4801660180091858}, IS_SORTED: true
-BST insertion time: series 1, i: 16, time: 4.197666943073273}, IS_SORTED: true
-AVL insertion time: series 1, i: 17, time: 0.4799169898033142}, IS_SORTED: true
-BST insertion time: series 1, i: 17, time: 4.216084003448486}, IS_SORTED: true
-AVL insertion time: series 1, i: 18, time: 0.5154999494552612}, IS_SORTED: true
-BST insertion time: series 1, i: 18, time: 29.22095799446106}, IS_SORTED: true
-AVL insertion time: series 1, i: 19, time: 0.6607499718666077}, IS_SORTED: true
-BST insertion time: series 1, i: 19, time: 4.653499960899353}, IS_SORTED: true
-AVL search total time: series 1, i: 0, time: 0.8109579682350159}, IS_SORTED: false
-AVL search avg time: series 1, i: 0, time: 0.0008109579682350159}, IS_SORTED: false
-BST search total time: series 1, i: 0, time: 0.8698340058326721}, IS_SORTED: false
-BST search avg time: series 1, i: 0, time: 0.0008698340058326721}, IS_SORTED: false
-AVL search total time: series 1, i: 1, time: 0.4749169945716858}, IS_SORTED: false
-AVL search avg time: series 1, i: 1, time: 0.0004749169945716858}, IS_SORTED: false
-BST search total time: series 1, i: 1, time: 0.8812500238418579}, IS_SORTED: false
-BST search avg time: series 1, i: 1, time: 0.0008812500238418579}, IS_SORTED: false
-AVL search total time: series 1, i: 2, time: 0.7520419955253601}, IS_SORTED: false
-AVL search avg time: series 1, i: 2, time: 0.0007520419955253601}, IS_SORTED: false
-BST search total time: series 1, i: 2, time: 0.23670798540115356}, IS_SORTED: false
-BST search avg time: series 1, i: 2, time: 0.00023670798540115356}, IS_SORTED: false
-AVL search total time: series 1, i: 3, time: 0.21804100275039673}, IS_SORTED: false
-AVL search avg time: series 1, i: 3, time: 0.00021804100275039673}, IS_SORTED: false
-BST search total time: series 1, i: 3, time: 0.2266249656677246}, IS_SORTED: false
-BST search avg time: series 1, i: 3, time: 0.0002266249656677246}, IS_SORTED: false
-AVL search total time: series 1, i: 4, time: 0.19666701555252075}, IS_SORTED: false
-AVL search avg time: series 1, i: 4, time: 0.00019666701555252076}, IS_SORTED: false
-BST search total time: series 1, i: 4, time: 0.15545803308486938}, IS_SORTED: false
-BST search avg time: series 1, i: 4, time: 0.00015545803308486937}, IS_SORTED: false
-AVL search total time: series 1, i: 5, time: 0.15500003099441528}, IS_SORTED: false
-AVL search avg time: series 1, i: 5, time: 0.00015500003099441529}, IS_SORTED: false
-BST search total time: series 1, i: 5, time: 0.15349996089935303}, IS_SORTED: false
-BST search avg time: series 1, i: 5, time: 0.00015349996089935304}, IS_SORTED: false
-AVL search total time: series 1, i: 6, time: 0.15787500143051147}, IS_SORTED: false
-AVL search avg time: series 1, i: 6, time: 0.00015787500143051147}, IS_SORTED: false
-BST search total time: series 1, i: 6, time: 0.5020000338554382}, IS_SORTED: false
-BST search avg time: series 1, i: 6, time: 0.0005020000338554383}, IS_SORTED: false
-AVL search total time: series 1, i: 7, time: 0.21391701698303223}, IS_SORTED: false
-AVL search avg time: series 1, i: 7, time: 0.00021391701698303221}, IS_SORTED: false
-BST search total time: series 1, i: 7, time: 0.18904197216033936}, IS_SORTED: false
-BST search avg time: series 1, i: 7, time: 0.00018904197216033935}, IS_SORTED: false
-AVL search total time: series 1, i: 8, time: 0.13874995708465576}, IS_SORTED: false
-AVL search avg time: series 1, i: 8, time: 0.00013874995708465577}, IS_SORTED: false
-BST search total time: series 1, i: 8, time: 0.15358400344848633}, IS_SORTED: false
-BST search avg time: series 1, i: 8, time: 0.00015358400344848633}, IS_SORTED: false
-AVL search total time: series 1, i: 9, time: 0.22904199361801147}, IS_SORTED: false
-AVL search avg time: series 1, i: 9, time: 0.00022904199361801147}, IS_SORTED: false
-BST search total time: series 1, i: 9, time: 0.19787496328353882}, IS_SORTED: false
-BST search avg time: series 1, i: 9, time: 0.00019787496328353883}, IS_SORTED: false
-AVL search total time: series 1, i: 10, time: 0.15729200839996338}, IS_SORTED: true
-AVL search avg time: series 1, i: 10, time: 0.00015729200839996338}, IS_SORTED: true
-BST search total time: series 1, i: 10, time: 4.708999991416931}, IS_SORTED: true
-BST search avg time: series 1, i: 10, time: 0.004708999991416931}, IS_SORTED: true
-AVL search total time: series 1, i: 11, time: 0.15641701221466064}, IS_SORTED: true
-AVL search avg time: series 1, i: 11, time: 0.00015641701221466066}, IS_SORTED: true
-BST search total time: series 1, i: 11, time: 4.619834005832672}, IS_SORTED: true
-BST search avg time: series 1, i: 11, time: 0.004619834005832672}, IS_SORTED: true
-AVL search total time: series 1, i: 12, time: 0.15933305025100708}, IS_SORTED: true
-AVL search avg time: series 1, i: 12, time: 0.00015933305025100708}, IS_SORTED: true
-BST search total time: series 1, i: 12, time: 4.583750009536743}, IS_SORTED: true
-BST search avg time: series 1, i: 12, time: 0.004583750009536743}, IS_SORTED: true
-AVL search total time: series 1, i: 13, time: 0.16029196977615356}, IS_SORTED: true
-AVL search avg time: series 1, i: 13, time: 0.00016029196977615357}, IS_SORTED: true
-BST search total time: series 1, i: 13, time: 4.545750021934509}, IS_SORTED: true
-BST search avg time: series 1, i: 13, time: 0.004545750021934509}, IS_SORTED: true
-AVL search total time: series 1, i: 14, time: 0.16866600513458252}, IS_SORTED: true
-AVL search avg time: series 1, i: 14, time: 0.00016866600513458253}, IS_SORTED: true
-BST search total time: series 1, i: 14, time: 4.629791975021362}, IS_SORTED: true
-BST search avg time: series 1, i: 14, time: 0.0046297919750213625}, IS_SORTED: true
-AVL search total time: series 1, i: 15, time: 0.15724998712539673}, IS_SORTED: true
-AVL search avg time: series 1, i: 15, time: 0.00015724998712539673}, IS_SORTED: true
-BST search total time: series 1, i: 15, time: 4.732083022594452}, IS_SORTED: true
-BST search avg time: series 1, i: 15, time: 0.004732083022594452}, IS_SORTED: true
-AVL search total time: series 1, i: 16, time: 0.15704196691513062}, IS_SORTED: true
-AVL search avg time: series 1, i: 16, time: 0.0001570419669151306}, IS_SORTED: true
-BST search total time: series 1, i: 16, time: 4.635334014892578}, IS_SORTED: true
-BST search avg time: series 1, i: 16, time: 0.004635334014892578}, IS_SORTED: true
-AVL search total time: series 1, i: 17, time: 0.1559160351753235}, IS_SORTED: true
-AVL search avg time: series 1, i: 17, time: 0.00015591603517532349}, IS_SORTED: true
-BST search total time: series 1, i: 17, time: 4.645291984081268}, IS_SORTED: true
-BST search avg time: series 1, i: 17, time: 0.004645291984081268}, IS_SORTED: true
-AVL search total time: series 1, i: 18, time: 0.1629590392112732}, IS_SORTED: true
-AVL search avg time: series 1, i: 18, time: 0.00016295903921127318}, IS_SORTED: true
-BST search total time: series 1, i: 18, time: 4.0469160079956055}, IS_SORTED: true
-BST search avg time: series 1, i: 18, time: 0.004046916007995605}, IS_SORTED: true
-AVL search total time: series 1, i: 19, time: 0.358165979385376}, IS_SORTED: true
-AVL search avg time: series 1, i: 19, time: 0.000358165979385376}, IS_SORTED: true
-BST search total time: series 1, i: 19, time: 4.0825000405311584}, IS_SORTED: true
-BST search avg time: series 1, i: 19, time: 0.0040825000405311585}, IS_SORTED: true
-AVL delete total time: series 1, i: 0, time: 4.366041004657745}, IS_SORTED: false 
-AVL delete avg time: series 1, i: 0, time: 0.0008109579682350159}, IS_SORTED: false
-BST delete total time: series 1, i: 0, time: 1.0305419564247131}, IS_SORTED: false
-BST delete avg time: series 1, i: 0, time: 0.0008698340058326721}, IS_SORTED: false
-AVL delete total time: series 1, i: 1, time: 0.9050840139389038}, IS_SORTED: false 
-AVL delete avg time: series 1, i: 1, time: 0.0004749169945716858}, IS_SORTED: false
-BST delete total time: series 1, i: 1, time: 0.598708987236023}, IS_SORTED: false
-BST delete avg time: series 1, i: 1, time: 0.0008812500238418579}, IS_SORTED: false
-AVL delete total time: series 1, i: 2, time: 0.6947920322418213}, IS_SORTED: false 
-AVL delete avg time: series 1, i: 2, time: 0.0007520419955253601}, IS_SORTED: false
-BST delete total time: series 1, i: 2, time: 0.3138750195503235}, IS_SORTED: false
-BST delete avg time: series 1, i: 2, time: 0.00023670798540115356}, IS_SORTED: false
-AVL delete total time: series 1, i: 3, time: 0.8659169673919678}, IS_SORTED: false 
-AVL delete avg time: series 1, i: 3, time: 0.00021804100275039673}, IS_SORTED: false
-BST delete total time: series 1, i: 3, time: 0.3083750009536743}, IS_SORTED: false
-BST delete avg time: series 1, i: 3, time: 0.0002266249656677246}, IS_SORTED: false
-AVL delete total time: series 1, i: 4, time: 0.5825000405311584}, IS_SORTED: false 
-AVL delete avg time: series 1, i: 4, time: 0.00019666701555252076}, IS_SORTED: false
-BST delete total time: series 1, i: 4, time: 0.14116597175598145}, IS_SORTED: false
-BST delete avg time: series 1, i: 4, time: 0.00015545803308486937}, IS_SORTED: false
-AVL delete total time: series 1, i: 5, time: 0.281000018119812}, IS_SORTED: false 
-AVL delete avg time: series 1, i: 5, time: 0.00015500003099441529}, IS_SORTED: false
-BST delete total time: series 1, i: 5, time: 0.13854098320007324}, IS_SORTED: false
-BST delete avg time: series 1, i: 5, time: 0.00015349996089935304}, IS_SORTED: false
-AVL delete total time: series 1, i: 6, time: 1.4163749814033508}, IS_SORTED: false 
-AVL delete avg time: series 1, i: 6, time: 0.00015787500143051147}, IS_SORTED: false
-BST delete total time: series 1, i: 6, time: 1.8273749947547913}, IS_SORTED: false
-BST delete avg time: series 1, i: 6, time: 0.0005020000338554383}, IS_SORTED: false
-AVL delete total time: series 1, i: 7, time: 0.7920829653739929}, IS_SORTED: false 
-AVL delete avg time: series 1, i: 7, time: 0.00021391701698303221}, IS_SORTED: false
-BST delete total time: series 1, i: 7, time: 0.34495896100997925}, IS_SORTED: false
-BST delete avg time: series 1, i: 7, time: 0.00018904197216033935}, IS_SORTED: false
-AVL delete total time: series 1, i: 8, time: 0.23708301782608032}, IS_SORTED: false 
-AVL delete avg time: series 1, i: 8, time: 0.00013874995708465577}, IS_SORTED: false
-BST delete total time: series 1, i: 8, time: 0.36833298206329346}, IS_SORTED: false
-BST delete avg time: series 1, i: 8, time: 0.00015358400344848633}, IS_SORTED: false
-AVL delete total time: series 1, i: 9, time: 0.7994579672813416}, IS_SORTED: false 
-AVL delete avg time: series 1, i: 9, time: 0.00022904199361801147}, IS_SORTED: false
-BST delete total time: series 1, i: 9, time: 0.34708303213119507}, IS_SORTED: false
-BST delete avg time: series 1, i: 9, time: 0.00019787496328353883}, IS_SORTED: false
-AVL delete total time: series 1, i: 10, time: 0.17250001430511475}, IS_SORTED: true 
-AVL delete avg time: series 1, i: 10, time: 0.00015729200839996338}, IS_SORTED: true
-BST delete total time: series 1, i: 10, time: 0.07491600513458252}, IS_SORTED: true
-BST delete avg time: series 1, i: 10, time: 0.004708999991416931}, IS_SORTED: true
-AVL delete total time: series 1, i: 11, time: 0.17937499284744263}, IS_SORTED: true 
-AVL delete avg time: series 1, i: 11, time: 0.00015641701221466066}, IS_SORTED: true
-BST delete total time: series 1, i: 11, time: 0.07395797967910767}, IS_SORTED: true
-BST delete avg time: series 1, i: 11, time: 0.004619834005832672}, IS_SORTED: true
-AVL delete total time: series 1, i: 12, time: 0.17124998569488525}, IS_SORTED: true 
-AVL delete avg time: series 1, i: 12, time: 0.00015933305025100708}, IS_SORTED: true
-BST delete total time: series 1, i: 12, time: 0.0749579668045044}, IS_SORTED: true
-BST delete avg time: series 1, i: 12, time: 0.004583750009536743}, IS_SORTED: true
-AVL delete total time: series 1, i: 13, time: 0.17566698789596558}, IS_SORTED: true 
-AVL delete avg time: series 1, i: 13, time: 0.00016029196977615357}, IS_SORTED: true
-BST delete total time: series 1, i: 13, time: 0.07708299160003662}, IS_SORTED: true
-BST delete avg time: series 1, i: 13, time: 0.004545750021934509}, IS_SORTED: true
-AVL delete total time: series 1, i: 14, time: 0.17054098844528198}, IS_SORTED: true 
-AVL delete avg time: series 1, i: 14, time: 0.00016866600513458253}, IS_SORTED: true
-BST delete total time: series 1, i: 14, time: 0.07375001907348633}, IS_SORTED: true
-BST delete avg time: series 1, i: 14, time: 0.0046297919750213625}, IS_SORTED: true
-AVL delete total time: series 1, i: 15, time: 0.16979199647903442}, IS_SORTED: true 
-AVL delete avg time: series 1, i: 15, time: 0.00015724998712539673}, IS_SORTED: true
-BST delete total time: series 1, i: 15, time: 0.07304102182388306}, IS_SORTED: true
-BST delete avg time: series 1, i: 15, time: 0.004732083022594452}, IS_SORTED: true
-AVL delete total time: series 1, i: 16, time: 0.17250001430511475}, IS_SORTED: true 
-AVL delete avg time: series 1, i: 16, time: 0.0001570419669151306}, IS_SORTED: true
-BST delete total time: series 1, i: 16, time: 0.07337498664855957}, IS_SORTED: true
-BST delete avg time: series 1, i: 16, time: 0.004635334014892578}, IS_SORTED: true
-AVL delete total time: series 1, i: 17, time: 0.17787504196166992}, IS_SORTED: true 
-AVL delete avg time: series 1, i: 17, time: 0.00015591603517532349}, IS_SORTED: true
-BST delete total time: series 1, i: 17, time: 0.07420802116394043}, IS_SORTED: true
-BST delete avg time: series 1, i: 17, time: 0.004645291984081268}, IS_SORTED: true
-AVL delete total time: series 1, i: 18, time: 0.17166703939437866}, IS_SORTED: true 
-AVL delete avg time: series 1, i: 18, time: 0.00016295903921127318}, IS_SORTED: true
-BST delete total time: series 1, i: 18, time: 0.1425410509109497}, IS_SORTED: true
-BST delete avg time: series 1, i: 18, time: 0.004046916007995605}, IS_SORTED: true
-AVL delete total time: series 1, i: 19, time: 0.5144169926643372}, IS_SORTED: true 
-AVL delete avg time: series 1, i: 19, time: 0.000358165979385376}, IS_SORTED: true
-BST delete total time: series 1, i: 19, time: 0.20875000953674316}, IS_SORTED: true
-BST delete avg time: series 1, i: 19, time: 0.0040825000405311585}, IS_SORTED: true
+AVL insertion time: series 1, i: 0, time: 6.430792033672333}, IS_SORTED: false
+BST insertion time: series 1, i: 0, time: 1.557915985584259}, IS_SORTED: false
+AVL insertion time: series 1, i: 1, time: 4.924916982650757}, IS_SORTED: false
+BST insertion time: series 1, i: 1, time: 1.1701250076293945}, IS_SORTED: false
+AVL insertion time: series 1, i: 2, time: 1.0134999752044678}, IS_SORTED: false
+BST insertion time: series 1, i: 2, time: 0.28108400106430054}, IS_SORTED: false
+AVL insertion time: series 1, i: 3, time: 1.7719999551773071}, IS_SORTED: false
+BST insertion time: series 1, i: 3, time: 1.3834579586982727}, IS_SORTED: false
+AVL insertion time: series 1, i: 4, time: 0.8869590163230896}, IS_SORTED: false
+BST insertion time: series 1, i: 4, time: 0.17866605520248413}, IS_SORTED: false
+AVL insertion time: series 1, i: 5, time: 0.5307919979095459}, IS_SORTED: false
+BST insertion time: series 1, i: 5, time: 0.17570799589157104}, IS_SORTED: false
+AVL insertion time: series 1, i: 6, time: 0.5218749642372131}, IS_SORTED: false
+BST insertion time: series 1, i: 6, time: 0.7639589905738831}, IS_SORTED: false
+AVL insertion time: series 1, i: 7, time: 1.5905410051345825}, IS_SORTED: false
+BST insertion time: series 1, i: 7, time: 0.2427910566329956}, IS_SORTED: false
+AVL insertion time: series 1, i: 8, time: 1.0871249437332153}, IS_SORTED: false
+BST insertion time: series 1, i: 8, time: 0.2577499747276306}, IS_SORTED: false
+AVL insertion time: series 1, i: 9, time: 0.890874981880188}, IS_SORTED: false
+BST insertion time: series 1, i: 9, time: 0.5422499775886536}, IS_SORTED: false
+AVL insertion time: series 1, i: 10, time: 0.522957980632782}, IS_SORTED: true
+BST insertion time: series 1, i: 10, time: 4.218832969665527}, IS_SORTED: true
+AVL insertion time: series 1, i: 11, time: 0.5254589915275574}, IS_SORTED: true
+BST insertion time: series 1, i: 11, time: 4.238334000110626}, IS_SORTED: true
+AVL insertion time: series 1, i: 12, time: 0.5246250033378601}, IS_SORTED: true
+BST insertion time: series 1, i: 12, time: 4.5284170508384705}, IS_SORTED: true
+AVL insertion time: series 1, i: 13, time: 0.5454170107841492}, IS_SORTED: true
+BST insertion time: series 1, i: 13, time: 4.402583956718445}, IS_SORTED: true
+AVL insertion time: series 1, i: 14, time: 0.5259580016136169}, IS_SORTED: true
+BST insertion time: series 1, i: 14, time: 4.235957980155945}, IS_SORTED: true
+AVL insertion time: series 1, i: 15, time: 0.5644170045852661}, IS_SORTED: true
+BST insertion time: series 1, i: 15, time: 4.52099996805191}, IS_SORTED: true
+AVL insertion time: series 1, i: 16, time: 0.5671249628067017}, IS_SORTED: true
+BST insertion time: series 1, i: 16, time: 4.5603750348091125}, IS_SORTED: true
+AVL insertion time: series 1, i: 17, time: 0.5451670289039612}, IS_SORTED: true
+BST insertion time: series 1, i: 17, time: 4.47079199552536}, IS_SORTED: true
+AVL insertion time: series 1, i: 18, time: 0.5676659941673279}, IS_SORTED: true
+BST insertion time: series 1, i: 18, time: 33.75991702079773}, IS_SORTED: true
+AVL insertion time: series 1, i: 19, time: 0.7921670079231262}, IS_SORTED: true
+BST insertion time: series 1, i: 19, time: 4.844958961009979}, IS_SORTED: true
+AVL search total time: series 1, i: 0, time: 0.7873749732971191}, IS_SORTED: false
+AVL search avg time: series 1, i: 0, time: 0.0007873749732971191}, IS_SORTED: false
+BST search total time: series 1, i: 0, time: 1.1062080264091492}, IS_SORTED: false
+BST search avg time: series 1, i: 0, time: 0.0011062080264091492}, IS_SORTED: false
+AVL search total time: series 1, i: 1, time: 1.1061660051345825}, IS_SORTED: false
+AVL search avg time: series 1, i: 1, time: 0.0011061660051345824}, IS_SORTED: false
+BST search total time: series 1, i: 1, time: 1.0426250100135803}, IS_SORTED: false
+BST search avg time: series 1, i: 1, time: 0.0010426250100135804}, IS_SORTED: false
+AVL search total time: series 1, i: 2, time: 0.7437919974327087}, IS_SORTED: false
+AVL search avg time: series 1, i: 2, time: 0.0007437919974327087}, IS_SORTED: false
+BST search total time: series 1, i: 2, time: 0.18554097414016724}, IS_SORTED: false
+BST search avg time: series 1, i: 2, time: 0.00018554097414016723}, IS_SORTED: false
+AVL search total time: series 1, i: 3, time: 0.2337079644203186}, IS_SORTED: false
+AVL search avg time: series 1, i: 3, time: 0.0002337079644203186}, IS_SORTED: false
+BST search total time: series 1, i: 3, time: 0.2141660451889038}, IS_SORTED: false
+BST search avg time: series 1, i: 3, time: 0.00021416604518890382}, IS_SORTED: false
+AVL search total time: series 1, i: 4, time: 0.1697080135345459}, IS_SORTED: false
+AVL search avg time: series 1, i: 4, time: 0.0001697080135345459}, IS_SORTED: false
+BST search total time: series 1, i: 4, time: 0.12366700172424316}, IS_SORTED: false
+BST search avg time: series 1, i: 4, time: 0.00012366700172424316}, IS_SORTED: false
+AVL search total time: series 1, i: 5, time: 0.13829201459884644}, IS_SORTED: false
+AVL search avg time: series 1, i: 5, time: 0.00013829201459884645}, IS_SORTED: false
+BST search total time: series 1, i: 5, time: 0.12812501192092896}, IS_SORTED: false
+BST search avg time: series 1, i: 5, time: 0.00012812501192092896}, IS_SORTED: false
+AVL search total time: series 1, i: 6, time: 0.13529199361801147}, IS_SORTED: false
+AVL search avg time: series 1, i: 6, time: 0.00013529199361801147}, IS_SORTED: false
+BST search total time: series 1, i: 6, time: 0.25662505626678467}, IS_SORTED: false
+BST search avg time: series 1, i: 6, time: 0.00025662505626678465}, IS_SORTED: false
+AVL search total time: series 1, i: 7, time: 0.21216696500778198}, IS_SORTED: false
+AVL search avg time: series 1, i: 7, time: 0.00021216696500778198}, IS_SORTED: false
+BST search total time: series 1, i: 7, time: 0.18433302640914917}, IS_SORTED: false
+BST search avg time: series 1, i: 7, time: 0.00018433302640914916}, IS_SORTED: false
+AVL search total time: series 1, i: 8, time: 0.20549994707107544}, IS_SORTED: false
+AVL search avg time: series 1, i: 8, time: 0.00020549994707107545}, IS_SORTED: false
+BST search total time: series 1, i: 8, time: 0.18295800685882568}, IS_SORTED: false
+BST search avg time: series 1, i: 8, time: 0.00018295800685882567}, IS_SORTED: false
+AVL search total time: series 1, i: 9, time: 0.2074580192565918}, IS_SORTED: false
+AVL search avg time: series 1, i: 9, time: 0.0002074580192565918}, IS_SORTED: false
+BST search total time: series 1, i: 9, time: 0.1941249966621399}, IS_SORTED: false
+BST search avg time: series 1, i: 9, time: 0.0001941249966621399}, IS_SORTED: false
+AVL search total time: series 1, i: 10, time: 0.13741600513458252}, IS_SORTED: true
+AVL search avg time: series 1, i: 10, time: 0.00013741600513458252}, IS_SORTED: true
+BST search total time: series 1, i: 10, time: 2.6954169869422913}, IS_SORTED: true
+BST search avg time: series 1, i: 10, time: 0.0026954169869422913}, IS_SORTED: true
+AVL search total time: series 1, i: 11, time: 0.1380409598350525}, IS_SORTED: true
+AVL search avg time: series 1, i: 11, time: 0.0001380409598350525}, IS_SORTED: true
+BST search total time: series 1, i: 11, time: 2.6784170269966125}, IS_SORTED: true
+BST search avg time: series 1, i: 11, time: 0.0026784170269966126}, IS_SORTED: true
+AVL search total time: series 1, i: 12, time: 0.13783299922943115}, IS_SORTED: true
+AVL search avg time: series 1, i: 12, time: 0.00013783299922943116}, IS_SORTED: true
+BST search total time: series 1, i: 12, time: 2.7694169878959656}, IS_SORTED: true
+BST search avg time: series 1, i: 12, time: 0.002769416987895966}, IS_SORTED: true
+AVL search total time: series 1, i: 13, time: 0.14079201221466064}, IS_SORTED: true
+AVL search avg time: series 1, i: 13, time: 0.00014079201221466064}, IS_SORTED: true
+BST search total time: series 1, i: 13, time: 2.6427090167999268}, IS_SORTED: true
+BST search avg time: series 1, i: 13, time: 0.002642709016799927}, IS_SORTED: true
+AVL search total time: series 1, i: 14, time: 0.1441659927368164}, IS_SORTED: true
+AVL search avg time: series 1, i: 14, time: 0.00014416599273681642}, IS_SORTED: true
+BST search total time: series 1, i: 14, time: 2.9217910170555115}, IS_SORTED: true
+BST search avg time: series 1, i: 14, time: 0.0029217910170555115}, IS_SORTED: true
+AVL search total time: series 1, i: 15, time: 0.15733301639556885}, IS_SORTED: true
+AVL search avg time: series 1, i: 15, time: 0.00015733301639556886}, IS_SORTED: true
+BST search total time: series 1, i: 15, time: 2.869374990463257}, IS_SORTED: true
+BST search avg time: series 1, i: 15, time: 0.002869374990463257}, IS_SORTED: true
+AVL search total time: series 1, i: 16, time: 0.1492919921875}, IS_SORTED: true
+AVL search avg time: series 1, i: 16, time: 0.0001492919921875}, IS_SORTED: true
+BST search total time: series 1, i: 16, time: 2.830999970436096}, IS_SORTED: true
+BST search avg time: series 1, i: 16, time: 0.0028309999704360963}, IS_SORTED: true
+AVL search total time: series 1, i: 17, time: 0.1468750238418579}, IS_SORTED: true
+AVL search avg time: series 1, i: 17, time: 0.0001468750238418579}, IS_SORTED: true
+BST search total time: series 1, i: 17, time: 2.668874979019165}, IS_SORTED: true
+BST search avg time: series 1, i: 17, time: 0.002668874979019165}, IS_SORTED: true
+AVL search total time: series 1, i: 18, time: 0.1594579815864563}, IS_SORTED: true
+AVL search avg time: series 1, i: 18, time: 0.0001594579815864563}, IS_SORTED: true
+BST search total time: series 1, i: 18, time: 4.3264999985694885}, IS_SORTED: true
+BST search avg time: series 1, i: 18, time: 0.0043264999985694885}, IS_SORTED: true
+AVL search total time: series 1, i: 19, time: 0.5020840167999268}, IS_SORTED: true
+AVL search avg time: series 1, i: 19, time: 0.0005020840167999268}, IS_SORTED: true
+BST search total time: series 1, i: 19, time: 5.5}, IS_SORTED: true
+BST search avg time: series 1, i: 19, time: 0.0055}, IS_SORTED: true
+AVL delete total time: series 1, i: 0, time: 3.19854199886322}, IS_SORTED: false 
+AVL delete avg time: series 1, i: 0, time: 0.0007873749732971191}, IS_SORTED: false
+BST delete total time: series 1, i: 0, time: 0.8498330116271973}, IS_SORTED: false
+BST delete avg time: series 1, i: 0, time: 0.0011062080264091492}, IS_SORTED: false
+AVL delete total time: series 1, i: 1, time: 0.8190410137176514}, IS_SORTED: false 
+AVL delete avg time: series 1, i: 1, time: 0.0011061660051345824}, IS_SORTED: false
+BST delete total time: series 1, i: 1, time: 1.4074580073356628}, IS_SORTED: false
+BST delete avg time: series 1, i: 1, time: 0.0010426250100135804}, IS_SORTED: false
+AVL delete total time: series 1, i: 2, time: 0.6165419816970825}, IS_SORTED: false 
+AVL delete avg time: series 1, i: 2, time: 0.0007437919974327087}, IS_SORTED: false
+BST delete total time: series 1, i: 2, time: 0.2419169545173645}, IS_SORTED: false
+BST delete avg time: series 1, i: 2, time: 0.00018554097414016723}, IS_SORTED: false
+AVL delete total time: series 1, i: 3, time: 0.9897500276565552}, IS_SORTED: false 
+AVL delete avg time: series 1, i: 3, time: 0.0002337079644203186}, IS_SORTED: false
+BST delete total time: series 1, i: 3, time: 0.2425839900970459}, IS_SORTED: false
+BST delete avg time: series 1, i: 3, time: 0.00021416604518890382}, IS_SORTED: false
+AVL delete total time: series 1, i: 4, time: 0.46720802783966064}, IS_SORTED: false 
+AVL delete avg time: series 1, i: 4, time: 0.0001697080135345459}, IS_SORTED: false
+BST delete total time: series 1, i: 4, time: 0.15424996614456177}, IS_SORTED: false
+BST delete avg time: series 1, i: 4, time: 0.00012366700172424316}, IS_SORTED: false
+AVL delete total time: series 1, i: 5, time: 0.3103330135345459}, IS_SORTED: false 
+AVL delete avg time: series 1, i: 5, time: 0.00013829201459884645}, IS_SORTED: false
+BST delete total time: series 1, i: 5, time: 0.15516597032546997}, IS_SORTED: false
+BST delete avg time: series 1, i: 5, time: 0.00012812501192092896}, IS_SORTED: false
+AVL delete total time: series 1, i: 6, time: 1.297124981880188}, IS_SORTED: false 
+AVL delete avg time: series 1, i: 6, time: 0.00013529199361801147}, IS_SORTED: false
+BST delete total time: series 1, i: 6, time: 0.4852910041809082}, IS_SORTED: false
+BST delete avg time: series 1, i: 6, time: 0.00025662505626678465}, IS_SORTED: false
+AVL delete total time: series 1, i: 7, time: 0.5702080130577087}, IS_SORTED: false 
+AVL delete avg time: series 1, i: 7, time: 0.00021216696500778198}, IS_SORTED: false
+BST delete total time: series 1, i: 7, time: 0.2695000171661377}, IS_SORTED: false
+BST delete avg time: series 1, i: 7, time: 0.00018433302640914916}, IS_SORTED: false
+AVL delete total time: series 1, i: 8, time: 0.5652499794960022}, IS_SORTED: false 
+AVL delete avg time: series 1, i: 8, time: 0.00020549994707107545}, IS_SORTED: false
+BST delete total time: series 1, i: 8, time: 0.96983402967453}, IS_SORTED: false
+BST delete avg time: series 1, i: 8, time: 0.00018295800685882567}, IS_SORTED: false
+AVL delete total time: series 1, i: 9, time: 0.5668339729309082}, IS_SORTED: false 
+AVL delete avg time: series 1, i: 9, time: 0.0002074580192565918}, IS_SORTED: false
+BST delete total time: series 1, i: 9, time: 0.12395799160003662}, IS_SORTED: false
+BST delete avg time: series 1, i: 9, time: 0.0001941249966621399}, IS_SORTED: false
+AVL delete total time: series 1, i: 10, time: 0.1828330159187317}, IS_SORTED: true 
+AVL delete avg time: series 1, i: 10, time: 0.00013741600513458252}, IS_SORTED: true
+BST delete total time: series 1, i: 10, time: 0.07845801115036011}, IS_SORTED: true
+BST delete avg time: series 1, i: 10, time: 0.0026954169869422913}, IS_SORTED: true
+AVL delete total time: series 1, i: 11, time: 0.18183296918869019}, IS_SORTED: true 
+AVL delete avg time: series 1, i: 11, time: 0.0001380409598350525}, IS_SORTED: true
+BST delete total time: series 1, i: 11, time: 0.07808303833007812}, IS_SORTED: true
+BST delete avg time: series 1, i: 11, time: 0.0026784170269966126}, IS_SORTED: true
+AVL delete total time: series 1, i: 12, time: 0.18791598081588745}, IS_SORTED: true 
+AVL delete avg time: series 1, i: 12, time: 0.00013783299922943116}, IS_SORTED: true
+BST delete total time: series 1, i: 12, time: 0.07758301496505737}, IS_SORTED: true
+BST delete avg time: series 1, i: 12, time: 0.002769416987895966}, IS_SORTED: true
+AVL delete total time: series 1, i: 13, time: 0.18412500619888306}, IS_SORTED: true 
+AVL delete avg time: series 1, i: 13, time: 0.00014079201221466064}, IS_SORTED: true
+BST delete total time: series 1, i: 13, time: 0.08395802974700928}, IS_SORTED: true
+BST delete avg time: series 1, i: 13, time: 0.002642709016799927}, IS_SORTED: true
+AVL delete total time: series 1, i: 14, time: 0.1886250376701355}, IS_SORTED: true 
+AVL delete avg time: series 1, i: 14, time: 0.00014416599273681642}, IS_SORTED: true
+BST delete total time: series 1, i: 14, time: 0.10175001621246338}, IS_SORTED: true
+BST delete avg time: series 1, i: 14, time: 0.0029217910170555115}, IS_SORTED: true
+AVL delete total time: series 1, i: 15, time: 0.2059590220451355}, IS_SORTED: true 
+AVL delete avg time: series 1, i: 15, time: 0.00015733301639556886}, IS_SORTED: true
+BST delete total time: series 1, i: 15, time: 0.08845800161361694}, IS_SORTED: true
+BST delete avg time: series 1, i: 15, time: 0.002869374990463257}, IS_SORTED: true
+AVL delete total time: series 1, i: 16, time: 0.19879096746444702}, IS_SORTED: true 
+AVL delete avg time: series 1, i: 16, time: 0.0001492919921875}, IS_SORTED: true
+BST delete total time: series 1, i: 16, time: 0.08312499523162842}, IS_SORTED: true
+BST delete avg time: series 1, i: 16, time: 0.0028309999704360963}, IS_SORTED: true
+AVL delete total time: series 1, i: 17, time: 0.1922919750213623}, IS_SORTED: true 
+AVL delete avg time: series 1, i: 17, time: 0.0001468750238418579}, IS_SORTED: true
+BST delete total time: series 1, i: 17, time: 0.092166006565094}, IS_SORTED: true
+BST delete avg time: series 1, i: 17, time: 0.002668874979019165}, IS_SORTED: true
+AVL delete total time: series 1, i: 18, time: 0.18950003385543823}, IS_SORTED: true 
+AVL delete avg time: series 1, i: 18, time: 0.0001594579815864563}, IS_SORTED: true
+BST delete total time: series 1, i: 18, time: 0.13841700553894043}, IS_SORTED: true
+BST delete avg time: series 1, i: 18, time: 0.0043264999985694885}, IS_SORTED: true
+AVL delete total time: series 1, i: 19, time: 0.47783297300338745}, IS_SORTED: true 
+AVL delete avg time: series 1, i: 19, time: 0.0005020840167999268}, IS_SORTED: true
+BST delete total time: series 1, i: 19, time: 0.16437500715255737}, IS_SORTED: true
+BST delete avg time: series 1, i: 19, time: 0.0055}, IS_SORTED: true
 TOTAL ELEMENTS: 
 4096
-AVL insertion time: series 2, i: 0, time: 1.769333004951477}, IS_SORTED: false
-BST insertion time: series 2, i: 0, time: 0.4542499780654907}, IS_SORTED: false
-AVL insertion time: series 2, i: 1, time: 1.0768340229988098}, IS_SORTED: false
-BST insertion time: series 2, i: 1, time: 0.37862497568130493}, IS_SORTED: false
-AVL insertion time: series 2, i: 2, time: 1.0862500071525574}, IS_SORTED: false
-BST insertion time: series 2, i: 2, time: 0.3944169878959656}, IS_SORTED: false
-AVL insertion time: series 2, i: 3, time: 1.2904160022735596}, IS_SORTED: false
-BST insertion time: series 2, i: 3, time: 0.37895798683166504}, IS_SORTED: false
-AVL insertion time: series 2, i: 4, time: 1.0699999928474426}, IS_SORTED: false
-BST insertion time: series 2, i: 4, time: 0.3821669816970825}, IS_SORTED: false
-AVL insertion time: series 2, i: 5, time: 1.0695409774780273}, IS_SORTED: false
-BST insertion time: series 2, i: 5, time: 0.37929201126098633}, IS_SORTED: false
-AVL insertion time: series 2, i: 6, time: 1.1273339986801147}, IS_SORTED: false
-BST insertion time: series 2, i: 6, time: 0.577750027179718}, IS_SORTED: false
-AVL insertion time: series 2, i: 7, time: 1.085207998752594}, IS_SORTED: false
-BST insertion time: series 2, i: 7, time: 0.37583404779434204}, IS_SORTED: false
-AVL insertion time: series 2, i: 8, time: 1.0757499933242798}, IS_SORTED: false
-BST insertion time: series 2, i: 8, time: 0.37975001335144043}, IS_SORTED: false
-AVL insertion time: series 2, i: 9, time: 1.0694999694824219}, IS_SORTED: false
-BST insertion time: series 2, i: 9, time: 0.6830000281333923}, IS_SORTED: false
-AVL insertion time: series 2, i: 10, time: 1.0708749890327454}, IS_SORTED: true
-BST insertion time: series 2, i: 10, time: 16.922917008399963}, IS_SORTED: true
-AVL insertion time: series 2, i: 11, time: 1.0697499513626099}, IS_SORTED: true
-BST insertion time: series 2, i: 11, time: 17.783167004585266}, IS_SORTED: true
-AVL insertion time: series 2, i: 12, time: 1.0706250071525574}, IS_SORTED: true
-BST insertion time: series 2, i: 12, time: 18.440708994865417}, IS_SORTED: true
-AVL insertion time: series 2, i: 13, time: 1.0516249537467957}, IS_SORTED: true
-BST insertion time: series 2, i: 13, time: 18.79079097509384}, IS_SORTED: true
-AVL insertion time: series 2, i: 14, time: 0.6919170022010803}, IS_SORTED: true
-BST insertion time: series 2, i: 14, time: 18.84975004196167}, IS_SORTED: true
-AVL insertion time: series 2, i: 15, time: 0.7167080044746399}, IS_SORTED: true
-BST insertion time: series 2, i: 15, time: 20.427040994167328}, IS_SORTED: true
-AVL insertion time: series 2, i: 16, time: 0.7170420289039612}, IS_SORTED: true
-BST insertion time: series 2, i: 16, time: 19.467791974544525}, IS_SORTED: true
-AVL insertion time: series 2, i: 17, time: 0.7094590067863464}, IS_SORTED: true
-BST insertion time: series 2, i: 17, time: 18.59512495994568}, IS_SORTED: true
-AVL insertion time: series 2, i: 18, time: 0.7162500023841858}, IS_SORTED: true
-BST insertion time: series 2, i: 18, time: 18.491583049297333}, IS_SORTED: true
-AVL insertion time: series 2, i: 19, time: 0.7144579887390137}, IS_SORTED: true
-BST insertion time: series 2, i: 19, time: 18.88733398914337}, IS_SORTED: true
-AVL search total time: series 2, i: 0, time: 0.19983303546905518}, IS_SORTED: false
-AVL search avg time: series 2, i: 0, time: 0.00019983303546905517}, IS_SORTED: false
-BST search total time: series 2, i: 0, time: 0.2114580273628235}, IS_SORTED: false
-BST search avg time: series 2, i: 0, time: 0.0002114580273628235}, IS_SORTED: false
-AVL search total time: series 2, i: 1, time: 0.16195803880691528}, IS_SORTED: false
-AVL search avg time: series 2, i: 1, time: 0.00016195803880691528}, IS_SORTED: false
-BST search total time: series 2, i: 1, time: 0.16904199123382568}, IS_SORTED: false
-BST search avg time: series 2, i: 1, time: 0.0001690419912338257}, IS_SORTED: false
-AVL search total time: series 2, i: 2, time: 0.16558396816253662}, IS_SORTED: false
-AVL search avg time: series 2, i: 2, time: 0.00016558396816253662}, IS_SORTED: false
-BST search total time: series 2, i: 2, time: 0.1737079620361328}, IS_SORTED: false
-BST search avg time: series 2, i: 2, time: 0.0001737079620361328}, IS_SORTED: false
-AVL search total time: series 2, i: 3, time: 0.16279202699661255}, IS_SORTED: false
-AVL search avg time: series 2, i: 3, time: 0.00016279202699661256}, IS_SORTED: false
-BST search total time: series 2, i: 3, time: 0.16975003480911255}, IS_SORTED: false
-BST search avg time: series 2, i: 3, time: 0.00016975003480911255}, IS_SORTED: false
-AVL search total time: series 2, i: 4, time: 0.1637919545173645}, IS_SORTED: false
-AVL search avg time: series 2, i: 4, time: 0.0001637919545173645}, IS_SORTED: false
-BST search total time: series 2, i: 4, time: 0.16608399152755737}, IS_SORTED: false
-BST search avg time: series 2, i: 4, time: 0.00016608399152755738}, IS_SORTED: false
-AVL search total time: series 2, i: 5, time: 0.16116702556610107}, IS_SORTED: false
-AVL search avg time: series 2, i: 5, time: 0.00016116702556610109}, IS_SORTED: false
-BST search total time: series 2, i: 5, time: 0.1782500147819519}, IS_SORTED: false
-BST search avg time: series 2, i: 5, time: 0.00017825001478195192}, IS_SORTED: false
-AVL search total time: series 2, i: 6, time: 0.16816699504852295}, IS_SORTED: false
-AVL search avg time: series 2, i: 6, time: 0.00016816699504852294}, IS_SORTED: false
-BST search total time: series 2, i: 6, time: 0.16679197549819946}, IS_SORTED: false
-BST search avg time: series 2, i: 6, time: 0.00016679197549819945}, IS_SORTED: false
-AVL search total time: series 2, i: 7, time: 0.1616249680519104}, IS_SORTED: false
-AVL search avg time: series 2, i: 7, time: 0.0001616249680519104}, IS_SORTED: false
-BST search total time: series 2, i: 7, time: 0.16825002431869507}, IS_SORTED: false
-BST search avg time: series 2, i: 7, time: 0.00016825002431869506}, IS_SORTED: false
-AVL search total time: series 2, i: 8, time: 0.1625000238418579}, IS_SORTED: false
-AVL search avg time: series 2, i: 8, time: 0.0001625000238418579}, IS_SORTED: false
-BST search total time: series 2, i: 8, time: 0.16825002431869507}, IS_SORTED: false
-BST search avg time: series 2, i: 8, time: 0.00016825002431869506}, IS_SORTED: false
-AVL search total time: series 2, i: 9, time: 0.1624169945716858}, IS_SORTED: false
-AVL search avg time: series 2, i: 9, time: 0.0001624169945716858}, IS_SORTED: false
-BST search total time: series 2, i: 9, time: 0.1693750023841858}, IS_SORTED: false
-BST search avg time: series 2, i: 9, time: 0.0001693750023841858}, IS_SORTED: false
-AVL search total time: series 2, i: 10, time: 0.16929197311401367}, IS_SORTED: true
-AVL search avg time: series 2, i: 10, time: 0.00016929197311401367}, IS_SORTED: true
-BST search total time: series 2, i: 10, time: 8.946874976158142}, IS_SORTED: true
-BST search avg time: series 2, i: 10, time: 0.008946874976158143}, IS_SORTED: true
-AVL search total time: series 2, i: 11, time: 0.16575002670288086}, IS_SORTED: true
-AVL search avg time: series 2, i: 11, time: 0.00016575002670288086}, IS_SORTED: true
-BST search total time: series 2, i: 11, time: 9.13404095172882}, IS_SORTED: true
-BST search avg time: series 2, i: 11, time: 0.00913404095172882}, IS_SORTED: true
-AVL search total time: series 2, i: 12, time: 0.16704100370407104}, IS_SORTED: true
-AVL search avg time: series 2, i: 12, time: 0.00016704100370407106}, IS_SORTED: true
-BST search total time: series 2, i: 12, time: 8.850666999816895}, IS_SORTED: true
-BST search avg time: series 2, i: 12, time: 0.008850666999816894}, IS_SORTED: true
-AVL search total time: series 2, i: 13, time: 0.2872500419616699}, IS_SORTED: true
-AVL search avg time: series 2, i: 13, time: 0.00028725004196166994}, IS_SORTED: true
-BST search total time: series 2, i: 13, time: 9.770874977111816}, IS_SORTED: true
-BST search avg time: series 2, i: 13, time: 0.009770874977111816}, IS_SORTED: true
-AVL search total time: series 2, i: 14, time: 0.11920803785324097}, IS_SORTED: true
-AVL search avg time: series 2, i: 14, time: 0.00011920803785324097}, IS_SORTED: true
-BST search total time: series 2, i: 14, time: 9.9356250166893}, IS_SORTED: true
-BST search avg time: series 2, i: 14, time: 0.009935625016689301}, IS_SORTED: true
-AVL search total time: series 2, i: 15, time: 0.12479203939437866}, IS_SORTED: true
-AVL search avg time: series 2, i: 15, time: 0.00012479203939437866}, IS_SORTED: true
-BST search total time: series 2, i: 15, time: 9.861124992370605}, IS_SORTED: true
-BST search avg time: series 2, i: 15, time: 0.009861124992370605}, IS_SORTED: true
-AVL search total time: series 2, i: 16, time: 0.12054097652435303}, IS_SORTED: true
-AVL search avg time: series 2, i: 16, time: 0.00012054097652435303}, IS_SORTED: true
-BST search total time: series 2, i: 16, time: 9.377166986465454}, IS_SORTED: true
-BST search avg time: series 2, i: 16, time: 0.009377166986465454}, IS_SORTED: true
-AVL search total time: series 2, i: 17, time: 0.12041699886322021}, IS_SORTED: true
-AVL search avg time: series 2, i: 17, time: 0.00012041699886322021}, IS_SORTED: true
-BST search total time: series 2, i: 17, time: 9.550832986831665}, IS_SORTED: true
-BST search avg time: series 2, i: 17, time: 0.009550832986831665}, IS_SORTED: true
-AVL search total time: series 2, i: 18, time: 0.12087500095367432}, IS_SORTED: true
-AVL search avg time: series 2, i: 18, time: 0.00012087500095367431}, IS_SORTED: true
-BST search total time: series 2, i: 18, time: 9.530000030994415}, IS_SORTED: true
-BST search avg time: series 2, i: 18, time: 0.009530000030994416}, IS_SORTED: true
-AVL search total time: series 2, i: 19, time: 0.11945796012878418}, IS_SORTED: true
-AVL search avg time: series 2, i: 19, time: 0.00011945796012878418}, IS_SORTED: true
-BST search total time: series 2, i: 19, time: 9.855624973773956}, IS_SORTED: true
-BST search avg time: series 2, i: 19, time: 0.009855624973773956}, IS_SORTED: true
-AVL delete total time: series 2, i: 0, time: 0.8262079954147339}, IS_SORTED: false 
-AVL delete avg time: series 2, i: 0, time: 0.00019983303546905517}, IS_SORTED: false
-BST delete total time: series 2, i: 0, time: 0.3736249804496765}, IS_SORTED: false
-BST delete avg time: series 2, i: 0, time: 0.0002114580273628235}, IS_SORTED: false
-AVL delete total time: series 2, i: 1, time: 0.2607089877128601}, IS_SORTED: false 
-AVL delete avg time: series 2, i: 1, time: 0.00016195803880691528}, IS_SORTED: false
-BST delete total time: series 2, i: 1, time: 0.11662501096725464}, IS_SORTED: false
-BST delete avg time: series 2, i: 1, time: 0.0001690419912338257}, IS_SORTED: false
-AVL delete total time: series 2, i: 2, time: 0.2601670026779175}, IS_SORTED: false 
-AVL delete avg time: series 2, i: 2, time: 0.00016558396816253662}, IS_SORTED: false
-BST delete total time: series 2, i: 2, time: 0.11970800161361694}, IS_SORTED: false
-BST delete avg time: series 2, i: 2, time: 0.0001737079620361328}, IS_SORTED: false
-AVL delete total time: series 2, i: 3, time: 0.2578750252723694}, IS_SORTED: false 
-AVL delete avg time: series 2, i: 3, time: 0.00016279202699661256}, IS_SORTED: false
-BST delete total time: series 2, i: 3, time: 0.11658298969268799}, IS_SORTED: false
-BST delete avg time: series 2, i: 3, time: 0.00016975003480911255}, IS_SORTED: false
-AVL delete total time: series 2, i: 4, time: 0.25462496280670166}, IS_SORTED: false 
-AVL delete avg time: series 2, i: 4, time: 0.0001637919545173645}, IS_SORTED: false
-BST delete total time: series 2, i: 4, time: 0.11766701936721802}, IS_SORTED: false
-BST delete avg time: series 2, i: 4, time: 0.00016608399152755738}, IS_SORTED: false
-AVL delete total time: series 2, i: 5, time: 0.2548329830169678}, IS_SORTED: false 
-AVL delete avg time: series 2, i: 5, time: 0.00016116702556610109}, IS_SORTED: false
-BST delete total time: series 2, i: 5, time: 0.11729198694229126}, IS_SORTED: false
-BST delete avg time: series 2, i: 5, time: 0.00017825001478195192}, IS_SORTED: false
-AVL delete total time: series 2, i: 6, time: 0.2528749704360962}, IS_SORTED: false 
-AVL delete avg time: series 2, i: 6, time: 0.00016816699504852294}, IS_SORTED: false
-BST delete total time: series 2, i: 6, time: 0.11762499809265137}, IS_SORTED: false
-BST delete avg time: series 2, i: 6, time: 0.00016679197549819945}, IS_SORTED: false
-AVL delete total time: series 2, i: 7, time: 0.2669999599456787}, IS_SORTED: false 
-AVL delete avg time: series 2, i: 7, time: 0.0001616249680519104}, IS_SORTED: false
-BST delete total time: series 2, i: 7, time: 0.1169160008430481}, IS_SORTED: false
-BST delete avg time: series 2, i: 7, time: 0.00016825002431869506}, IS_SORTED: false
-AVL delete total time: series 2, i: 8, time: 0.26079195737838745}, IS_SORTED: false 
-AVL delete avg time: series 2, i: 8, time: 0.0001625000238418579}, IS_SORTED: false
-BST delete total time: series 2, i: 8, time: 0.11845797300338745}, IS_SORTED: false
-BST delete avg time: series 2, i: 8, time: 0.00016825002431869506}, IS_SORTED: false
-AVL delete total time: series 2, i: 9, time: 0.2557089924812317}, IS_SORTED: false 
-AVL delete avg time: series 2, i: 9, time: 0.0001624169945716858}, IS_SORTED: false
-BST delete total time: series 2, i: 9, time: 0.11637502908706665}, IS_SORTED: false
-BST delete avg time: series 2, i: 9, time: 0.0001693750023841858}, IS_SORTED: false
-AVL delete total time: series 2, i: 10, time: 0.17750000953674316}, IS_SORTED: true 
-AVL delete avg time: series 2, i: 10, time: 0.00016929197311401367}, IS_SORTED: true
-BST delete total time: series 2, i: 10, time: 0.07533299922943115}, IS_SORTED: true
-BST delete avg time: series 2, i: 10, time: 0.008946874976158143}, IS_SORTED: true
-AVL delete total time: series 2, i: 11, time: 0.17874997854232788}, IS_SORTED: true 
-AVL delete avg time: series 2, i: 11, time: 0.00016575002670288086}, IS_SORTED: true
-BST delete total time: series 2, i: 11, time: 0.07666701078414917}, IS_SORTED: true
-BST delete avg time: series 2, i: 11, time: 0.00913404095172882}, IS_SORTED: true
-AVL delete total time: series 2, i: 12, time: 0.1769999861717224}, IS_SORTED: true 
-AVL delete avg time: series 2, i: 12, time: 0.00016704100370407106}, IS_SORTED: true
-BST delete total time: series 2, i: 12, time: 0.07383298873901367}, IS_SORTED: true
-BST delete avg time: series 2, i: 12, time: 0.008850666999816894}, IS_SORTED: true
-AVL delete total time: series 2, i: 13, time: 0.5190420150756836}, IS_SORTED: true 
-AVL delete avg time: series 2, i: 13, time: 0.00028725004196166994}, IS_SORTED: true
-BST delete total time: series 2, i: 13, time: 0.232915997505188}, IS_SORTED: true
-BST delete avg time: series 2, i: 13, time: 0.009770874977111816}, IS_SORTED: true
-AVL delete total time: series 2, i: 14, time: 0.14979100227355957}, IS_SORTED: true 
-AVL delete avg time: series 2, i: 14, time: 0.00011920803785324097}, IS_SORTED: true
-BST delete total time: series 2, i: 14, time: 0.046292006969451904}, IS_SORTED: true
-BST delete avg time: series 2, i: 14, time: 0.009935625016689301}, IS_SORTED: true
-AVL delete total time: series 2, i: 15, time: 0.15362495183944702}, IS_SORTED: true 
-AVL delete avg time: series 2, i: 15, time: 0.00012479203939437866}, IS_SORTED: true
-BST delete total time: series 2, i: 15, time: 0.04670900106430054}, IS_SORTED: true
-BST delete avg time: series 2, i: 15, time: 0.009861124992370605}, IS_SORTED: true
-AVL delete total time: series 2, i: 16, time: 0.15070796012878418}, IS_SORTED: true 
-AVL delete avg time: series 2, i: 16, time: 0.00012054097652435303}, IS_SORTED: true
-BST delete total time: series 2, i: 16, time: 0.046750009059906006}, IS_SORTED: true
-BST delete avg time: series 2, i: 16, time: 0.009377166986465454}, IS_SORTED: true
-AVL delete total time: series 2, i: 17, time: 0.14904195070266724}, IS_SORTED: true 
-AVL delete avg time: series 2, i: 17, time: 0.00012041699886322021}, IS_SORTED: true
-BST delete total time: series 2, i: 17, time: 0.04724997282028198}, IS_SORTED: true
-BST delete avg time: series 2, i: 17, time: 0.009550832986831665}, IS_SORTED: true
-AVL delete total time: series 2, i: 18, time: 0.15083396434783936}, IS_SORTED: true 
-AVL delete avg time: series 2, i: 18, time: 0.00012087500095367431}, IS_SORTED: true
-BST delete total time: series 2, i: 18, time: 0.0477910041809082}, IS_SORTED: true
-BST delete avg time: series 2, i: 18, time: 0.009530000030994416}, IS_SORTED: true
-AVL delete total time: series 2, i: 19, time: 0.14833301305770874}, IS_SORTED: true 
-AVL delete avg time: series 2, i: 19, time: 0.00011945796012878418}, IS_SORTED: true
-BST delete total time: series 2, i: 19, time: 0.046707987785339355}, IS_SORTED: true
-BST delete avg time: series 2, i: 19, time: 0.009855624973773956}, IS_SORTED: true
+AVL insertion time: series 2, i: 0, time: 2.197582960128784}, IS_SORTED: false
+BST insertion time: series 2, i: 0, time: 0.48087501525878906}, IS_SORTED: false
+AVL insertion time: series 2, i: 1, time: 1.2754999995231628}, IS_SORTED: false
+BST insertion time: series 2, i: 1, time: 0.41612499952316284}, IS_SORTED: false
+AVL insertion time: series 2, i: 2, time: 1.3339579701423645}, IS_SORTED: false
+BST insertion time: series 2, i: 2, time: 0.45033299922943115}, IS_SORTED: false
+AVL insertion time: series 2, i: 3, time: 1.3206250071525574}, IS_SORTED: false
+BST insertion time: series 2, i: 3, time: 0.7707090377807617}, IS_SORTED: false
+AVL insertion time: series 2, i: 4, time: 1.3493749499320984}, IS_SORTED: false
+BST insertion time: series 2, i: 4, time: 0.38841700553894043}, IS_SORTED: false
+AVL insertion time: series 2, i: 5, time: 1.2699580192565918}, IS_SORTED: false
+BST insertion time: series 2, i: 5, time: 0.3927500247955322}, IS_SORTED: false
+AVL insertion time: series 2, i: 6, time: 1.2828750014305115}, IS_SORTED: false
+BST insertion time: series 2, i: 6, time: 0.39216697216033936}, IS_SORTED: false
+AVL insertion time: series 2, i: 7, time: 1.2884159684181213}, IS_SORTED: false
+BST insertion time: series 2, i: 7, time: 0.39237499237060547}, IS_SORTED: false
+AVL insertion time: series 2, i: 8, time: 1.2847919464111328}, IS_SORTED: false
+BST insertion time: series 2, i: 8, time: 0.3884589672088623}, IS_SORTED: false
+AVL insertion time: series 2, i: 9, time: 1.274749994277954}, IS_SORTED: false
+BST insertion time: series 2, i: 9, time: 0.4126669764518738}, IS_SORTED: false
+AVL insertion time: series 2, i: 10, time: 1.3012920022010803}, IS_SORTED: true
+BST insertion time: series 2, i: 10, time: 17.810415983200073}, IS_SORTED: true
+AVL insertion time: series 2, i: 11, time: 1.2595409750938416}, IS_SORTED: true
+BST insertion time: series 2, i: 11, time: 17.82854199409485}, IS_SORTED: true
+AVL insertion time: series 2, i: 12, time: 1.3385419845581055}, IS_SORTED: true
+BST insertion time: series 2, i: 12, time: 18.312624990940094}, IS_SORTED: true
+AVL insertion time: series 2, i: 13, time: 1.6953330039978027}, IS_SORTED: true
+BST insertion time: series 2, i: 13, time: 19.627291977405548}, IS_SORTED: true
+AVL insertion time: series 2, i: 14, time: 1.152791976928711}, IS_SORTED: true
+BST insertion time: series 2, i: 14, time: 18.710000038146973}, IS_SORTED: true
+AVL insertion time: series 2, i: 15, time: 1.1044999957084656}, IS_SORTED: true
+BST insertion time: series 2, i: 15, time: 20.697582960128784}, IS_SORTED: true
+AVL insertion time: series 2, i: 16, time: 1.1462079882621765}, IS_SORTED: true
+BST insertion time: series 2, i: 16, time: 19.84833300113678}, IS_SORTED: true
+AVL insertion time: series 2, i: 17, time: 1.1178749799728394}, IS_SORTED: true
+BST insertion time: series 2, i: 17, time: 18.63033401966095}, IS_SORTED: true
+AVL insertion time: series 2, i: 18, time: 1.1444169878959656}, IS_SORTED: true
+BST insertion time: series 2, i: 18, time: 18.689916014671326}, IS_SORTED: true
+AVL insertion time: series 2, i: 19, time: 1.1105839610099792}, IS_SORTED: true
+BST insertion time: series 2, i: 19, time: 18.719666004180908}, IS_SORTED: true
+AVL search total time: series 2, i: 0, time: 0.19687503576278687}, IS_SORTED: false
+AVL search avg time: series 2, i: 0, time: 0.00019687503576278686}, IS_SORTED: false
+BST search total time: series 2, i: 0, time: 0.20629096031188965}, IS_SORTED: false
+BST search avg time: series 2, i: 0, time: 0.00020629096031188964}, IS_SORTED: false
+AVL search total time: series 2, i: 1, time: 0.15191704034805298}, IS_SORTED: false
+AVL search avg time: series 2, i: 1, time: 0.00015191704034805297}, IS_SORTED: false
+BST search total time: series 2, i: 1, time: 0.14687496423721313}, IS_SORTED: false
+BST search avg time: series 2, i: 1, time: 0.00014687496423721312}, IS_SORTED: false
+AVL search total time: series 2, i: 2, time: 0.17020803689956665}, IS_SORTED: false
+AVL search avg time: series 2, i: 2, time: 0.00017020803689956666}, IS_SORTED: false
+BST search total time: series 2, i: 2, time: 0.15266704559326172}, IS_SORTED: false
+BST search avg time: series 2, i: 2, time: 0.00015266704559326172}, IS_SORTED: false
+AVL search total time: series 2, i: 3, time: 0.15804201364517212}, IS_SORTED: false
+AVL search avg time: series 2, i: 3, time: 0.00015804201364517213}, IS_SORTED: false
+BST search total time: series 2, i: 3, time: 0.14858299493789673}, IS_SORTED: false
+BST search avg time: series 2, i: 3, time: 0.00014858299493789674}, IS_SORTED: false
+AVL search total time: series 2, i: 4, time: 0.15733397006988525}, IS_SORTED: false
+AVL search avg time: series 2, i: 4, time: 0.00015733397006988527}, IS_SORTED: false
+BST search total time: series 2, i: 4, time: 0.14037495851516724}, IS_SORTED: false
+BST search avg time: series 2, i: 4, time: 0.00014037495851516724}, IS_SORTED: false
+AVL search total time: series 2, i: 5, time: 0.15337496995925903}, IS_SORTED: false
+AVL search avg time: series 2, i: 5, time: 0.00015337496995925903}, IS_SORTED: false
+BST search total time: series 2, i: 5, time: 0.1456660032272339}, IS_SORTED: false
+BST search avg time: series 2, i: 5, time: 0.00014566600322723388}, IS_SORTED: false
+AVL search total time: series 2, i: 6, time: 0.15325003862380981}, IS_SORTED: false
+AVL search avg time: series 2, i: 6, time: 0.0001532500386238098}, IS_SORTED: false
+BST search total time: series 2, i: 6, time: 0.15104103088378906}, IS_SORTED: false
+BST search avg time: series 2, i: 6, time: 0.00015104103088378905}, IS_SORTED: false
+AVL search total time: series 2, i: 7, time: 0.1572909951210022}, IS_SORTED: false
+AVL search avg time: series 2, i: 7, time: 0.0001572909951210022}, IS_SORTED: false
+BST search total time: series 2, i: 7, time: 0.14458400011062622}, IS_SORTED: false
+BST search avg time: series 2, i: 7, time: 0.00014458400011062623}, IS_SORTED: false
+AVL search total time: series 2, i: 8, time: 0.15541601181030273}, IS_SORTED: false
+AVL search avg time: series 2, i: 8, time: 0.00015541601181030273}, IS_SORTED: false
+BST search total time: series 2, i: 8, time: 0.14433401823043823}, IS_SORTED: false
+BST search avg time: series 2, i: 8, time: 0.00014433401823043824}, IS_SORTED: false
+AVL search total time: series 2, i: 9, time: 0.15183401107788086}, IS_SORTED: false
+AVL search avg time: series 2, i: 9, time: 0.00015183401107788085}, IS_SORTED: false
+BST search total time: series 2, i: 9, time: 0.1679999828338623}, IS_SORTED: false
+BST search avg time: series 2, i: 9, time: 0.0001679999828338623}, IS_SORTED: false
+AVL search total time: series 2, i: 10, time: 0.1614999771118164}, IS_SORTED: true
+AVL search avg time: series 2, i: 10, time: 0.0001614999771118164}, IS_SORTED: true
+BST search total time: series 2, i: 10, time: 5.474291980266571}, IS_SORTED: true
+BST search avg time: series 2, i: 10, time: 0.005474291980266571}, IS_SORTED: true
+AVL search total time: series 2, i: 11, time: 0.15925002098083496}, IS_SORTED: true
+AVL search avg time: series 2, i: 11, time: 0.00015925002098083496}, IS_SORTED: true
+BST search total time: series 2, i: 11, time: 5.473375022411346}, IS_SORTED: true
+BST search avg time: series 2, i: 11, time: 0.005473375022411346}, IS_SORTED: true
+AVL search total time: series 2, i: 12, time: 0.16970902681350708}, IS_SORTED: true
+AVL search avg time: series 2, i: 12, time: 0.00016970902681350707}, IS_SORTED: true
+BST search total time: series 2, i: 12, time: 5.557832956314087}, IS_SORTED: true
+BST search avg time: series 2, i: 12, time: 0.005557832956314087}, IS_SORTED: true
+AVL search total time: series 2, i: 13, time: 0.2840830087661743}, IS_SORTED: true
+AVL search avg time: series 2, i: 13, time: 0.00028408300876617433}, IS_SORTED: true
+BST search total time: series 2, i: 13, time: 5.531417012214661}, IS_SORTED: true
+BST search avg time: series 2, i: 13, time: 0.005531417012214661}, IS_SORTED: true
+AVL search total time: series 2, i: 14, time: 0.1189579963684082}, IS_SORTED: true
+AVL search avg time: series 2, i: 14, time: 0.00011895799636840821}, IS_SORTED: true
+BST search total time: series 2, i: 14, time: 5.176500022411346}, IS_SORTED: true
+BST search avg time: series 2, i: 14, time: 0.005176500022411347}, IS_SORTED: true
+AVL search total time: series 2, i: 15, time: 0.12145799398422241}, IS_SORTED: true
+AVL search avg time: series 2, i: 15, time: 0.00012145799398422242}, IS_SORTED: true
+BST search total time: series 2, i: 15, time: 6.2542500495910645}, IS_SORTED: true
+BST search avg time: series 2, i: 15, time: 0.006254250049591064}, IS_SORTED: true
+AVL search total time: series 2, i: 16, time: 0.13158297538757324}, IS_SORTED: true
+AVL search avg time: series 2, i: 16, time: 0.00013158297538757324}, IS_SORTED: true
+BST search total time: series 2, i: 16, time: 5.317124962806702}, IS_SORTED: true
+BST search avg time: series 2, i: 16, time: 0.005317124962806702}, IS_SORTED: true
+AVL search total time: series 2, i: 17, time: 0.12050002813339233}, IS_SORTED: true
+AVL search avg time: series 2, i: 17, time: 0.00012050002813339233}, IS_SORTED: true
+BST search total time: series 2, i: 17, time: 5.256249964237213}, IS_SORTED: true
+BST search avg time: series 2, i: 17, time: 0.005256249964237213}, IS_SORTED: true
+AVL search total time: series 2, i: 18, time: 0.1240839958190918}, IS_SORTED: true
+AVL search avg time: series 2, i: 18, time: 0.0001240839958190918}, IS_SORTED: true
+BST search total time: series 2, i: 18, time: 5.283416986465454}, IS_SORTED: true
+BST search avg time: series 2, i: 18, time: 0.0052834169864654544}, IS_SORTED: true
+AVL search total time: series 2, i: 19, time: 0.12154203653335571}, IS_SORTED: true
+AVL search avg time: series 2, i: 19, time: 0.00012154203653335571}, IS_SORTED: true
+BST search total time: series 2, i: 19, time: 5.262250006198883}, IS_SORTED: true
+BST search avg time: series 2, i: 19, time: 0.005262250006198883}, IS_SORTED: true
+AVL delete total time: series 2, i: 0, time: 0.6197500228881836}, IS_SORTED: false 
+AVL delete avg time: series 2, i: 0, time: 0.00019687503576278686}, IS_SORTED: false
+BST delete total time: series 2, i: 0, time: 0.2697499990463257}, IS_SORTED: false
+BST delete avg time: series 2, i: 0, time: 0.00020629096031188964}, IS_SORTED: false
+AVL delete total time: series 2, i: 1, time: 0.2914170026779175}, IS_SORTED: false 
+AVL delete avg time: series 2, i: 1, time: 0.00015191704034805297}, IS_SORTED: false
+BST delete total time: series 2, i: 1, time: 0.12066704034805298}, IS_SORTED: false
+BST delete avg time: series 2, i: 1, time: 0.00014687496423721312}, IS_SORTED: false
+AVL delete total time: series 2, i: 2, time: 0.3046249747276306}, IS_SORTED: false 
+AVL delete avg time: series 2, i: 2, time: 0.00017020803689956666}, IS_SORTED: false
+BST delete total time: series 2, i: 2, time: 0.12233400344848633}, IS_SORTED: false
+BST delete avg time: series 2, i: 2, time: 0.00015266704559326172}, IS_SORTED: false
+AVL delete total time: series 2, i: 3, time: 0.2859579920768738}, IS_SORTED: false 
+AVL delete avg time: series 2, i: 3, time: 0.00015804201364517213}, IS_SORTED: false
+BST delete total time: series 2, i: 3, time: 0.12062501907348633}, IS_SORTED: false
+BST delete avg time: series 2, i: 3, time: 0.00014858299493789674}, IS_SORTED: false
+AVL delete total time: series 2, i: 4, time: 0.28862500190734863}, IS_SORTED: false 
+AVL delete avg time: series 2, i: 4, time: 0.00015733397006988527}, IS_SORTED: false
+BST delete total time: series 2, i: 4, time: 0.12137502431869507}, IS_SORTED: false
+BST delete avg time: series 2, i: 4, time: 0.00014037495851516724}, IS_SORTED: false
+AVL delete total time: series 2, i: 5, time: 0.2960420250892639}, IS_SORTED: false 
+AVL delete avg time: series 2, i: 5, time: 0.00015337496995925903}, IS_SORTED: false
+BST delete total time: series 2, i: 5, time: 0.12062495946884155}, IS_SORTED: false
+BST delete avg time: series 2, i: 5, time: 0.00014566600322723388}, IS_SORTED: false
+AVL delete total time: series 2, i: 6, time: 0.2926250100135803}, IS_SORTED: false 
+AVL delete avg time: series 2, i: 6, time: 0.0001532500386238098}, IS_SORTED: false
+BST delete total time: series 2, i: 6, time: 0.1218329668045044}, IS_SORTED: false
+BST delete avg time: series 2, i: 6, time: 0.00015104103088378905}, IS_SORTED: false
+AVL delete total time: series 2, i: 7, time: 0.29225003719329834}, IS_SORTED: false 
+AVL delete avg time: series 2, i: 7, time: 0.0001572909951210022}, IS_SORTED: false
+BST delete total time: series 2, i: 7, time: 0.12062501907348633}, IS_SORTED: false
+BST delete avg time: series 2, i: 7, time: 0.00014458400011062623}, IS_SORTED: false
+AVL delete total time: series 2, i: 8, time: 0.2854999899864197}, IS_SORTED: false 
+AVL delete avg time: series 2, i: 8, time: 0.00015541601181030273}, IS_SORTED: false
+BST delete total time: series 2, i: 8, time: 0.11870896816253662}, IS_SORTED: false
+BST delete avg time: series 2, i: 8, time: 0.00014433401823043824}, IS_SORTED: false
+AVL delete total time: series 2, i: 9, time: 0.2977500557899475}, IS_SORTED: false 
+AVL delete avg time: series 2, i: 9, time: 0.00015183401107788085}, IS_SORTED: false
+BST delete total time: series 2, i: 9, time: 0.14070796966552734}, IS_SORTED: false
+BST delete avg time: series 2, i: 9, time: 0.0001679999828338623}, IS_SORTED: false
+AVL delete total time: series 2, i: 10, time: 0.19987505674362183}, IS_SORTED: true 
+AVL delete avg time: series 2, i: 10, time: 0.0001614999771118164}, IS_SORTED: true
+BST delete total time: series 2, i: 10, time: 0.08991599082946777}, IS_SORTED: true
+BST delete avg time: series 2, i: 10, time: 0.005474291980266571}, IS_SORTED: true
+AVL delete total time: series 2, i: 11, time: 0.20091599225997925}, IS_SORTED: true 
+AVL delete avg time: series 2, i: 11, time: 0.00015925002098083496}, IS_SORTED: true
+BST delete total time: series 2, i: 11, time: 0.09424996376037598}, IS_SORTED: true
+BST delete avg time: series 2, i: 11, time: 0.005473375022411346}, IS_SORTED: true
+AVL delete total time: series 2, i: 12, time: 0.21404200792312622}, IS_SORTED: true 
+AVL delete avg time: series 2, i: 12, time: 0.00016970902681350707}, IS_SORTED: true
+BST delete total time: series 2, i: 12, time: 0.08312499523162842}, IS_SORTED: true
+BST delete avg time: series 2, i: 12, time: 0.005557832956314087}, IS_SORTED: true
+AVL delete total time: series 2, i: 13, time: 0.4673750400543213}, IS_SORTED: true 
+AVL delete avg time: series 2, i: 13, time: 0.00028408300876617433}, IS_SORTED: true
+BST delete total time: series 2, i: 13, time: 0.12945902347564697}, IS_SORTED: true
+BST delete avg time: series 2, i: 13, time: 0.005531417012214661}, IS_SORTED: true
+AVL delete total time: series 2, i: 14, time: 0.16324996948242188}, IS_SORTED: true 
+AVL delete avg time: series 2, i: 14, time: 0.00011895799636840821}, IS_SORTED: true
+BST delete total time: series 2, i: 14, time: 0.04908299446105957}, IS_SORTED: true
+BST delete avg time: series 2, i: 14, time: 0.005176500022411347}, IS_SORTED: true
+AVL delete total time: series 2, i: 15, time: 0.1625000238418579}, IS_SORTED: true 
+AVL delete avg time: series 2, i: 15, time: 0.00012145799398422242}, IS_SORTED: true
+BST delete total time: series 2, i: 15, time: 0.0662909746170044}, IS_SORTED: true
+BST delete avg time: series 2, i: 15, time: 0.006254250049591064}, IS_SORTED: true
+AVL delete total time: series 2, i: 16, time: 0.1734580397605896}, IS_SORTED: true 
+AVL delete avg time: series 2, i: 16, time: 0.00013158297538757324}, IS_SORTED: true
+BST delete total time: series 2, i: 16, time: 0.049957990646362305}, IS_SORTED: true
+BST delete avg time: series 2, i: 16, time: 0.005317124962806702}, IS_SORTED: true
+AVL delete total time: series 2, i: 17, time: 0.16387498378753662}, IS_SORTED: true 
+AVL delete avg time: series 2, i: 17, time: 0.00012050002813339233}, IS_SORTED: true
+BST delete total time: series 2, i: 17, time: 0.05333399772644043}, IS_SORTED: true
+BST delete avg time: series 2, i: 17, time: 0.005256249964237213}, IS_SORTED: true
+AVL delete total time: series 2, i: 18, time: 0.16962498426437378}, IS_SORTED: true 
+AVL delete avg time: series 2, i: 18, time: 0.0001240839958190918}, IS_SORTED: true
+BST delete total time: series 2, i: 18, time: 0.052165985107421875}, IS_SORTED: true
+BST delete avg time: series 2, i: 18, time: 0.0052834169864654544}, IS_SORTED: true
+AVL delete total time: series 2, i: 19, time: 0.1637919545173645}, IS_SORTED: true 
+AVL delete avg time: series 2, i: 19, time: 0.00012154203653335571}, IS_SORTED: true
+BST delete total time: series 2, i: 19, time: 0.04883301258087158}, IS_SORTED: true
+BST delete avg time: series 2, i: 19, time: 0.005262250006198883}, IS_SORTED: true
 TOTAL ELEMENTS: 
 8192
-AVL insertion time: series 3, i: 0, time: 2.2020000219345093}, IS_SORTED: false
-BST insertion time: series 3, i: 0, time: 0.6184580326080322}, IS_SORTED: false
-AVL insertion time: series 3, i: 1, time: 1.593167006969452}, IS_SORTED: false
-BST insertion time: series 3, i: 1, time: 1.0779160261154175}, IS_SORTED: false
-AVL insertion time: series 3, i: 2, time: 1.5909579992294312}, IS_SORTED: false
-BST insertion time: series 3, i: 2, time: 0.6084580421447754}, IS_SORTED: false
-AVL insertion time: series 3, i: 3, time: 1.581833004951477}, IS_SORTED: false
-BST insertion time: series 3, i: 3, time: 0.703125}, IS_SORTED: false
-AVL insertion time: series 3, i: 4, time: 1.6629590392112732}, IS_SORTED: false
-BST insertion time: series 3, i: 4, time: 0.6972500085830688}, IS_SORTED: false
-AVL insertion time: series 3, i: 5, time: 1.6642500162124634}, IS_SORTED: false
-BST insertion time: series 3, i: 5, time: 0.9221659898757935}, IS_SORTED: false
-AVL insertion time: series 3, i: 6, time: 1.6099170446395874}, IS_SORTED: false
-BST insertion time: series 3, i: 6, time: 0.6050829887390137}, IS_SORTED: false
-AVL insertion time: series 3, i: 7, time: 1.5851250290870667}, IS_SORTED: false
-BST insertion time: series 3, i: 7, time: 0.7036669850349426}, IS_SORTED: false
-AVL insertion time: series 3, i: 8, time: 1.6607080101966858}, IS_SORTED: false
-BST insertion time: series 3, i: 8, time: 0.7000420093536377}, IS_SORTED: false
-AVL insertion time: series 3, i: 9, time: 1.67091703414917}, IS_SORTED: false
-BST insertion time: series 3, i: 9, time: 0.8956249952316284}, IS_SORTED: false
-AVL insertion time: series 3, i: 10, time: 1.4782500267028809}, IS_SORTED: true
-BST insertion time: series 3, i: 10, time: 77.3376669883728}, IS_SORTED: true
-AVL insertion time: series 3, i: 11, time: 1.525124967098236}, IS_SORTED: true
-BST insertion time: series 3, i: 11, time: 88.28033399581909}, IS_SORTED: true
-AVL insertion time: series 3, i: 12, time: 1.4852499961853027}, IS_SORTED: true
-BST insertion time: series 3, i: 12, time: 76.49933397769928}, IS_SORTED: true
-AVL insertion time: series 3, i: 13, time: 1.8011670112609863}, IS_SORTED: true
-BST insertion time: series 3, i: 13, time: 76.79416698217392}, IS_SORTED: true
-AVL insertion time: series 3, i: 14, time: 1.5037500262260437}, IS_SORTED: true
-BST insertion time: series 3, i: 14, time: 78.14808303117752}, IS_SORTED: true
-AVL insertion time: series 3, i: 15, time: 1.4797499775886536}, IS_SORTED: true
-BST insertion time: series 3, i: 15, time: 77.19762498140335}, IS_SORTED: true
-AVL insertion time: series 3, i: 16, time: 1.4828330278396606}, IS_SORTED: true
-BST insertion time: series 3, i: 16, time: 82.49054199457169}, IS_SORTED: true
-AVL insertion time: series 3, i: 17, time: 1.5002089738845825}, IS_SORTED: true
-BST insertion time: series 3, i: 17, time: 76.62720799446106}, IS_SORTED: true
-AVL insertion time: series 3, i: 18, time: 1.592790961265564}, IS_SORTED: true
-BST insertion time: series 3, i: 18, time: 79.87808299064636}, IS_SORTED: true
-AVL insertion time: series 3, i: 19, time: 1.4993330240249634}, IS_SORTED: true
-BST insertion time: series 3, i: 19, time: 76.38854104280472}, IS_SORTED: true
-AVL search total time: series 3, i: 0, time: 0.7210829854011536}, IS_SORTED: false
-AVL search avg time: series 3, i: 0, time: 0.0007210829854011535}, IS_SORTED: false
-BST search total time: series 3, i: 0, time: 0.20437496900558472}, IS_SORTED: false
-BST search avg time: series 3, i: 0, time: 0.0002043749690055847}, IS_SORTED: false
-AVL search total time: series 3, i: 1, time: 0.13241702318191528}, IS_SORTED: false
-AVL search avg time: series 3, i: 1, time: 0.00013241702318191528}, IS_SORTED: false
-BST search total time: series 3, i: 1, time: 0.13362503051757812}, IS_SORTED: false
-BST search avg time: series 3, i: 1, time: 0.00013362503051757814}, IS_SORTED: false
-AVL search total time: series 3, i: 2, time: 0.12595796585083008}, IS_SORTED: false
-AVL search avg time: series 3, i: 2, time: 0.0001259579658508301}, IS_SORTED: false
-BST search total time: series 3, i: 2, time: 0.13258302211761475}, IS_SORTED: false
-BST search avg time: series 3, i: 2, time: 0.00013258302211761473}, IS_SORTED: false
-AVL search total time: series 3, i: 3, time: 0.12604200839996338}, IS_SORTED: false
-AVL search avg time: series 3, i: 3, time: 0.00012604200839996338}, IS_SORTED: false
-BST search total time: series 3, i: 3, time: 0.13700002431869507}, IS_SORTED: false
-BST search avg time: series 3, i: 3, time: 0.00013700002431869506}, IS_SORTED: false
-AVL search total time: series 3, i: 4, time: 0.13054096698760986}, IS_SORTED: false
-AVL search avg time: series 3, i: 4, time: 0.00013054096698760987}, IS_SORTED: false
-BST search total time: series 3, i: 4, time: 0.13562500476837158}, IS_SORTED: false
-BST search avg time: series 3, i: 4, time: 0.00013562500476837157}, IS_SORTED: false
-AVL search total time: series 3, i: 5, time: 0.12974995374679565}, IS_SORTED: false
-AVL search avg time: series 3, i: 5, time: 0.00012974995374679565}, IS_SORTED: false
-BST search total time: series 3, i: 5, time: 0.13216698169708252}, IS_SORTED: false
-BST search avg time: series 3, i: 5, time: 0.0001321669816970825}, IS_SORTED: false
-AVL search total time: series 3, i: 6, time: 0.12779200077056885}, IS_SORTED: false
-AVL search avg time: series 3, i: 6, time: 0.00012779200077056886}, IS_SORTED: false
-BST search total time: series 3, i: 6, time: 0.1309170126914978}, IS_SORTED: false
-BST search avg time: series 3, i: 6, time: 0.0001309170126914978}, IS_SORTED: false
-AVL search total time: series 3, i: 7, time: 0.12470799684524536}, IS_SORTED: false
-AVL search avg time: series 3, i: 7, time: 0.00012470799684524537}, IS_SORTED: false
-BST search total time: series 3, i: 7, time: 0.13499999046325684}, IS_SORTED: false
-BST search avg time: series 3, i: 7, time: 0.00013499999046325683}, IS_SORTED: false
-AVL search total time: series 3, i: 8, time: 0.1315000057220459}, IS_SORTED: false
-AVL search avg time: series 3, i: 8, time: 0.0001315000057220459}, IS_SORTED: false
-BST search total time: series 3, i: 8, time: 0.13999998569488525}, IS_SORTED: false
-BST search avg time: series 3, i: 8, time: 0.00013999998569488525}, IS_SORTED: false
-AVL search total time: series 3, i: 9, time: 0.1313750147819519}, IS_SORTED: false
-AVL search avg time: series 3, i: 9, time: 0.0001313750147819519}, IS_SORTED: false
-BST search total time: series 3, i: 9, time: 0.1305840015411377}, IS_SORTED: false
-BST search avg time: series 3, i: 9, time: 0.00013058400154113768}, IS_SORTED: false
-AVL search total time: series 3, i: 10, time: 0.13612502813339233}, IS_SORTED: true
-AVL search avg time: series 3, i: 10, time: 0.00013612502813339233}, IS_SORTED: true
-BST search total time: series 3, i: 10, time: 18.161792039871216}, IS_SORTED: true
-BST search avg time: series 3, i: 10, time: 0.018161792039871217}, IS_SORTED: true
-AVL search total time: series 3, i: 11, time: 0.14170801639556885}, IS_SORTED: true
-AVL search avg time: series 3, i: 11, time: 0.00014170801639556884}, IS_SORTED: true
-BST search total time: series 3, i: 11, time: 18.31266701221466}, IS_SORTED: true
-BST search avg time: series 3, i: 11, time: 0.01831266701221466}, IS_SORTED: true
-AVL search total time: series 3, i: 12, time: 0.13645803928375244}, IS_SORTED: true
-AVL search avg time: series 3, i: 12, time: 0.00013645803928375244}, IS_SORTED: true
-BST search total time: series 3, i: 12, time: 18.528832972049713}, IS_SORTED: true
-BST search avg time: series 3, i: 12, time: 0.018528832972049714}, IS_SORTED: true
-AVL search total time: series 3, i: 13, time: 0.13645905256271362}, IS_SORTED: true
-AVL search avg time: series 3, i: 13, time: 0.0001364590525627136}, IS_SORTED: true
-BST search total time: series 3, i: 13, time: 18.632791996002197}, IS_SORTED: true
-BST search avg time: series 3, i: 13, time: 0.018632791996002197}, IS_SORTED: true
-AVL search total time: series 3, i: 14, time: 0.1373329758644104}, IS_SORTED: true
-AVL search avg time: series 3, i: 14, time: 0.0001373329758644104}, IS_SORTED: true
-BST search total time: series 3, i: 14, time: 17.417375028133392}, IS_SORTED: true
-BST search avg time: series 3, i: 14, time: 0.017417375028133394}, IS_SORTED: true
-AVL search total time: series 3, i: 15, time: 0.1372079849243164}, IS_SORTED: true
-AVL search avg time: series 3, i: 15, time: 0.0001372079849243164}, IS_SORTED: true
-BST search total time: series 3, i: 15, time: 18.072749972343445}, IS_SORTED: true
-BST search avg time: series 3, i: 15, time: 0.018072749972343444}, IS_SORTED: true
-AVL search total time: series 3, i: 16, time: 0.13604199886322021}, IS_SORTED: true
-AVL search avg time: series 3, i: 16, time: 0.0001360419988632202}, IS_SORTED: true
-BST search total time: series 3, i: 16, time: 18.388791978359222}, IS_SORTED: true
-BST search avg time: series 3, i: 16, time: 0.01838879197835922}, IS_SORTED: true
-AVL search total time: series 3, i: 17, time: 0.13566702604293823}, IS_SORTED: true
-AVL search avg time: series 3, i: 17, time: 0.00013566702604293822}, IS_SORTED: true
-BST search total time: series 3, i: 17, time: 18.05458301305771}, IS_SORTED: true
-BST search avg time: series 3, i: 17, time: 0.01805458301305771}, IS_SORTED: true
-AVL search total time: series 3, i: 18, time: 0.147458016872406}, IS_SORTED: true
-AVL search avg time: series 3, i: 18, time: 0.000147458016872406}, IS_SORTED: true
-BST search total time: series 3, i: 18, time: 17.562249958515167}, IS_SORTED: true
-BST search avg time: series 3, i: 18, time: 0.01756224995851517}, IS_SORTED: true
+AVL insertion time: series 3, i: 0, time: 2.9794170260429382}, IS_SORTED: false
+BST insertion time: series 3, i: 0, time: 0.8490409851074219}, IS_SORTED: false
+AVL insertion time: series 3, i: 1, time: 2.315249979496002}, IS_SORTED: false
+BST insertion time: series 3, i: 1, time: 0.8057500123977661}, IS_SORTED: false
+AVL insertion time: series 3, i: 2, time: 1.9399589896202087}, IS_SORTED: false
+BST insertion time: series 3, i: 2, time: 0.8603749871253967}, IS_SORTED: false
+AVL insertion time: series 3, i: 3, time: 1.9635000228881836}, IS_SORTED: false
+BST insertion time: series 3, i: 3, time: 1.174041986465454}, IS_SORTED: false
+AVL insertion time: series 3, i: 4, time: 1.8902080059051514}, IS_SORTED: false
+BST insertion time: series 3, i: 4, time: 0.769582986831665}, IS_SORTED: false
+AVL insertion time: series 3, i: 5, time: 1.9324589967727661}, IS_SORTED: false
+BST insertion time: series 3, i: 5, time: 0.8657920360565186}, IS_SORTED: false
+AVL insertion time: series 3, i: 6, time: 2.0649580359458923}, IS_SORTED: false
+BST insertion time: series 3, i: 6, time: 0.8801659941673279}, IS_SORTED: false
+AVL insertion time: series 3, i: 7, time: 2.2594589591026306}, IS_SORTED: false
+BST insertion time: series 3, i: 7, time: 0.7868339419364929}, IS_SORTED: false
+AVL insertion time: series 3, i: 8, time: 1.862375020980835}, IS_SORTED: false
+BST insertion time: series 3, i: 8, time: 0.7820839881896973}, IS_SORTED: false
+AVL insertion time: series 3, i: 9, time: 1.6020830273628235}, IS_SORTED: false
+BST insertion time: series 3, i: 9, time: 0.6121670007705688}, IS_SORTED: false
+AVL insertion time: series 3, i: 10, time: 1.5002500414848328}, IS_SORTED: true
+BST insertion time: series 3, i: 10, time: 76.98966699838638}, IS_SORTED: true
+AVL insertion time: series 3, i: 11, time: 1.5154169797897339}, IS_SORTED: true
+BST insertion time: series 3, i: 11, time: 75.15141695737839}, IS_SORTED: true
+AVL insertion time: series 3, i: 12, time: 1.5273330211639404}, IS_SORTED: true
+BST insertion time: series 3, i: 12, time: 75.96070796251297}, IS_SORTED: true
+AVL insertion time: series 3, i: 13, time: 1.51500004529953}, IS_SORTED: true
+BST insertion time: series 3, i: 13, time: 77.88850003480911}, IS_SORTED: true
+AVL insertion time: series 3, i: 14, time: 1.5077910423278809}, IS_SORTED: true
+BST insertion time: series 3, i: 14, time: 78.32462495565414}, IS_SORTED: true
+AVL insertion time: series 3, i: 15, time: 1.524042010307312}, IS_SORTED: true
+BST insertion time: series 3, i: 15, time: 75.63045799732208}, IS_SORTED: true
+AVL insertion time: series 3, i: 16, time: 1.5050830245018005}, IS_SORTED: true
+BST insertion time: series 3, i: 16, time: 74.93124997615814}, IS_SORTED: true
+AVL insertion time: series 3, i: 17, time: 1.517291009426117}, IS_SORTED: true
+BST insertion time: series 3, i: 17, time: 74.91912496089935}, IS_SORTED: true
+AVL insertion time: series 3, i: 18, time: 1.810334026813507}, IS_SORTED: true
+BST insertion time: series 3, i: 18, time: 75.73645895719528}, IS_SORTED: true
+AVL insertion time: series 3, i: 19, time: 1.5457910299301147}, IS_SORTED: true
+BST insertion time: series 3, i: 19, time: 75.74395799636841}, IS_SORTED: true
+AVL search total time: series 3, i: 0, time: 0.8891249895095825}, IS_SORTED: false
+AVL search avg time: series 3, i: 0, time: 0.0008891249895095825}, IS_SORTED: false
+BST search total time: series 3, i: 0, time: 0.20387500524520874}, IS_SORTED: false
+BST search avg time: series 3, i: 0, time: 0.00020387500524520874}, IS_SORTED: false
+AVL search total time: series 3, i: 1, time: 0.16841602325439453}, IS_SORTED: false
+AVL search avg time: series 3, i: 1, time: 0.00016841602325439454}, IS_SORTED: false
+BST search total time: series 3, i: 1, time: 0.14399999380111694}, IS_SORTED: false
+BST search avg time: series 3, i: 1, time: 0.00014399999380111694}, IS_SORTED: false
+AVL search total time: series 3, i: 2, time: 0.16533398628234863}, IS_SORTED: false
+AVL search avg time: series 3, i: 2, time: 0.00016533398628234864}, IS_SORTED: false
+BST search total time: series 3, i: 2, time: 0.14345800876617432}, IS_SORTED: false
+BST search avg time: series 3, i: 2, time: 0.00014345800876617432}, IS_SORTED: false
+AVL search total time: series 3, i: 3, time: 0.1660829782485962}, IS_SORTED: false
+AVL search avg time: series 3, i: 3, time: 0.00016608297824859618}, IS_SORTED: false
+BST search total time: series 3, i: 3, time: 0.13920801877975464}, IS_SORTED: false
+BST search avg time: series 3, i: 3, time: 0.00013920801877975465}, IS_SORTED: false
+AVL search total time: series 3, i: 4, time: 0.16058295965194702}, IS_SORTED: false
+AVL search avg time: series 3, i: 4, time: 0.00016058295965194703}, IS_SORTED: false
+BST search total time: series 3, i: 4, time: 0.13995802402496338}, IS_SORTED: false
+BST search avg time: series 3, i: 4, time: 0.0001399580240249634}, IS_SORTED: false
+AVL search total time: series 3, i: 5, time: 0.1625000238418579}, IS_SORTED: false
+AVL search avg time: series 3, i: 5, time: 0.0001625000238418579}, IS_SORTED: false
+BST search total time: series 3, i: 5, time: 0.18187499046325684}, IS_SORTED: false
+BST search avg time: series 3, i: 5, time: 0.00018187499046325685}, IS_SORTED: false
+AVL search total time: series 3, i: 6, time: 0.17116695642471313}, IS_SORTED: false
+AVL search avg time: series 3, i: 6, time: 0.00017116695642471313}, IS_SORTED: false
+BST search total time: series 3, i: 6, time: 0.14479196071624756}, IS_SORTED: false
+BST search avg time: series 3, i: 6, time: 0.00014479196071624757}, IS_SORTED: false
+AVL search total time: series 3, i: 7, time: 0.16150003671646118}, IS_SORTED: false
+AVL search avg time: series 3, i: 7, time: 0.0001615000367164612}, IS_SORTED: false
+BST search total time: series 3, i: 7, time: 0.14391696453094482}, IS_SORTED: false
+BST search avg time: series 3, i: 7, time: 0.00014391696453094481}, IS_SORTED: false
+AVL search total time: series 3, i: 8, time: 0.25966697931289673}, IS_SORTED: false
+AVL search avg time: series 3, i: 8, time: 0.0002596669793128967}, IS_SORTED: false
+BST search total time: series 3, i: 8, time: 0.10666698217391968}, IS_SORTED: false
+BST search avg time: series 3, i: 8, time: 0.00010666698217391968}, IS_SORTED: false
+AVL search total time: series 3, i: 9, time: 0.12962502241134644}, IS_SORTED: false
+AVL search avg time: series 3, i: 9, time: 0.00012962502241134643}, IS_SORTED: false
+BST search total time: series 3, i: 9, time: 0.10979199409484863}, IS_SORTED: false
+BST search avg time: series 3, i: 9, time: 0.00010979199409484863}, IS_SORTED: false
+AVL search total time: series 3, i: 10, time: 0.1350420117378235}, IS_SORTED: true
+AVL search avg time: series 3, i: 10, time: 0.00013504201173782348}, IS_SORTED: true
+BST search total time: series 3, i: 10, time: 10.513332962989807}, IS_SORTED: true
+BST search avg time: series 3, i: 10, time: 0.010513332962989808}, IS_SORTED: true
+AVL search total time: series 3, i: 11, time: 0.13666599988937378}, IS_SORTED: true
+AVL search avg time: series 3, i: 11, time: 0.00013666599988937378}, IS_SORTED: true
+BST search total time: series 3, i: 11, time: 10.42612498998642}, IS_SORTED: true
+BST search avg time: series 3, i: 11, time: 0.01042612498998642}, IS_SORTED: true
+AVL search total time: series 3, i: 12, time: 0.13770800828933716}, IS_SORTED: true
+AVL search avg time: series 3, i: 12, time: 0.00013770800828933716}, IS_SORTED: true
+BST search total time: series 3, i: 12, time: 10.358707964420319}, IS_SORTED: true
+BST search avg time: series 3, i: 12, time: 0.010358707964420318}, IS_SORTED: true
+AVL search total time: series 3, i: 13, time: 0.1389169692993164}, IS_SORTED: true
+AVL search avg time: series 3, i: 13, time: 0.0001389169692993164}, IS_SORTED: true
+BST search total time: series 3, i: 13, time: 11.022958040237427}, IS_SORTED: true
+BST search avg time: series 3, i: 13, time: 0.011022958040237427}, IS_SORTED: true
+AVL search total time: series 3, i: 14, time: 0.13737499713897705}, IS_SORTED: true
+AVL search avg time: series 3, i: 14, time: 0.00013737499713897705}, IS_SORTED: true
+BST search total time: series 3, i: 14, time: 10.87200003862381}, IS_SORTED: true
+BST search avg time: series 3, i: 14, time: 0.01087200003862381}, IS_SORTED: true
+AVL search total time: series 3, i: 15, time: 0.13887500762939453}, IS_SORTED: true
+AVL search avg time: series 3, i: 15, time: 0.00013887500762939454}, IS_SORTED: true
+BST search total time: series 3, i: 15, time: 10.270665943622589}, IS_SORTED: true
+BST search avg time: series 3, i: 15, time: 0.01027066594362259}, IS_SORTED: true
+AVL search total time: series 3, i: 16, time: 0.14308297634124756}, IS_SORTED: true
+AVL search avg time: series 3, i: 16, time: 0.00014308297634124756}, IS_SORTED: true
+BST search total time: series 3, i: 16, time: 10.424667000770569}, IS_SORTED: true
+BST search avg time: series 3, i: 16, time: 0.01042466700077057}, IS_SORTED: true
+AVL search total time: series 3, i: 17, time: 0.13899999856948853}, IS_SORTED: true
+AVL search avg time: series 3, i: 17, time: 0.00013899999856948852}, IS_SORTED: true
+BST search total time: series 3, i: 17, time: 10.471499979496002}, IS_SORTED: true
+BST search avg time: series 3, i: 17, time: 0.010471499979496002}, IS_SORTED: true
+AVL search total time: series 3, i: 18, time: 0.1349170207977295}, IS_SORTED: true
+AVL search avg time: series 3, i: 18, time: 0.0001349170207977295}, IS_SORTED: true
+BST search total time: series 3, i: 18, time: 10.607291996479034}, IS_SORTED: true
+BST search avg time: series 3, i: 18, time: 0.010607291996479034}, IS_SORTED: true
 AVL search total time: series 3, i: 19, time: 0.1381250023841858}, IS_SORTED: true
 AVL search avg time: series 3, i: 19, time: 0.0001381250023841858}, IS_SORTED: true
-BST search total time: series 3, i: 19, time: 18.688165962696075}, IS_SORTED: true
-BST search avg time: series 3, i: 19, time: 0.018688165962696075}, IS_SORTED: true
-AVL delete total time: series 3, i: 0, time: 0.8328749537467957}, IS_SORTED: false 
-AVL delete avg time: series 3, i: 0, time: 0.0007210829854011535}, IS_SORTED: false
-BST delete total time: series 3, i: 0, time: 0.34595900774002075}, IS_SORTED: false
-BST delete avg time: series 3, i: 0, time: 0.0002043749690055847}, IS_SORTED: false
-AVL delete total time: series 3, i: 1, time: 0.25595802068710327}, IS_SORTED: false 
-AVL delete avg time: series 3, i: 1, time: 0.00013241702318191528}, IS_SORTED: false
-BST delete total time: series 3, i: 1, time: 0.0991249680519104}, IS_SORTED: false
-BST delete avg time: series 3, i: 1, time: 0.00013362503051757814}, IS_SORTED: false
-AVL delete total time: series 3, i: 2, time: 0.24954098463058472}, IS_SORTED: false 
-AVL delete avg time: series 3, i: 2, time: 0.0001259579658508301}, IS_SORTED: false
-BST delete total time: series 3, i: 2, time: 0.10058403015136719}, IS_SORTED: false
-BST delete avg time: series 3, i: 2, time: 0.00013258302211761473}, IS_SORTED: false
-AVL delete total time: series 3, i: 3, time: 0.24633395671844482}, IS_SORTED: false 
-AVL delete avg time: series 3, i: 3, time: 0.00012604200839996338}, IS_SORTED: false
-BST delete total time: series 3, i: 3, time: 0.09937500953674316}, IS_SORTED: false
-BST delete avg time: series 3, i: 3, time: 0.00013700002431869506}, IS_SORTED: false
-AVL delete total time: series 3, i: 4, time: 0.2453330159187317}, IS_SORTED: false 
-AVL delete avg time: series 3, i: 4, time: 0.00013054096698760987}, IS_SORTED: false
-BST delete total time: series 3, i: 4, time: 0.09895896911621094}, IS_SORTED: false
-BST delete avg time: series 3, i: 4, time: 0.00013562500476837157}, IS_SORTED: false
-AVL delete total time: series 3, i: 5, time: 0.2465839982032776}, IS_SORTED: false 
-AVL delete avg time: series 3, i: 5, time: 0.00012974995374679565}, IS_SORTED: false
-BST delete total time: series 3, i: 5, time: 0.09962499141693115}, IS_SORTED: false
-BST delete avg time: series 3, i: 5, time: 0.0001321669816970825}, IS_SORTED: false
-AVL delete total time: series 3, i: 6, time: 0.25099998712539673}, IS_SORTED: false 
-AVL delete avg time: series 3, i: 6, time: 0.00012779200077056886}, IS_SORTED: false
-BST delete total time: series 3, i: 6, time: 0.09925001859664917}, IS_SORTED: false
-BST delete avg time: series 3, i: 6, time: 0.0001309170126914978}, IS_SORTED: false
-AVL delete total time: series 3, i: 7, time: 0.2489999532699585}, IS_SORTED: false 
-AVL delete avg time: series 3, i: 7, time: 0.00012470799684524537}, IS_SORTED: false
-BST delete total time: series 3, i: 7, time: 0.09866601228713989}, IS_SORTED: false
-BST delete avg time: series 3, i: 7, time: 0.00013499999046325683}, IS_SORTED: false
-AVL delete total time: series 3, i: 8, time: 0.24541699886322021}, IS_SORTED: false 
-AVL delete avg time: series 3, i: 8, time: 0.0001315000057220459}, IS_SORTED: false
-BST delete total time: series 3, i: 8, time: 0.10358297824859619}, IS_SORTED: false
-BST delete avg time: series 3, i: 8, time: 0.00013999998569488525}, IS_SORTED: false
-AVL delete total time: series 3, i: 9, time: 0.2465839982032776}, IS_SORTED: false 
-AVL delete avg time: series 3, i: 9, time: 0.0001313750147819519}, IS_SORTED: false
-BST delete total time: series 3, i: 9, time: 0.09925001859664917}, IS_SORTED: false
-BST delete avg time: series 3, i: 9, time: 0.00013058400154113768}, IS_SORTED: false
-AVL delete total time: series 3, i: 10, time: 0.15870797634124756}, IS_SORTED: true 
-AVL delete avg time: series 3, i: 10, time: 0.00013612502813339233}, IS_SORTED: true
-BST delete total time: series 3, i: 10, time: 0.048583984375}, IS_SORTED: true
-BST delete avg time: series 3, i: 10, time: 0.018161792039871217}, IS_SORTED: true
-AVL delete total time: series 3, i: 11, time: 0.1649169921875}, IS_SORTED: true 
-AVL delete avg time: series 3, i: 11, time: 0.00014170801639556884}, IS_SORTED: true
-BST delete total time: series 3, i: 11, time: 0.0473330020904541}, IS_SORTED: true
-BST delete avg time: series 3, i: 11, time: 0.01831266701221466}, IS_SORTED: true
-AVL delete total time: series 3, i: 12, time: 0.15816599130630493}, IS_SORTED: true 
-AVL delete avg time: series 3, i: 12, time: 0.00013645803928375244}, IS_SORTED: true
-BST delete total time: series 3, i: 12, time: 0.045874953269958496}, IS_SORTED: true
-BST delete avg time: series 3, i: 12, time: 0.018528832972049714}, IS_SORTED: true
-AVL delete total time: series 3, i: 13, time: 0.15845900774002075}, IS_SORTED: true 
-AVL delete avg time: series 3, i: 13, time: 0.0001364590525627136}, IS_SORTED: true
-BST delete total time: series 3, i: 13, time: 0.048415958881378174}, IS_SORTED: true
-BST delete avg time: series 3, i: 13, time: 0.018632791996002197}, IS_SORTED: true
-AVL delete total time: series 3, i: 14, time: 0.15779197216033936}, IS_SORTED: true 
-AVL delete avg time: series 3, i: 14, time: 0.0001373329758644104}, IS_SORTED: true
-BST delete total time: series 3, i: 14, time: 0.04725003242492676}, IS_SORTED: true
-BST delete avg time: series 3, i: 14, time: 0.017417375028133394}, IS_SORTED: true
-AVL delete total time: series 3, i: 15, time: 0.1584169864654541}, IS_SORTED: true 
-AVL delete avg time: series 3, i: 15, time: 0.0001372079849243164}, IS_SORTED: true
-BST delete total time: series 3, i: 15, time: 0.04587501287460327}, IS_SORTED: true
-BST delete avg time: series 3, i: 15, time: 0.018072749972343444}, IS_SORTED: true
-AVL delete total time: series 3, i: 16, time: 0.15745800733566284}, IS_SORTED: true 
-AVL delete avg time: series 3, i: 16, time: 0.0001360419988632202}, IS_SORTED: true
-BST delete total time: series 3, i: 16, time: 0.04645800590515137}, IS_SORTED: true
-BST delete avg time: series 3, i: 16, time: 0.01838879197835922}, IS_SORTED: true
-AVL delete total time: series 3, i: 17, time: 0.16358304023742676}, IS_SORTED: true 
-AVL delete avg time: series 3, i: 17, time: 0.00013566702604293822}, IS_SORTED: true
-BST delete total time: series 3, i: 17, time: 0.05120795965194702}, IS_SORTED: true
-BST delete avg time: series 3, i: 17, time: 0.01805458301305771}, IS_SORTED: true
-AVL delete total time: series 3, i: 18, time: 0.16920900344848633}, IS_SORTED: true 
-AVL delete avg time: series 3, i: 18, time: 0.000147458016872406}, IS_SORTED: true
-BST delete total time: series 3, i: 18, time: 0.04975003004074097}, IS_SORTED: true
-BST delete avg time: series 3, i: 18, time: 0.01756224995851517}, IS_SORTED: true
-AVL delete total time: series 3, i: 19, time: 0.1582919955253601}, IS_SORTED: true 
+BST search total time: series 3, i: 19, time: 10.254458010196686}, IS_SORTED: true
+BST search avg time: series 3, i: 19, time: 0.010254458010196687}, IS_SORTED: true
+AVL delete total time: series 3, i: 0, time: 0.699874997138977}, IS_SORTED: false 
+AVL delete avg time: series 3, i: 0, time: 0.0008891249895095825}, IS_SORTED: false
+BST delete total time: series 3, i: 0, time: 0.280875027179718}, IS_SORTED: false
+BST delete avg time: series 3, i: 0, time: 0.00020387500524520874}, IS_SORTED: false
+AVL delete total time: series 3, i: 1, time: 0.28804194927215576}, IS_SORTED: false 
+AVL delete avg time: series 3, i: 1, time: 0.00016841602325439454}, IS_SORTED: false
+BST delete total time: series 3, i: 1, time: 0.1285420060157776}, IS_SORTED: false
+BST delete avg time: series 3, i: 1, time: 0.00014399999380111694}, IS_SORTED: false
+AVL delete total time: series 3, i: 2, time: 0.2850419878959656}, IS_SORTED: false 
+AVL delete avg time: series 3, i: 2, time: 0.00016533398628234864}, IS_SORTED: false
+BST delete total time: series 3, i: 2, time: 0.13087499141693115}, IS_SORTED: false
+BST delete avg time: series 3, i: 2, time: 0.00014345800876617432}, IS_SORTED: false
+AVL delete total time: series 3, i: 3, time: 0.28391700983047485}, IS_SORTED: false 
+AVL delete avg time: series 3, i: 3, time: 0.00016608297824859618}, IS_SORTED: false
+BST delete total time: series 3, i: 3, time: 0.12858295440673828}, IS_SORTED: false
+BST delete avg time: series 3, i: 3, time: 0.00013920801877975465}, IS_SORTED: false
+AVL delete total time: series 3, i: 4, time: 0.28516697883605957}, IS_SORTED: false 
+AVL delete avg time: series 3, i: 4, time: 0.00016058295965194703}, IS_SORTED: false
+BST delete total time: series 3, i: 4, time: 0.12804198265075684}, IS_SORTED: false
+BST delete avg time: series 3, i: 4, time: 0.0001399580240249634}, IS_SORTED: false
+AVL delete total time: series 3, i: 5, time: 0.2855830192565918}, IS_SORTED: false 
+AVL delete avg time: series 3, i: 5, time: 0.0001625000238418579}, IS_SORTED: false
+BST delete total time: series 3, i: 5, time: 0.14116597175598145}, IS_SORTED: false
+BST delete avg time: series 3, i: 5, time: 0.00018187499046325685}, IS_SORTED: false
+AVL delete total time: series 3, i: 6, time: 0.289542019367218}, IS_SORTED: false 
+AVL delete avg time: series 3, i: 6, time: 0.00017116695642471313}, IS_SORTED: false
+BST delete total time: series 3, i: 6, time: 0.12908399105072021}, IS_SORTED: false
+BST delete avg time: series 3, i: 6, time: 0.00014479196071624757}, IS_SORTED: false
+AVL delete total time: series 3, i: 7, time: 0.2854999899864197}, IS_SORTED: false 
+AVL delete avg time: series 3, i: 7, time: 0.0001615000367164612}, IS_SORTED: false
+BST delete total time: series 3, i: 7, time: 0.12766599655151367}, IS_SORTED: false
+BST delete avg time: series 3, i: 7, time: 0.00014391696453094481}, IS_SORTED: false
+AVL delete total time: series 3, i: 8, time: 0.2742909789085388}, IS_SORTED: false 
+AVL delete avg time: series 3, i: 8, time: 0.0002596669793128967}, IS_SORTED: false
+BST delete total time: series 3, i: 8, time: 0.11666595935821533}, IS_SORTED: false
+BST delete avg time: series 3, i: 8, time: 0.00010666698217391968}, IS_SORTED: false
+AVL delete total time: series 3, i: 9, time: 0.2540839910507202}, IS_SORTED: false 
+AVL delete avg time: series 3, i: 9, time: 0.00012962502241134643}, IS_SORTED: false
+BST delete total time: series 3, i: 9, time: 0.0989999771118164}, IS_SORTED: false
+BST delete avg time: series 3, i: 9, time: 0.00010979199409484863}, IS_SORTED: false
+AVL delete total time: series 3, i: 10, time: 0.16029196977615356}, IS_SORTED: true 
+AVL delete avg time: series 3, i: 10, time: 0.00013504201173782348}, IS_SORTED: true
+BST delete total time: series 3, i: 10, time: 0.053209006786346436}, IS_SORTED: true
+BST delete avg time: series 3, i: 10, time: 0.010513332962989808}, IS_SORTED: true
+AVL delete total time: series 3, i: 11, time: 0.1675419807434082}, IS_SORTED: true 
+AVL delete avg time: series 3, i: 11, time: 0.00013666599988937378}, IS_SORTED: true
+BST delete total time: series 3, i: 11, time: 0.04954099655151367}, IS_SORTED: true
+BST delete avg time: series 3, i: 11, time: 0.01042612498998642}, IS_SORTED: true
+AVL delete total time: series 3, i: 12, time: 0.16062504053115845}, IS_SORTED: true 
+AVL delete avg time: series 3, i: 12, time: 0.00013770800828933716}, IS_SORTED: true
+BST delete total time: series 3, i: 12, time: 0.04783397912979126}, IS_SORTED: true
+BST delete avg time: series 3, i: 12, time: 0.010358707964420318}, IS_SORTED: true
+AVL delete total time: series 3, i: 13, time: 0.1625000238418579}, IS_SORTED: true 
+AVL delete avg time: series 3, i: 13, time: 0.0001389169692993164}, IS_SORTED: true
+BST delete total time: series 3, i: 13, time: 0.049959003925323486}, IS_SORTED: true
+BST delete avg time: series 3, i: 13, time: 0.011022958040237427}, IS_SORTED: true
+AVL delete total time: series 3, i: 14, time: 0.1638750433921814}, IS_SORTED: true 
+AVL delete avg time: series 3, i: 14, time: 0.00013737499713897705}, IS_SORTED: true
+BST delete total time: series 3, i: 14, time: 0.04829096794128418}, IS_SORTED: true
+BST delete avg time: series 3, i: 14, time: 0.01087200003862381}, IS_SORTED: true
+AVL delete total time: series 3, i: 15, time: 0.16066694259643555}, IS_SORTED: true 
+AVL delete avg time: series 3, i: 15, time: 0.00013887500762939454}, IS_SORTED: true
+BST delete total time: series 3, i: 15, time: 0.04908394813537598}, IS_SORTED: true
+BST delete avg time: series 3, i: 15, time: 0.01027066594362259}, IS_SORTED: true
+AVL delete total time: series 3, i: 16, time: 0.16066598892211914}, IS_SORTED: true 
+AVL delete avg time: series 3, i: 16, time: 0.00014308297634124756}, IS_SORTED: true
+BST delete total time: series 3, i: 16, time: 0.04904097318649292}, IS_SORTED: true
+BST delete avg time: series 3, i: 16, time: 0.01042466700077057}, IS_SORTED: true
+AVL delete total time: series 3, i: 17, time: 0.16133302450180054}, IS_SORTED: true 
+AVL delete avg time: series 3, i: 17, time: 0.00013899999856948852}, IS_SORTED: true
+BST delete total time: series 3, i: 17, time: 0.04633396863937378}, IS_SORTED: true
+BST delete avg time: series 3, i: 17, time: 0.010471499979496002}, IS_SORTED: true
+AVL delete total time: series 3, i: 18, time: 0.16029101610183716}, IS_SORTED: true 
+AVL delete avg time: series 3, i: 18, time: 0.0001349170207977295}, IS_SORTED: true
+BST delete total time: series 3, i: 18, time: 0.04820901155471802}, IS_SORTED: true
+BST delete avg time: series 3, i: 18, time: 0.010607291996479034}, IS_SORTED: true
+AVL delete total time: series 3, i: 19, time: 0.16283297538757324}, IS_SORTED: true 
 AVL delete avg time: series 3, i: 19, time: 0.0001381250023841858}, IS_SORTED: true
-BST delete total time: series 3, i: 19, time: 0.04645901918411255}, IS_SORTED: true
-BST delete avg time: series 3, i: 19, time: 0.018688165962696075}, IS_SORTED: true
+BST delete total time: series 3, i: 19, time: 0.04854094982147217}, IS_SORTED: true
+BST delete avg time: series 3, i: 19, time: 0.010254458010196687}, IS_SORTED: true
+TOTAL ELEMENTS: 
+16384
+AVL insertion time: series 4, i: 0, time: 3.8529589772224426}, IS_SORTED: false
+BST insertion time: series 4, i: 0, time: 2.287500023841858}, IS_SORTED: false
+AVL insertion time: series 4, i: 1, time: 3.950582981109619}, IS_SORTED: false
+BST insertion time: series 4, i: 1, time: 1.8599169850349426}, IS_SORTED: false
+AVL insertion time: series 4, i: 2, time: 4.063374996185303}, IS_SORTED: false
+BST insertion time: series 4, i: 2, time: 1.79483300447464}, IS_SORTED: false
+AVL insertion time: series 4, i: 3, time: 4.022750020027161}, IS_SORTED: false
+BST insertion time: series 4, i: 3, time: 1.7470410466194153}, IS_SORTED: false
+AVL insertion time: series 4, i: 4, time: 4.014832973480225}, IS_SORTED: false
+BST insertion time: series 4, i: 4, time: 28.24229198694229}, IS_SORTED: false
+AVL insertion time: series 4, i: 5, time: 4.244708001613617}, IS_SORTED: false
+BST insertion time: series 4, i: 5, time: 1.4623329639434814}, IS_SORTED: false
+AVL insertion time: series 4, i: 6, time: 3.521375000476837}, IS_SORTED: false
+BST insertion time: series 4, i: 6, time: 1.361041009426117}, IS_SORTED: false
+AVL insertion time: series 4, i: 7, time: 3.363332986831665}, IS_SORTED: false
+BST insertion time: series 4, i: 7, time: 1.4214590191841125}, IS_SORTED: false
+AVL insertion time: series 4, i: 8, time: 3.4910420179367065}, IS_SORTED: false
+BST insertion time: series 4, i: 8, time: 1.5139170289039612}, IS_SORTED: false
+AVL insertion time: series 4, i: 9, time: 3.5113750100135803}, IS_SORTED: false
+BST insertion time: series 4, i: 9, time: 1.6400409936904907}, IS_SORTED: false
+AVL insertion time: series 4, i: 10, time: 3.6737499833106995}, IS_SORTED: true
+BST insertion time: series 4, i: 10, time: 310.11137503385544}, IS_SORTED: true
+AVL insertion time: series 4, i: 11, time: 3.402791976928711}, IS_SORTED: true
+BST insertion time: series 4, i: 11, time: 314.28804099559784}, IS_SORTED: true
+AVL insertion time: series 4, i: 12, time: 3.308791995048523}, IS_SORTED: true
+BST insertion time: series 4, i: 12, time: 325.62533301115036}, IS_SORTED: true
+AVL insertion time: series 4, i: 13, time: 3.4297500252723694}, IS_SORTED: true
+BST insertion time: series 4, i: 13, time: 307.38958299160004}, IS_SORTED: true
+AVL insertion time: series 4, i: 14, time: 3.6842910051345825}, IS_SORTED: true
+BST insertion time: series 4, i: 14, time: 308.2463330030441}, IS_SORTED: true
+AVL insertion time: series 4, i: 15, time: 3.5237500071525574}, IS_SORTED: true
+BST insertion time: series 4, i: 15, time: 328.02333402633667}, IS_SORTED: true
+AVL insertion time: series 4, i: 16, time: 3.311417043209076}, IS_SORTED: true
+BST insertion time: series 4, i: 16, time: 325.26958298683167}, IS_SORTED: true
+AVL insertion time: series 4, i: 17, time: 3.408749997615814}, IS_SORTED: true
+BST insertion time: series 4, i: 17, time: 314.80787497758865}, IS_SORTED: true
+AVL insertion time: series 4, i: 18, time: 3.3673750162124634}, IS_SORTED: true
+BST insertion time: series 4, i: 18, time: 312.24925005435944}, IS_SORTED: true
+AVL insertion time: series 4, i: 19, time: 3.279083013534546}, IS_SORTED: true
+BST insertion time: series 4, i: 19, time: 315.72033298015594}, IS_SORTED: true
+AVL search total time: series 4, i: 0, time: 0.383916974067688}, IS_SORTED: false
+AVL search avg time: series 4, i: 0, time: 0.000383916974067688}, IS_SORTED: false
+BST search total time: series 4, i: 0, time: 0.28200000524520874}, IS_SORTED: false
+BST search avg time: series 4, i: 0, time: 0.00028200000524520875}, IS_SORTED: false
+AVL search total time: series 4, i: 1, time: 0.17583298683166504}, IS_SORTED: false
+AVL search avg time: series 4, i: 1, time: 0.00017583298683166503}, IS_SORTED: false
+BST search total time: series 4, i: 1, time: 0.16366595029830933}, IS_SORTED: false
+BST search avg time: series 4, i: 1, time: 0.00016366595029830932}, IS_SORTED: false
+AVL search total time: series 4, i: 2, time: 0.18312495946884155}, IS_SORTED: false
+AVL search avg time: series 4, i: 2, time: 0.00018312495946884157}, IS_SORTED: false
+BST search total time: series 4, i: 2, time: 0.1867920160293579}, IS_SORTED: false
+BST search avg time: series 4, i: 2, time: 0.0001867920160293579}, IS_SORTED: false
+AVL search total time: series 4, i: 3, time: 0.17650002241134644}, IS_SORTED: false
+AVL search avg time: series 4, i: 3, time: 0.00017650002241134644}, IS_SORTED: false
+BST search total time: series 4, i: 3, time: 0.15791696310043335}, IS_SORTED: false
+BST search avg time: series 4, i: 3, time: 0.00015791696310043336}, IS_SORTED: false
+AVL search total time: series 4, i: 4, time: 0.1812499761581421}, IS_SORTED: false
+AVL search avg time: series 4, i: 4, time: 0.00018124997615814208}, IS_SORTED: false
+BST search total time: series 4, i: 4, time: 0.22029101848602295}, IS_SORTED: false
+BST search avg time: series 4, i: 4, time: 0.00022029101848602294}, IS_SORTED: false
+AVL search total time: series 4, i: 5, time: 0.3490840196609497}, IS_SORTED: false
+AVL search avg time: series 4, i: 5, time: 0.00034908401966094973}, IS_SORTED: false
+BST search total time: series 4, i: 5, time: 0.17733299732208252}, IS_SORTED: false
+BST search avg time: series 4, i: 5, time: 0.00017733299732208252}, IS_SORTED: false
+AVL search total time: series 4, i: 6, time: 0.15537500381469727}, IS_SORTED: false
+AVL search avg time: series 4, i: 6, time: 0.00015537500381469728}, IS_SORTED: false
+BST search total time: series 4, i: 6, time: 0.12420797348022461}, IS_SORTED: false
+BST search avg time: series 4, i: 6, time: 0.0001242079734802246}, IS_SORTED: false
+AVL search total time: series 4, i: 7, time: 0.13429099321365356}, IS_SORTED: false
+AVL search avg time: series 4, i: 7, time: 0.00013429099321365356}, IS_SORTED: false
+BST search total time: series 4, i: 7, time: 0.13095802068710327}, IS_SORTED: false
+BST search avg time: series 4, i: 7, time: 0.00013095802068710326}, IS_SORTED: false
+AVL search total time: series 4, i: 8, time: 0.1418750286102295}, IS_SORTED: false
+AVL search avg time: series 4, i: 8, time: 0.0001418750286102295}, IS_SORTED: false
+BST search total time: series 4, i: 8, time: 0.1329580545425415}, IS_SORTED: false
+BST search avg time: series 4, i: 8, time: 0.00013295805454254151}, IS_SORTED: false
+AVL search total time: series 4, i: 9, time: 0.14174997806549072}, IS_SORTED: false
+AVL search avg time: series 4, i: 9, time: 0.00014174997806549073}, IS_SORTED: false
+BST search total time: series 4, i: 9, time: 0.1359589695930481}, IS_SORTED: false
+BST search avg time: series 4, i: 9, time: 0.0001359589695930481}, IS_SORTED: false
+AVL search total time: series 4, i: 10, time: 0.1716669797897339}, IS_SORTED: true
+AVL search avg time: series 4, i: 10, time: 0.0001716669797897339}, IS_SORTED: true
+BST search total time: series 4, i: 10, time: 30.828666985034943}, IS_SORTED: true
+BST search avg time: series 4, i: 10, time: 0.030828666985034944}, IS_SORTED: true
+AVL search total time: series 4, i: 11, time: 0.1757500171661377}, IS_SORTED: true
+AVL search avg time: series 4, i: 11, time: 0.0001757500171661377}, IS_SORTED: true
+BST search total time: series 4, i: 11, time: 31.397875010967255}, IS_SORTED: true
+BST search avg time: series 4, i: 11, time: 0.031397875010967254}, IS_SORTED: true
+AVL search total time: series 4, i: 12, time: 0.15675002336502075}, IS_SORTED: true
+AVL search avg time: series 4, i: 12, time: 0.00015675002336502076}, IS_SORTED: true
+BST search total time: series 4, i: 12, time: 30.202250003814697}, IS_SORTED: true
+BST search avg time: series 4, i: 12, time: 0.0302022500038147}, IS_SORTED: true
+AVL search total time: series 4, i: 13, time: 0.15870898962020874}, IS_SORTED: true
+AVL search avg time: series 4, i: 13, time: 0.00015870898962020875}, IS_SORTED: true
+BST search total time: series 4, i: 13, time: 30.82670897245407}, IS_SORTED: true
+BST search avg time: series 4, i: 13, time: 0.03082670897245407}, IS_SORTED: true
+AVL search total time: series 4, i: 14, time: 0.16166603565216064}, IS_SORTED: true
+AVL search avg time: series 4, i: 14, time: 0.00016166603565216065}, IS_SORTED: true
+BST search total time: series 4, i: 14, time: 32.667165994644165}, IS_SORTED: true
+BST search avg time: series 4, i: 14, time: 0.032667165994644164}, IS_SORTED: true
+AVL search total time: series 4, i: 15, time: 0.17612498998641968}, IS_SORTED: true
+AVL search avg time: series 4, i: 15, time: 0.0001761249899864197}, IS_SORTED: true
+BST search total time: series 4, i: 15, time: 31.083458960056305}, IS_SORTED: true
+BST search avg time: series 4, i: 15, time: 0.031083458960056307}, IS_SORTED: true
+AVL search total time: series 4, i: 16, time: 0.15458399057388306}, IS_SORTED: true
+AVL search avg time: series 4, i: 16, time: 0.00015458399057388306}, IS_SORTED: true
+BST search total time: series 4, i: 16, time: 31.587999999523163}, IS_SORTED: true
+BST search avg time: series 4, i: 16, time: 0.031587999999523164}, IS_SORTED: true
+AVL search total time: series 4, i: 17, time: 0.15674996376037598}, IS_SORTED: true
+AVL search avg time: series 4, i: 17, time: 0.00015674996376037598}, IS_SORTED: true
+BST search total time: series 4, i: 17, time: 30.762791991233826}, IS_SORTED: true
+BST search avg time: series 4, i: 17, time: 0.030762791991233825}, IS_SORTED: true
+AVL search total time: series 4, i: 18, time: 0.15695899724960327}, IS_SORTED: true
+AVL search avg time: series 4, i: 18, time: 0.00015695899724960327}, IS_SORTED: true
+BST search total time: series 4, i: 18, time: 30.237459003925323}, IS_SORTED: true
+BST search avg time: series 4, i: 18, time: 0.030237459003925323}, IS_SORTED: true
+AVL search total time: series 4, i: 19, time: 0.15679097175598145}, IS_SORTED: true
+AVL search avg time: series 4, i: 19, time: 0.00015679097175598145}, IS_SORTED: true
+BST search total time: series 4, i: 19, time: 30.430292010307312}, IS_SORTED: true
+BST search avg time: series 4, i: 19, time: 0.03043029201030731}, IS_SORTED: true
+AVL delete total time: series 4, i: 0, time: 3.7801249623298645}, IS_SORTED: false 
+AVL delete avg time: series 4, i: 0, time: 0.000383916974067688}, IS_SORTED: false
+BST delete total time: series 4, i: 0, time: 3.3020830154418945}, IS_SORTED: false
+BST delete avg time: series 4, i: 0, time: 0.00028200000524520875}, IS_SORTED: false
+AVL delete total time: series 4, i: 1, time: 3.570583999156952}, IS_SORTED: false 
+AVL delete avg time: series 4, i: 1, time: 0.00017583298683166503}, IS_SORTED: false
+BST delete total time: series 4, i: 1, time: 3.1720409989356995}, IS_SORTED: false
+BST delete avg time: series 4, i: 1, time: 0.00016366595029830932}, IS_SORTED: false
+AVL delete total time: series 4, i: 2, time: 3.5340830087661743}, IS_SORTED: false 
+AVL delete avg time: series 4, i: 2, time: 0.00018312495946884157}, IS_SORTED: false
+BST delete total time: series 4, i: 2, time: 3.186416983604431}, IS_SORTED: false
+BST delete avg time: series 4, i: 2, time: 0.0001867920160293579}, IS_SORTED: false
+AVL delete total time: series 4, i: 3, time: 3.575625002384186}, IS_SORTED: false 
+AVL delete avg time: series 4, i: 3, time: 0.00017650002241134644}, IS_SORTED: false
+BST delete total time: series 4, i: 3, time: 3.220916986465454}, IS_SORTED: false
+BST delete avg time: series 4, i: 3, time: 0.00015791696310043336}, IS_SORTED: false
+AVL delete total time: series 4, i: 4, time: 3.696375012397766}, IS_SORTED: false 
+AVL delete avg time: series 4, i: 4, time: 0.00018124997615814208}, IS_SORTED: false
+BST delete total time: series 4, i: 4, time: 3.189292013645172}, IS_SORTED: false
+BST delete avg time: series 4, i: 4, time: 0.00022029101848602294}, IS_SORTED: false
+AVL delete total time: series 4, i: 5, time: 3.456541955471039}, IS_SORTED: false 
+AVL delete avg time: series 4, i: 5, time: 0.00034908401966094973}, IS_SORTED: false
+BST delete total time: series 4, i: 5, time: 3.094333052635193}, IS_SORTED: false
+BST delete avg time: series 4, i: 5, time: 0.00017733299732208252}, IS_SORTED: false
+AVL delete total time: series 4, i: 6, time: 3.474541962146759}, IS_SORTED: false 
+AVL delete avg time: series 4, i: 6, time: 0.00015537500381469728}, IS_SORTED: false
+BST delete total time: series 4, i: 6, time: 2.9222909808158875}, IS_SORTED: false
+BST delete avg time: series 4, i: 6, time: 0.0001242079734802246}, IS_SORTED: false
+AVL delete total time: series 4, i: 7, time: 3.244125008583069}, IS_SORTED: false 
+AVL delete avg time: series 4, i: 7, time: 0.00013429099321365356}, IS_SORTED: false
+BST delete total time: series 4, i: 7, time: 2.9269999861717224}, IS_SORTED: false
+BST delete avg time: series 4, i: 7, time: 0.00013095802068710326}, IS_SORTED: false
+AVL delete total time: series 4, i: 8, time: 3.2699999809265137}, IS_SORTED: false 
+AVL delete avg time: series 4, i: 8, time: 0.0001418750286102295}, IS_SORTED: false
+BST delete total time: series 4, i: 8, time: 2.9263749718666077}, IS_SORTED: false
+BST delete avg time: series 4, i: 8, time: 0.00013295805454254151}, IS_SORTED: false
+AVL delete total time: series 4, i: 9, time: 3.246749997138977}, IS_SORTED: false 
+AVL delete avg time: series 4, i: 9, time: 0.00014174997806549073}, IS_SORTED: false
+BST delete total time: series 4, i: 9, time: 3.11033296585083}, IS_SORTED: false
+BST delete avg time: series 4, i: 9, time: 0.0001359589695930481}, IS_SORTED: false
+AVL delete total time: series 4, i: 10, time: 3.186790943145752}, IS_SORTED: true 
+AVL delete avg time: series 4, i: 10, time: 0.0001716669797897339}, IS_SORTED: true
+BST delete total time: series 4, i: 10, time: 2.769958019256592}, IS_SORTED: true
+BST delete avg time: series 4, i: 10, time: 0.030828666985034944}, IS_SORTED: true
+AVL delete total time: series 4, i: 11, time: 3.1489999890327454}, IS_SORTED: true 
+AVL delete avg time: series 4, i: 11, time: 0.0001757500171661377}, IS_SORTED: true
+BST delete total time: series 4, i: 11, time: 2.793749988079071}, IS_SORTED: true
+BST delete avg time: series 4, i: 11, time: 0.031397875010967254}, IS_SORTED: true
+AVL delete total time: series 4, i: 12, time: 3.121500015258789}, IS_SORTED: true 
+AVL delete avg time: series 4, i: 12, time: 0.00015675002336502076}, IS_SORTED: true
+BST delete total time: series 4, i: 12, time: 2.768249988555908}, IS_SORTED: true
+BST delete avg time: series 4, i: 12, time: 0.0302022500038147}, IS_SORTED: true
+AVL delete total time: series 4, i: 13, time: 3.106957972049713}, IS_SORTED: true 
+AVL delete avg time: series 4, i: 13, time: 0.00015870898962020875}, IS_SORTED: true
+BST delete total time: series 4, i: 13, time: 2.768500030040741}, IS_SORTED: true
+BST delete avg time: series 4, i: 13, time: 0.03082670897245407}, IS_SORTED: true
+AVL delete total time: series 4, i: 14, time: 3.099500000476837}, IS_SORTED: true 
+AVL delete avg time: series 4, i: 14, time: 0.00016166603565216065}, IS_SORTED: true
+BST delete total time: series 4, i: 14, time: 3.005415976047516}, IS_SORTED: true
+BST delete avg time: series 4, i: 14, time: 0.032667165994644164}, IS_SORTED: true
+AVL delete total time: series 4, i: 15, time: 3.3657090067863464}, IS_SORTED: true 
+AVL delete avg time: series 4, i: 15, time: 0.0001761249899864197}, IS_SORTED: true
+BST delete total time: series 4, i: 15, time: 2.7669999599456787}, IS_SORTED: true
+BST delete avg time: series 4, i: 15, time: 0.031083458960056307}, IS_SORTED: true
+AVL delete total time: series 4, i: 16, time: 3.06979101896286}, IS_SORTED: true 
+AVL delete avg time: series 4, i: 16, time: 0.00015458399057388306}, IS_SORTED: true
+BST delete total time: series 4, i: 16, time: 2.771000027656555}, IS_SORTED: true
+BST delete avg time: series 4, i: 16, time: 0.031587999999523164}, IS_SORTED: true
+AVL delete total time: series 4, i: 17, time: 3.1240000128746033}, IS_SORTED: true 
+AVL delete avg time: series 4, i: 17, time: 0.00015674996376037598}, IS_SORTED: true
+BST delete total time: series 4, i: 17, time: 2.791457951068878}, IS_SORTED: true
+BST delete avg time: series 4, i: 17, time: 0.030762791991233825}, IS_SORTED: true
+AVL delete total time: series 4, i: 18, time: 3.158749997615814}, IS_SORTED: true 
+AVL delete avg time: series 4, i: 18, time: 0.00015695899724960327}, IS_SORTED: true
+BST delete total time: series 4, i: 18, time: 2.775624990463257}, IS_SORTED: true
+BST delete avg time: series 4, i: 18, time: 0.030237459003925323}, IS_SORTED: true
+AVL delete total time: series 4, i: 19, time: 3.106000006198883}, IS_SORTED: true 
+AVL delete avg time: series 4, i: 19, time: 0.00015679097175598145}, IS_SORTED: true
+BST delete total time: series 4, i: 19, time: 2.7860829830169678}, IS_SORTED: true
+BST delete avg time: series 4, i: 19, time: 0.03043029201030731}, IS_SORTED: true
+TOTAL ELEMENTS: 
+32768
+AVL insertion time: series 5, i: 0, time: 6.726707994937897}, IS_SORTED: false
+BST insertion time: series 5, i: 0, time: 3.6410000324249268}, IS_SORTED: false
+AVL insertion time: series 5, i: 1, time: 7.812041997909546}, IS_SORTED: false
+BST insertion time: series 5, i: 1, time: 4.1120829582214355}, IS_SORTED: false
+AVL insertion time: series 5, i: 2, time: 7.73833304643631}, IS_SORTED: false
+BST insertion time: series 5, i: 2, time: 3.8019580245018005}, IS_SORTED: false
+AVL insertion time: series 5, i: 3, time: 6.952166020870209}, IS_SORTED: false
+BST insertion time: series 5, i: 3, time: 3.1927080154418945}, IS_SORTED: false
+AVL insertion time: series 5, i: 4, time: 6.797416031360626}, IS_SORTED: false
+BST insertion time: series 5, i: 4, time: 3.416916012763977}, IS_SORTED: false
+AVL insertion time: series 5, i: 5, time: 6.772832989692688}, IS_SORTED: false
+BST insertion time: series 5, i: 5, time: 3.0042499899864197}, IS_SORTED: false
+AVL insertion time: series 5, i: 6, time: 6.820291996002197}, IS_SORTED: false
+BST insertion time: series 5, i: 6, time: 3.0018749833106995}, IS_SORTED: false
+AVL insertion time: series 5, i: 7, time: 6.743874967098236}, IS_SORTED: false
+BST insertion time: series 5, i: 7, time: 3.0104169845581055}, IS_SORTED: false
+AVL insertion time: series 5, i: 8, time: 6.787290990352631}, IS_SORTED: false
+BST insertion time: series 5, i: 8, time: 2.994874954223633}, IS_SORTED: false
+AVL insertion time: series 5, i: 9, time: 6.75662499666214}, IS_SORTED: false
+BST insertion time: series 5, i: 9, time: 2.97979199886322}, IS_SORTED: false
+AVL insertion time: series 5, i: 10, time: 6.880167007446289}, IS_SORTED: true
+BST insertion time: series 5, i: 10, time: 1297.211874961853}, IS_SORTED: true
+AVL insertion time: series 5, i: 11, time: 6.893374979496002}, IS_SORTED: true
+BST insertion time: series 5, i: 11, time: 1300.5469160079956}, IS_SORTED: true
+AVL insertion time: series 5, i: 12, time: 6.872125029563904}, IS_SORTED: true
+BST insertion time: series 5, i: 12, time: 1312.5745840072632}, IS_SORTED: true
+AVL insertion time: series 5, i: 13, time: 6.837832987308502}, IS_SORTED: true
+BST insertion time: series 5, i: 13, time: 1306.4700419902802}, IS_SORTED: true
+AVL insertion time: series 5, i: 14, time: 6.905582964420319}, IS_SORTED: true
+BST insertion time: series 5, i: 14, time: 1314.7457910180092}, IS_SORTED: true
+AVL insertion time: series 5, i: 15, time: 7.000833034515381}, IS_SORTED: true
+BST insertion time: series 5, i: 15, time: 1303.4253749847412}, IS_SORTED: true
+AVL insertion time: series 5, i: 16, time: 6.8761250376701355}, IS_SORTED: true
+BST insertion time: series 5, i: 16, time: 1312.2480000257492}, IS_SORTED: true
+AVL insertion time: series 5, i: 17, time: 7.284333944320679}, IS_SORTED: true
+BST insertion time: series 5, i: 17, time: 1301.2658339738846}, IS_SORTED: true
+AVL insertion time: series 5, i: 18, time: 7.286792039871216}, IS_SORTED: true
+BST insertion time: series 5, i: 18, time: 1292.494542002678}, IS_SORTED: true
+AVL insertion time: series 5, i: 19, time: 7.375500023365021}, IS_SORTED: true
+BST insertion time: series 5, i: 19, time: 1315.6491249799728}, IS_SORTED: true
+AVL search total time: series 5, i: 0, time: 0.30904102325439453}, IS_SORTED: false
+AVL search avg time: series 5, i: 0, time: 0.00030904102325439453}, IS_SORTED: false
+BST search total time: series 5, i: 0, time: 0.15708297491073608}, IS_SORTED: false
+BST search avg time: series 5, i: 0, time: 0.00015708297491073608}, IS_SORTED: false
+AVL search total time: series 5, i: 1, time: 0.17408305406570435}, IS_SORTED: false
+AVL search avg time: series 5, i: 1, time: 0.00017408305406570434}, IS_SORTED: false
+BST search total time: series 5, i: 1, time: 0.1535000205039978}, IS_SORTED: false
+BST search avg time: series 5, i: 1, time: 0.0001535000205039978}, IS_SORTED: false
+AVL search total time: series 5, i: 2, time: 0.1723330020904541}, IS_SORTED: false
+AVL search avg time: series 5, i: 2, time: 0.0001723330020904541}, IS_SORTED: false
+BST search total time: series 5, i: 2, time: 0.1412920355796814}, IS_SORTED: false
+BST search avg time: series 5, i: 2, time: 0.0001412920355796814}, IS_SORTED: false
+AVL search total time: series 5, i: 3, time: 0.250499963760376}, IS_SORTED: false
+AVL search avg time: series 5, i: 3, time: 0.000250499963760376}, IS_SORTED: false
+BST search total time: series 5, i: 3, time: 0.17891699075698853}, IS_SORTED: false
+BST search avg time: series 5, i: 3, time: 0.00017891699075698851}, IS_SORTED: false
+AVL search total time: series 5, i: 4, time: 0.14354199171066284}, IS_SORTED: false
+AVL search avg time: series 5, i: 4, time: 0.00014354199171066285}, IS_SORTED: false
+BST search total time: series 5, i: 4, time: 0.13212496042251587}, IS_SORTED: false
+BST search avg time: series 5, i: 4, time: 0.00013212496042251586}, IS_SORTED: false
+AVL search total time: series 5, i: 5, time: 0.14037495851516724}, IS_SORTED: false
+AVL search avg time: series 5, i: 5, time: 0.00014037495851516724}, IS_SORTED: false
+BST search total time: series 5, i: 5, time: 0.1300419569015503}, IS_SORTED: false
+BST search avg time: series 5, i: 5, time: 0.0001300419569015503}, IS_SORTED: false
+AVL search total time: series 5, i: 6, time: 0.14300000667572021}, IS_SORTED: false
+AVL search avg time: series 5, i: 6, time: 0.0001430000066757202}, IS_SORTED: false
+BST search total time: series 5, i: 6, time: 0.13029098510742188}, IS_SORTED: false
+BST search avg time: series 5, i: 6, time: 0.00013029098510742188}, IS_SORTED: false
+AVL search total time: series 5, i: 7, time: 0.1423330307006836}, IS_SORTED: false
+AVL search avg time: series 5, i: 7, time: 0.0001423330307006836}, IS_SORTED: false
+BST search total time: series 5, i: 7, time: 0.13087499141693115}, IS_SORTED: false
+BST search avg time: series 5, i: 7, time: 0.00013087499141693114}, IS_SORTED: false
+AVL search total time: series 5, i: 8, time: 0.1500840187072754}, IS_SORTED: false
+AVL search avg time: series 5, i: 8, time: 0.0001500840187072754}, IS_SORTED: false
+BST search total time: series 5, i: 8, time: 0.13112497329711914}, IS_SORTED: false
+BST search avg time: series 5, i: 8, time: 0.00013112497329711913}, IS_SORTED: false
+AVL search total time: series 5, i: 9, time: 0.1414160132408142}, IS_SORTED: false
+AVL search avg time: series 5, i: 9, time: 0.0001414160132408142}, IS_SORTED: false
+BST search total time: series 5, i: 9, time: 0.13237494230270386}, IS_SORTED: false
+BST search avg time: series 5, i: 9, time: 0.00013237494230270385}, IS_SORTED: false
+AVL search total time: series 5, i: 10, time: 0.17145800590515137}, IS_SORTED: true
+AVL search avg time: series 5, i: 10, time: 0.00017145800590515138}, IS_SORTED: true
+BST search total time: series 5, i: 10, time: 62.33712500333786}, IS_SORTED: true
+BST search avg time: series 5, i: 10, time: 0.06233712500333786}, IS_SORTED: true
+AVL search total time: series 5, i: 11, time: 0.17287498712539673}, IS_SORTED: true
+AVL search avg time: series 5, i: 11, time: 0.00017287498712539672}, IS_SORTED: true
+BST search total time: series 5, i: 11, time: 61.24833297729492}, IS_SORTED: true
+BST search avg time: series 5, i: 11, time: 0.06124833297729492}, IS_SORTED: true
+AVL search total time: series 5, i: 12, time: 0.1770419478416443}, IS_SORTED: true
+AVL search avg time: series 5, i: 12, time: 0.0001770419478416443}, IS_SORTED: true
+BST search total time: series 5, i: 12, time: 60.57662498950958}, IS_SORTED: true
+BST search avg time: series 5, i: 12, time: 0.06057662498950958}, IS_SORTED: true
+AVL search total time: series 5, i: 13, time: 0.17841696739196777}, IS_SORTED: true
+AVL search avg time: series 5, i: 13, time: 0.00017841696739196778}, IS_SORTED: true
+BST search total time: series 5, i: 13, time: 62.90095901489258}, IS_SORTED: true
+BST search avg time: series 5, i: 13, time: 0.06290095901489258}, IS_SORTED: true
+AVL search total time: series 5, i: 14, time: 0.1867920160293579}, IS_SORTED: true
+AVL search avg time: series 5, i: 14, time: 0.0001867920160293579}, IS_SORTED: true
+BST search total time: series 5, i: 14, time: 63.52383303642273}, IS_SORTED: true
+BST search avg time: series 5, i: 14, time: 0.06352383303642273}, IS_SORTED: true
+AVL search total time: series 5, i: 15, time: 0.17345905303955078}, IS_SORTED: true
+AVL search avg time: series 5, i: 15, time: 0.00017345905303955077}, IS_SORTED: true
+BST search total time: series 5, i: 15, time: 61.53525000810623}, IS_SORTED: true
+BST search avg time: series 5, i: 15, time: 0.06153525000810623}, IS_SORTED: true
+AVL search total time: series 5, i: 16, time: 0.18174999952316284}, IS_SORTED: true
+AVL search avg time: series 5, i: 16, time: 0.00018174999952316284}, IS_SORTED: true
+BST search total time: series 5, i: 16, time: 60.43604201078415}, IS_SORTED: true
+BST search avg time: series 5, i: 16, time: 0.06043604201078415}, IS_SORTED: true
+AVL search total time: series 5, i: 17, time: 0.17841696739196777}, IS_SORTED: true
+AVL search avg time: series 5, i: 17, time: 0.00017841696739196778}, IS_SORTED: true
+BST search total time: series 5, i: 17, time: 62.73520803451538}, IS_SORTED: true
+BST search avg time: series 5, i: 17, time: 0.06273520803451538}, IS_SORTED: true
+AVL search total time: series 5, i: 18, time: 0.1791669726371765}, IS_SORTED: true
+AVL search avg time: series 5, i: 18, time: 0.0001791669726371765}, IS_SORTED: true
+BST search total time: series 5, i: 18, time: 62.80995798110962}, IS_SORTED: true
+BST search avg time: series 5, i: 18, time: 0.06280995798110962}, IS_SORTED: true
+AVL search total time: series 5, i: 19, time: 0.17329096794128418}, IS_SORTED: true
+AVL search avg time: series 5, i: 19, time: 0.0001732909679412842}, IS_SORTED: true
+BST search total time: series 5, i: 19, time: 59.24908298254013}, IS_SORTED: true
+BST search avg time: series 5, i: 19, time: 0.05924908298254013}, IS_SORTED: true
+AVL delete total time: series 5, i: 0, time: 7.35574996471405}, IS_SORTED: false 
+AVL delete avg time: series 5, i: 0, time: 0.00030904102325439453}, IS_SORTED: false
+BST delete total time: series 5, i: 0, time: 7.131290972232819}, IS_SORTED: false
+BST delete avg time: series 5, i: 0, time: 0.00015708297491073608}, IS_SORTED: false
+AVL delete total time: series 5, i: 1, time: 7.376667022705078}, IS_SORTED: false 
+AVL delete avg time: series 5, i: 1, time: 0.00017408305406570434}, IS_SORTED: false
+BST delete total time: series 5, i: 1, time: 7.112457990646362}, IS_SORTED: false
+BST delete avg time: series 5, i: 1, time: 0.0001535000205039978}, IS_SORTED: false
+AVL delete total time: series 5, i: 2, time: 7.3179579973220825}, IS_SORTED: false 
+AVL delete avg time: series 5, i: 2, time: 0.0001723330020904541}, IS_SORTED: false
+BST delete total time: series 5, i: 2, time: 7.066707968711853}, IS_SORTED: false
+BST delete avg time: series 5, i: 2, time: 0.0001412920355796814}, IS_SORTED: false
+AVL delete total time: series 5, i: 3, time: 7.29466700553894}, IS_SORTED: false 
+AVL delete avg time: series 5, i: 3, time: 0.000250499963760376}, IS_SORTED: false
+BST delete total time: series 5, i: 3, time: 7.078292012214661}, IS_SORTED: false
+BST delete avg time: series 5, i: 3, time: 0.00017891699075698851}, IS_SORTED: false
+AVL delete total time: series 5, i: 4, time: 7.326708018779755}, IS_SORTED: false 
+AVL delete avg time: series 5, i: 4, time: 0.00014354199171066285}, IS_SORTED: false
+BST delete total time: series 5, i: 4, time: 7.035416007041931}, IS_SORTED: false
+BST delete avg time: series 5, i: 4, time: 0.00013212496042251586}, IS_SORTED: false
+AVL delete total time: series 5, i: 5, time: 7.263666033744812}, IS_SORTED: false 
+AVL delete avg time: series 5, i: 5, time: 0.00014037495851516724}, IS_SORTED: false
+BST delete total time: series 5, i: 5, time: 7.0277910232543945}, IS_SORTED: false
+BST delete avg time: series 5, i: 5, time: 0.0001300419569015503}, IS_SORTED: false
+AVL delete total time: series 5, i: 6, time: 7.349291980266571}, IS_SORTED: false 
+AVL delete avg time: series 5, i: 6, time: 0.0001430000066757202}, IS_SORTED: false
+BST delete total time: series 5, i: 6, time: 7.046708047389984}, IS_SORTED: false
+BST delete avg time: series 5, i: 6, time: 0.00013029098510742188}, IS_SORTED: false
+AVL delete total time: series 5, i: 7, time: 7.268541991710663}, IS_SORTED: false 
+AVL delete avg time: series 5, i: 7, time: 0.0001423330307006836}, IS_SORTED: false
+BST delete total time: series 5, i: 7, time: 7.070125043392181}, IS_SORTED: false
+BST delete avg time: series 5, i: 7, time: 0.00013087499141693114}, IS_SORTED: false
+AVL delete total time: series 5, i: 8, time: 7.292500019073486}, IS_SORTED: false 
+AVL delete avg time: series 5, i: 8, time: 0.0001500840187072754}, IS_SORTED: false
+BST delete total time: series 5, i: 8, time: 7.065541982650757}, IS_SORTED: false
+BST delete avg time: series 5, i: 8, time: 0.00013112497329711913}, IS_SORTED: false
+AVL delete total time: series 5, i: 9, time: 7.33712500333786}, IS_SORTED: false 
+AVL delete avg time: series 5, i: 9, time: 0.0001414160132408142}, IS_SORTED: false
+BST delete total time: series 5, i: 9, time: 7.094124972820282}, IS_SORTED: false
+BST delete avg time: series 5, i: 9, time: 0.00013237494230270385}, IS_SORTED: false
+AVL delete total time: series 5, i: 10, time: 7.215083003044128}, IS_SORTED: true 
+AVL delete avg time: series 5, i: 10, time: 0.00017145800590515138}, IS_SORTED: true
+BST delete total time: series 5, i: 10, time: 7.00266695022583}, IS_SORTED: true
+BST delete avg time: series 5, i: 10, time: 0.06233712500333786}, IS_SORTED: true
+AVL delete total time: series 5, i: 11, time: 7.199917018413544}, IS_SORTED: true 
+AVL delete avg time: series 5, i: 11, time: 0.00017287498712539672}, IS_SORTED: true
+BST delete total time: series 5, i: 11, time: 6.980292022228241}, IS_SORTED: true
+BST delete avg time: series 5, i: 11, time: 0.06124833297729492}, IS_SORTED: true
+AVL delete total time: series 5, i: 12, time: 7.180999994277954}, IS_SORTED: true 
+AVL delete avg time: series 5, i: 12, time: 0.0001770419478416443}, IS_SORTED: true
+BST delete total time: series 5, i: 12, time: 6.975290954113007}, IS_SORTED: true
+BST delete avg time: series 5, i: 12, time: 0.06057662498950958}, IS_SORTED: true
+AVL delete total time: series 5, i: 13, time: 7.23199999332428}, IS_SORTED: true 
+AVL delete avg time: series 5, i: 13, time: 0.00017841696739196778}, IS_SORTED: true
+BST delete total time: series 5, i: 13, time: 7.0868330001831055}, IS_SORTED: true
+BST delete avg time: series 5, i: 13, time: 0.06290095901489258}, IS_SORTED: true
+AVL delete total time: series 5, i: 14, time: 7.229625046253204}, IS_SORTED: true 
+AVL delete avg time: series 5, i: 14, time: 0.0001867920160293579}, IS_SORTED: true
+BST delete total time: series 5, i: 14, time: 6.99695897102356}, IS_SORTED: true
+BST delete avg time: series 5, i: 14, time: 0.06352383303642273}, IS_SORTED: true
+AVL delete total time: series 5, i: 15, time: 7.2244590520858765}, IS_SORTED: true 
+AVL delete avg time: series 5, i: 15, time: 0.00017345905303955077}, IS_SORTED: true
+BST delete total time: series 5, i: 15, time: 6.991791009902954}, IS_SORTED: true
+BST delete avg time: series 5, i: 15, time: 0.06153525000810623}, IS_SORTED: true
+AVL delete total time: series 5, i: 16, time: 7.336540997028351}, IS_SORTED: true 
+AVL delete avg time: series 5, i: 16, time: 0.00018174999952316284}, IS_SORTED: true
+BST delete total time: series 5, i: 16, time: 6.995292007923126}, IS_SORTED: true
+BST delete avg time: series 5, i: 16, time: 0.06043604201078415}, IS_SORTED: true
+AVL delete total time: series 5, i: 17, time: 7.211042046546936}, IS_SORTED: true 
+AVL delete avg time: series 5, i: 17, time: 0.00017841696739196778}, IS_SORTED: true
+BST delete total time: series 5, i: 17, time: 7.014292001724243}, IS_SORTED: true
+BST delete avg time: series 5, i: 17, time: 0.06273520803451538}, IS_SORTED: true
+AVL delete total time: series 5, i: 18, time: 7.248333036899567}, IS_SORTED: true 
+AVL delete avg time: series 5, i: 18, time: 0.0001791669726371765}, IS_SORTED: true
+BST delete total time: series 5, i: 18, time: 7.137166976928711}, IS_SORTED: true
+BST delete avg time: series 5, i: 18, time: 0.06280995798110962}, IS_SORTED: true
+AVL delete total time: series 5, i: 19, time: 7.193583011627197}, IS_SORTED: true 
+AVL delete avg time: series 5, i: 19, time: 0.0001732909679412842}, IS_SORTED: true
+BST delete total time: series 5, i: 19, time: 6.9897080063819885}, IS_SORTED: true
+BST delete avg time: series 5, i: 19, time: 0.05924908298254013}, IS_SORTED: true
