@@ -36,6 +36,7 @@ class Main {
 
       // до i == 9 -> случайный порядок, i>= 10 -> отсортированный массив
       const selectedArray = i < 10 ? randomNumbersArr : sortedNumbersArr;
+      const isSorted = i < 10 ? false : true;
 
       const selectedArrayAVL = [...selectedArray];
       const selectedArrayBST = [...selectedArray];
@@ -52,7 +53,7 @@ class Main {
         .pop().duration;
 
       insertionResults.push(
-        `AVL insertion time: series ${series}, i: ${i}, time: ${avlInsertionTime}}`
+        `AVL insertion time: series ${series}, i: ${i}, time: ${avlInsertionTime}}, IS_SORTED: ${isSorted}`
       );
 
       // замеряем время на поиск avl
@@ -71,8 +72,8 @@ class Main {
       const avlSearchTimeAvg = avlSearchTime / 1000;
 
       searchResults.push(
-        `AVL search total time: series ${series}, i: ${i}, time: ${avlSearchTime}}`,
-        `AVL search avg time: series ${series}, i: ${i}, time: ${avlSearchTimeAvg}}`
+        `AVL search total time: series ${series}, i: ${i}, time: ${avlSearchTime}}, IS_SORTED: ${isSorted}`,
+        `AVL search avg time: series ${series}, i: ${i}, time: ${avlSearchTimeAvg}}, IS_SORTED: ${isSorted}`
       );
 
       // замеряем время на удаление avl
@@ -86,8 +87,8 @@ class Main {
       const avlDeleteTime = performance.getEntriesByName("diff").pop().duration;
       const avlDeleteTimeAvg = avlSearchTime / 1000;
       deletionResults.push(
-        `AVL delete total time: series ${series}, i: ${i}, time: ${avlDeleteTime}}`,
-        `AVL delete avg time: series ${series}, i: ${i}, time: ${avlDeleteTimeAvg}}`
+        `AVL delete total time: series ${series}, i: ${i}, time: ${avlDeleteTime}}, IS_SORTED: ${isSorted} `,
+        `AVL delete avg time: series ${series}, i: ${i}, time: ${avlDeleteTimeAvg}}, IS_SORTED: ${isSorted}`
       );
 
       // замеряем время на вставку bst
@@ -101,7 +102,7 @@ class Main {
         .getEntriesByName("diff")
         .pop().duration;
       insertionResults.push(
-        `BST insertion time: series ${series}, i: ${i}, time: ${bstInsertionTime}}`
+        `BST insertion time: series ${series}, i: ${i}, time: ${bstInsertionTime}}, IS_SORTED: ${isSorted}`
       );
 
       // замеряем время на поиск bst
@@ -120,8 +121,8 @@ class Main {
       const bstSearchTimeAvg = bstSearchTime / 1000;
 
       searchResults.push(
-        `BST search total time: series ${series}, i: ${i}, time: ${bstSearchTime}}`,
-        `BST search avg time: series ${series}, i: ${i}, time: ${bstSearchTimeAvg}}`
+        `BST search total time: series ${series}, i: ${i}, time: ${bstSearchTime}}, IS_SORTED: ${isSorted}`,
+        `BST search avg time: series ${series}, i: ${i}, time: ${bstSearchTimeAvg}}, IS_SORTED: ${isSorted}`
       );
 
       // замеряем время на удаление bst
@@ -134,8 +135,8 @@ class Main {
       const bstDeleteTime = performance.getEntriesByName("diff").pop().duration;
       const bstDeleteTimeAvg = bstSearchTime / 1000;
       deletionResults.push(
-        `BST delete total time: series ${series}, i: ${i}, time: ${bstDeleteTime}}`,
-        `BST delete avg time: series ${series}, i: ${i}, time: ${bstDeleteTimeAvg}}`
+        `BST delete total time: series ${series}, i: ${i}, time: ${bstDeleteTime}}, IS_SORTED: ${isSorted}`,
+        `BST delete avg time: series ${series}, i: ${i}, time: ${bstDeleteTimeAvg}}, IS_SORTED: ${isSorted}`
       );
     }
 

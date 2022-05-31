@@ -56,18 +56,11 @@ class BST {
   delete(value) {
     this.root = this.removeNode(this.root, value);
   }
-  // a recursive function to insert a new value in binary search tree
 
   removeNode(current, value) {
-    // base case, if the tree is empty
-
     if (current === null) return current;
 
-    // when value is the same as current's value, this is the node to be deleted
-
     if (value === current.value) {
-      // for case 1 and 2, node without child or with one child
-
       if (current.left === null && current.right === null) {
         return null;
       } else if (current.left === null) {
@@ -75,19 +68,12 @@ class BST {
       } else if (current.right === null) {
         return current.left;
       } else {
-        /// node with two children, get the inorder successor,
-        //smallest in the right subtree
-
         let tempNode = this.kthSmallestNode(current.right);
         current.value = tempNode.value;
-
-        /// delete the inorder successor
 
         current.right = this.removeNode(current.right, tempNode.value);
         return current;
       }
-
-      // recur down the tree
     } else if (value < current.value) {
       current.left = this.removeNode(current.left, value);
       return current;
@@ -96,8 +82,6 @@ class BST {
       return current;
     }
   }
-
-  /// helper function to find the smallest node
 
   kthSmallestNode(node) {
     while (!node.left === null) node = node.left;

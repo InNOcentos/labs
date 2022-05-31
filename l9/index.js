@@ -159,8 +159,12 @@ class Main {
 
 let a = new Main();
 
+console.log("================ A ==============");
 a.runA();
 a.compareA();
 
-//a.runB();
-//a.runC();
+console.log("================ C ==============");
+a.runC();
+
+console.log("================ B ==============");
+a.runB();

@@ -39,7 +39,6 @@ var hr = [0x50a28be6, 0x5c4dd124, 0x6d703ef3, 0x7a6d76e9, 0x00000000];
 function RIPEMD160() {
   HashBase.call(this, 64);
 
-  // state
   this._a = 0x67452301;
   this._b = 0xefcdab89;
   this._c = 0x98badcfe;
@@ -65,7 +64,6 @@ RIPEMD160.prototype._update = function () {
   var dr = this._d | 0;
   var er = this._e | 0;
 
-  // computation
   for (var i = 0; i < 80; i += 1) {
     var tl;
     var tr;
@@ -82,7 +80,6 @@ RIPEMD160.prototype._update = function () {
       tl = fn4(al, bl, cl, dl, el, words[zl[i]], hl[3], sl[i]);
       tr = fn2(ar, br, cr, dr, er, words[zr[i]], hr[3], sr[i]);
     } else {
-      // if (i<80) {
       tl = fn5(al, bl, cl, dl, el, words[zl[i]], hl[4], sl[i]);
       tr = fn1(ar, br, cr, dr, er, words[zr[i]], hr[4], sr[i]);
     }
@@ -100,7 +97,6 @@ RIPEMD160.prototype._update = function () {
     br = tr;
   }
 
-  // update state
   var t = (this._b + cl + dr) | 0;
   this._b = (this._c + dl + er) | 0;
   this._c = (this._d + el + ar) | 0;
@@ -110,7 +106,6 @@ RIPEMD160.prototype._update = function () {
 };
 
 RIPEMD160.prototype._digest = function () {
-  // create padding and handle blocks
   this._block[this._blockOffset++] = 0x80;
   if (this._blockOffset > 56) {
     this._block.fill(0, this._blockOffset, 64);
@@ -123,7 +118,6 @@ RIPEMD160.prototype._digest = function () {
   this._block.writeUInt32LE(this._length[1], 60);
   this._update();
 
-  // produce result
   var buffer = Buffer.alloc ? Buffer.alloc(20) : new Buffer(20);
   buffer.writeInt32LE(this._a, 0);
   buffer.writeInt32LE(this._b, 4);
