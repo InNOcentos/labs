@@ -302,40 +302,4 @@ function Node(value) {
   this.child = undefined;
   this.sibling = undefined;
 }
-
-const heap = new BinomialHeap();
-
-heap.add(30);
-heap.add(1);
-heap.add(40);
-heap.add(-123123);
-heap.add(30);
-heap.add(1);
-heap.add(40);
-heap.add(-123123);
-heap.add(100);
-heap.add(124);
-heap.add(30);
-heap.add(1);
-heap.add(40);
-heap.add(-123123);
-heap.add(100);
-heap.add(124);
-heap.add(24);
-heap.add(3000);
-heap.add(-123);
-heap.add(100);
-heap.add(124);
-heap.add(24);
-heap.add(3000);
-heap.add(24);
-heap.add(3000);
-heap.add(-123);
-heap.add(100);
-heap.add(124);
-heap.add(24);
-heap.add(3000);
-heap.add(-123);
-console.log(heap.head.sibling);
-
 module.exports = BinomialHeap;

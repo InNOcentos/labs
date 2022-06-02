@@ -160,14 +160,3 @@ class MaxHeap {
 }
 
 module.exports = MaxHeap;
-
-const heap = new MaxHeap();
-
-heap.add(10);
-heap.add(1000);
-heap.add(3);
-heap.add(-100);
-heap.add(16);
-heap.add(4);
-console.log(heap.max());
-console.log(heap.min());

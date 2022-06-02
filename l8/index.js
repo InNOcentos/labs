@@ -5,6 +5,7 @@ const os = require("os");
 
 class Main {
   findMin1000(heap) {
+    console.log(heap);
     for (let i = 0; i < 1000; i++) {
       heap.min();
     }
@@ -54,6 +55,7 @@ class Main {
     const findMinTimeBinomial = this.measurePerformance(
       this.findMin1000(null, binomialHeap)
     );
+    console.log(123);
     const findMinTimeBinary = this.measurePerformance(
       this.findMin1000(null, binaryMaxHeap)
     );
