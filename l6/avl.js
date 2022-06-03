@@ -99,9 +99,7 @@ class AVLTree {
     return current;
   }
 
-  // delete helper
   deleteNodeHelper(root, item) {
-    // find the node to be deleted and remove it
     if (root == null) {
       return root;
     }
@@ -134,7 +132,6 @@ class AVLTree {
       return root;
     }
 
-    // Update the balance factor of each node and balance the tree
     root.height = Math.max(this.height(root.left), this.height(root.right)) + 1;
 
     let balanceFactor = this.getBalanceFactor(root);
@@ -166,12 +163,10 @@ class AVLTree {
     return this.search(root.left, item);
   }
 
-  //delete a node
   delete(item) {
     this.root = this.deleteNodeHelper(this.root, item);
   }
 
-  // print the tree in pre - order
   preOrder() {
     this.preOrderHelper(root);
   }

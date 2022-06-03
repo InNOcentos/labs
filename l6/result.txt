@@ -1,1010 +1,1089 @@
-TOTAL ELEMENTS: 
-2048
-AVL insertion time: series 1, i: 0, time: 6.430792033672333}, IS_SORTED: false
-BST insertion time: series 1, i: 0, time: 1.557915985584259}, IS_SORTED: false
-AVL insertion time: series 1, i: 1, time: 4.924916982650757}, IS_SORTED: false
-BST insertion time: series 1, i: 1, time: 1.1701250076293945}, IS_SORTED: false
-AVL insertion time: series 1, i: 2, time: 1.0134999752044678}, IS_SORTED: false
-BST insertion time: series 1, i: 2, time: 0.28108400106430054}, IS_SORTED: false
-AVL insertion time: series 1, i: 3, time: 1.7719999551773071}, IS_SORTED: false
-BST insertion time: series 1, i: 3, time: 1.3834579586982727}, IS_SORTED: false
-AVL insertion time: series 1, i: 4, time: 0.8869590163230896}, IS_SORTED: false
-BST insertion time: series 1, i: 4, time: 0.17866605520248413}, IS_SORTED: false
-AVL insertion time: series 1, i: 5, time: 0.5307919979095459}, IS_SORTED: false
-BST insertion time: series 1, i: 5, time: 0.17570799589157104}, IS_SORTED: false
-AVL insertion time: series 1, i: 6, time: 0.5218749642372131}, IS_SORTED: false
-BST insertion time: series 1, i: 6, time: 0.7639589905738831}, IS_SORTED: false
-AVL insertion time: series 1, i: 7, time: 1.5905410051345825}, IS_SORTED: false
-BST insertion time: series 1, i: 7, time: 0.2427910566329956}, IS_SORTED: false
-AVL insertion time: series 1, i: 8, time: 1.0871249437332153}, IS_SORTED: false
-BST insertion time: series 1, i: 8, time: 0.2577499747276306}, IS_SORTED: false
-AVL insertion time: series 1, i: 9, time: 0.890874981880188}, IS_SORTED: false
-BST insertion time: series 1, i: 9, time: 0.5422499775886536}, IS_SORTED: false
-AVL insertion time: series 1, i: 10, time: 0.522957980632782}, IS_SORTED: true
-BST insertion time: series 1, i: 10, time: 4.218832969665527}, IS_SORTED: true
-AVL insertion time: series 1, i: 11, time: 0.5254589915275574}, IS_SORTED: true
-BST insertion time: series 1, i: 11, time: 4.238334000110626}, IS_SORTED: true
-AVL insertion time: series 1, i: 12, time: 0.5246250033378601}, IS_SORTED: true
-BST insertion time: series 1, i: 12, time: 4.5284170508384705}, IS_SORTED: true
-AVL insertion time: series 1, i: 13, time: 0.5454170107841492}, IS_SORTED: true
-BST insertion time: series 1, i: 13, time: 4.402583956718445}, IS_SORTED: true
-AVL insertion time: series 1, i: 14, time: 0.5259580016136169}, IS_SORTED: true
-BST insertion time: series 1, i: 14, time: 4.235957980155945}, IS_SORTED: true
-AVL insertion time: series 1, i: 15, time: 0.5644170045852661}, IS_SORTED: true
-BST insertion time: series 1, i: 15, time: 4.52099996805191}, IS_SORTED: true
-AVL insertion time: series 1, i: 16, time: 0.5671249628067017}, IS_SORTED: true
-BST insertion time: series 1, i: 16, time: 4.5603750348091125}, IS_SORTED: true
-AVL insertion time: series 1, i: 17, time: 0.5451670289039612}, IS_SORTED: true
-BST insertion time: series 1, i: 17, time: 4.47079199552536}, IS_SORTED: true
-AVL insertion time: series 1, i: 18, time: 0.5676659941673279}, IS_SORTED: true
-BST insertion time: series 1, i: 18, time: 33.75991702079773}, IS_SORTED: true
-AVL insertion time: series 1, i: 19, time: 0.7921670079231262}, IS_SORTED: true
-BST insertion time: series 1, i: 19, time: 4.844958961009979}, IS_SORTED: true
-AVL search total time: series 1, i: 0, time: 0.7873749732971191}, IS_SORTED: false
-AVL search avg time: series 1, i: 0, time: 0.0007873749732971191}, IS_SORTED: false
-BST search total time: series 1, i: 0, time: 1.1062080264091492}, IS_SORTED: false
-BST search avg time: series 1, i: 0, time: 0.0011062080264091492}, IS_SORTED: false
-AVL search total time: series 1, i: 1, time: 1.1061660051345825}, IS_SORTED: false
-AVL search avg time: series 1, i: 1, time: 0.0011061660051345824}, IS_SORTED: false
-BST search total time: series 1, i: 1, time: 1.0426250100135803}, IS_SORTED: false
-BST search avg time: series 1, i: 1, time: 0.0010426250100135804}, IS_SORTED: false
-AVL search total time: series 1, i: 2, time: 0.7437919974327087}, IS_SORTED: false
-AVL search avg time: series 1, i: 2, time: 0.0007437919974327087}, IS_SORTED: false
-BST search total time: series 1, i: 2, time: 0.18554097414016724}, IS_SORTED: false
-BST search avg time: series 1, i: 2, time: 0.00018554097414016723}, IS_SORTED: false
-AVL search total time: series 1, i: 3, time: 0.2337079644203186}, IS_SORTED: false
-AVL search avg time: series 1, i: 3, time: 0.0002337079644203186}, IS_SORTED: false
-BST search total time: series 1, i: 3, time: 0.2141660451889038}, IS_SORTED: false
-BST search avg time: series 1, i: 3, time: 0.00021416604518890382}, IS_SORTED: false
-AVL search total time: series 1, i: 4, time: 0.1697080135345459}, IS_SORTED: false
-AVL search avg time: series 1, i: 4, time: 0.0001697080135345459}, IS_SORTED: false
-BST search total time: series 1, i: 4, time: 0.12366700172424316}, IS_SORTED: false
-BST search avg time: series 1, i: 4, time: 0.00012366700172424316}, IS_SORTED: false
-AVL search total time: series 1, i: 5, time: 0.13829201459884644}, IS_SORTED: false
-AVL search avg time: series 1, i: 5, time: 0.00013829201459884645}, IS_SORTED: false
-BST search total time: series 1, i: 5, time: 0.12812501192092896}, IS_SORTED: false
-BST search avg time: series 1, i: 5, time: 0.00012812501192092896}, IS_SORTED: false
-AVL search total time: series 1, i: 6, time: 0.13529199361801147}, IS_SORTED: false
-AVL search avg time: series 1, i: 6, time: 0.00013529199361801147}, IS_SORTED: false
-BST search total time: series 1, i: 6, time: 0.25662505626678467}, IS_SORTED: false
-BST search avg time: series 1, i: 6, time: 0.00025662505626678465}, IS_SORTED: false
-AVL search total time: series 1, i: 7, time: 0.21216696500778198}, IS_SORTED: false
-AVL search avg time: series 1, i: 7, time: 0.00021216696500778198}, IS_SORTED: false
-BST search total time: series 1, i: 7, time: 0.18433302640914917}, IS_SORTED: false
-BST search avg time: series 1, i: 7, time: 0.00018433302640914916}, IS_SORTED: false
-AVL search total time: series 1, i: 8, time: 0.20549994707107544}, IS_SORTED: false
-AVL search avg time: series 1, i: 8, time: 0.00020549994707107545}, IS_SORTED: false
-BST search total time: series 1, i: 8, time: 0.18295800685882568}, IS_SORTED: false
-BST search avg time: series 1, i: 8, time: 0.00018295800685882567}, IS_SORTED: false
-AVL search total time: series 1, i: 9, time: 0.2074580192565918}, IS_SORTED: false
-AVL search avg time: series 1, i: 9, time: 0.0002074580192565918}, IS_SORTED: false
-BST search total time: series 1, i: 9, time: 0.1941249966621399}, IS_SORTED: false
-BST search avg time: series 1, i: 9, time: 0.0001941249966621399}, IS_SORTED: false
-AVL search total time: series 1, i: 10, time: 0.13741600513458252}, IS_SORTED: true
-AVL search avg time: series 1, i: 10, time: 0.00013741600513458252}, IS_SORTED: true
-BST search total time: series 1, i: 10, time: 2.6954169869422913}, IS_SORTED: true
-BST search avg time: series 1, i: 10, time: 0.0026954169869422913}, IS_SORTED: true
-AVL search total time: series 1, i: 11, time: 0.1380409598350525}, IS_SORTED: true
-AVL search avg time: series 1, i: 11, time: 0.0001380409598350525}, IS_SORTED: true
-BST search total time: series 1, i: 11, time: 2.6784170269966125}, IS_SORTED: true
-BST search avg time: series 1, i: 11, time: 0.0026784170269966126}, IS_SORTED: true
-AVL search total time: series 1, i: 12, time: 0.13783299922943115}, IS_SORTED: true
-AVL search avg time: series 1, i: 12, time: 0.00013783299922943116}, IS_SORTED: true
-BST search total time: series 1, i: 12, time: 2.7694169878959656}, IS_SORTED: true
-BST search avg time: series 1, i: 12, time: 0.002769416987895966}, IS_SORTED: true
-AVL search total time: series 1, i: 13, time: 0.14079201221466064}, IS_SORTED: true
-AVL search avg time: series 1, i: 13, time: 0.00014079201221466064}, IS_SORTED: true
-BST search total time: series 1, i: 13, time: 2.6427090167999268}, IS_SORTED: true
-BST search avg time: series 1, i: 13, time: 0.002642709016799927}, IS_SORTED: true
-AVL search total time: series 1, i: 14, time: 0.1441659927368164}, IS_SORTED: true
-AVL search avg time: series 1, i: 14, time: 0.00014416599273681642}, IS_SORTED: true
-BST search total time: series 1, i: 14, time: 2.9217910170555115}, IS_SORTED: true
-BST search avg time: series 1, i: 14, time: 0.0029217910170555115}, IS_SORTED: true
-AVL search total time: series 1, i: 15, time: 0.15733301639556885}, IS_SORTED: true
-AVL search avg time: series 1, i: 15, time: 0.00015733301639556886}, IS_SORTED: true
-BST search total time: series 1, i: 15, time: 2.869374990463257}, IS_SORTED: true
-BST search avg time: series 1, i: 15, time: 0.002869374990463257}, IS_SORTED: true
-AVL search total time: series 1, i: 16, time: 0.1492919921875}, IS_SORTED: true
-AVL search avg time: series 1, i: 16, time: 0.0001492919921875}, IS_SORTED: true
-BST search total time: series 1, i: 16, time: 2.830999970436096}, IS_SORTED: true
-BST search avg time: series 1, i: 16, time: 0.0028309999704360963}, IS_SORTED: true
-AVL search total time: series 1, i: 17, time: 0.1468750238418579}, IS_SORTED: true
-AVL search avg time: series 1, i: 17, time: 0.0001468750238418579}, IS_SORTED: true
-BST search total time: series 1, i: 17, time: 2.668874979019165}, IS_SORTED: true
-BST search avg time: series 1, i: 17, time: 0.002668874979019165}, IS_SORTED: true
-AVL search total time: series 1, i: 18, time: 0.1594579815864563}, IS_SORTED: true
-AVL search avg time: series 1, i: 18, time: 0.0001594579815864563}, IS_SORTED: true
-BST search total time: series 1, i: 18, time: 4.3264999985694885}, IS_SORTED: true
-BST search avg time: series 1, i: 18, time: 0.0043264999985694885}, IS_SORTED: true
-AVL search total time: series 1, i: 19, time: 0.5020840167999268}, IS_SORTED: true
-AVL search avg time: series 1, i: 19, time: 0.0005020840167999268}, IS_SORTED: true
-BST search total time: series 1, i: 19, time: 5.5}, IS_SORTED: true
-BST search avg time: series 1, i: 19, time: 0.0055}, IS_SORTED: true
-AVL delete total time: series 1, i: 0, time: 3.19854199886322}, IS_SORTED: false 
-AVL delete avg time: series 1, i: 0, time: 0.0007873749732971191}, IS_SORTED: false
-BST delete total time: series 1, i: 0, time: 0.8498330116271973}, IS_SORTED: false
-BST delete avg time: series 1, i: 0, time: 0.0011062080264091492}, IS_SORTED: false
-AVL delete total time: series 1, i: 1, time: 0.8190410137176514}, IS_SORTED: false 
-AVL delete avg time: series 1, i: 1, time: 0.0011061660051345824}, IS_SORTED: false
-BST delete total time: series 1, i: 1, time: 1.4074580073356628}, IS_SORTED: false
-BST delete avg time: series 1, i: 1, time: 0.0010426250100135804}, IS_SORTED: false
-AVL delete total time: series 1, i: 2, time: 0.6165419816970825}, IS_SORTED: false 
-AVL delete avg time: series 1, i: 2, time: 0.0007437919974327087}, IS_SORTED: false
-BST delete total time: series 1, i: 2, time: 0.2419169545173645}, IS_SORTED: false
-BST delete avg time: series 1, i: 2, time: 0.00018554097414016723}, IS_SORTED: false
-AVL delete total time: series 1, i: 3, time: 0.9897500276565552}, IS_SORTED: false 
-AVL delete avg time: series 1, i: 3, time: 0.0002337079644203186}, IS_SORTED: false
-BST delete total time: series 1, i: 3, time: 0.2425839900970459}, IS_SORTED: false
-BST delete avg time: series 1, i: 3, time: 0.00021416604518890382}, IS_SORTED: false
-AVL delete total time: series 1, i: 4, time: 0.46720802783966064}, IS_SORTED: false 
-AVL delete avg time: series 1, i: 4, time: 0.0001697080135345459}, IS_SORTED: false
-BST delete total time: series 1, i: 4, time: 0.15424996614456177}, IS_SORTED: false
-BST delete avg time: series 1, i: 4, time: 0.00012366700172424316}, IS_SORTED: false
-AVL delete total time: series 1, i: 5, time: 0.3103330135345459}, IS_SORTED: false 
-AVL delete avg time: series 1, i: 5, time: 0.00013829201459884645}, IS_SORTED: false
-BST delete total time: series 1, i: 5, time: 0.15516597032546997}, IS_SORTED: false
-BST delete avg time: series 1, i: 5, time: 0.00012812501192092896}, IS_SORTED: false
-AVL delete total time: series 1, i: 6, time: 1.297124981880188}, IS_SORTED: false 
-AVL delete avg time: series 1, i: 6, time: 0.00013529199361801147}, IS_SORTED: false
-BST delete total time: series 1, i: 6, time: 0.4852910041809082}, IS_SORTED: false
-BST delete avg time: series 1, i: 6, time: 0.00025662505626678465}, IS_SORTED: false
-AVL delete total time: series 1, i: 7, time: 0.5702080130577087}, IS_SORTED: false 
-AVL delete avg time: series 1, i: 7, time: 0.00021216696500778198}, IS_SORTED: false
-BST delete total time: series 1, i: 7, time: 0.2695000171661377}, IS_SORTED: false
-BST delete avg time: series 1, i: 7, time: 0.00018433302640914916}, IS_SORTED: false
-AVL delete total time: series 1, i: 8, time: 0.5652499794960022}, IS_SORTED: false 
-AVL delete avg time: series 1, i: 8, time: 0.00020549994707107545}, IS_SORTED: false
-BST delete total time: series 1, i: 8, time: 0.96983402967453}, IS_SORTED: false
-BST delete avg time: series 1, i: 8, time: 0.00018295800685882567}, IS_SORTED: false
-AVL delete total time: series 1, i: 9, time: 0.5668339729309082}, IS_SORTED: false 
-AVL delete avg time: series 1, i: 9, time: 0.0002074580192565918}, IS_SORTED: false
-BST delete total time: series 1, i: 9, time: 0.12395799160003662}, IS_SORTED: false
-BST delete avg time: series 1, i: 9, time: 0.0001941249966621399}, IS_SORTED: false
-AVL delete total time: series 1, i: 10, time: 0.1828330159187317}, IS_SORTED: true 
-AVL delete avg time: series 1, i: 10, time: 0.00013741600513458252}, IS_SORTED: true
-BST delete total time: series 1, i: 10, time: 0.07845801115036011}, IS_SORTED: true
-BST delete avg time: series 1, i: 10, time: 0.0026954169869422913}, IS_SORTED: true
-AVL delete total time: series 1, i: 11, time: 0.18183296918869019}, IS_SORTED: true 
-AVL delete avg time: series 1, i: 11, time: 0.0001380409598350525}, IS_SORTED: true
-BST delete total time: series 1, i: 11, time: 0.07808303833007812}, IS_SORTED: true
-BST delete avg time: series 1, i: 11, time: 0.0026784170269966126}, IS_SORTED: true
-AVL delete total time: series 1, i: 12, time: 0.18791598081588745}, IS_SORTED: true 
-AVL delete avg time: series 1, i: 12, time: 0.00013783299922943116}, IS_SORTED: true
-BST delete total time: series 1, i: 12, time: 0.07758301496505737}, IS_SORTED: true
-BST delete avg time: series 1, i: 12, time: 0.002769416987895966}, IS_SORTED: true
-AVL delete total time: series 1, i: 13, time: 0.18412500619888306}, IS_SORTED: true 
-AVL delete avg time: series 1, i: 13, time: 0.00014079201221466064}, IS_SORTED: true
-BST delete total time: series 1, i: 13, time: 0.08395802974700928}, IS_SORTED: true
-BST delete avg time: series 1, i: 13, time: 0.002642709016799927}, IS_SORTED: true
-AVL delete total time: series 1, i: 14, time: 0.1886250376701355}, IS_SORTED: true 
-AVL delete avg time: series 1, i: 14, time: 0.00014416599273681642}, IS_SORTED: true
-BST delete total time: series 1, i: 14, time: 0.10175001621246338}, IS_SORTED: true
-BST delete avg time: series 1, i: 14, time: 0.0029217910170555115}, IS_SORTED: true
-AVL delete total time: series 1, i: 15, time: 0.2059590220451355}, IS_SORTED: true 
-AVL delete avg time: series 1, i: 15, time: 0.00015733301639556886}, IS_SORTED: true
-BST delete total time: series 1, i: 15, time: 0.08845800161361694}, IS_SORTED: true
-BST delete avg time: series 1, i: 15, time: 0.002869374990463257}, IS_SORTED: true
-AVL delete total time: series 1, i: 16, time: 0.19879096746444702}, IS_SORTED: true 
-AVL delete avg time: series 1, i: 16, time: 0.0001492919921875}, IS_SORTED: true
-BST delete total time: series 1, i: 16, time: 0.08312499523162842}, IS_SORTED: true
-BST delete avg time: series 1, i: 16, time: 0.0028309999704360963}, IS_SORTED: true
-AVL delete total time: series 1, i: 17, time: 0.1922919750213623}, IS_SORTED: true 
-AVL delete avg time: series 1, i: 17, time: 0.0001468750238418579}, IS_SORTED: true
-BST delete total time: series 1, i: 17, time: 0.092166006565094}, IS_SORTED: true
-BST delete avg time: series 1, i: 17, time: 0.002668874979019165}, IS_SORTED: true
-AVL delete total time: series 1, i: 18, time: 0.18950003385543823}, IS_SORTED: true 
-AVL delete avg time: series 1, i: 18, time: 0.0001594579815864563}, IS_SORTED: true
-BST delete total time: series 1, i: 18, time: 0.13841700553894043}, IS_SORTED: true
-BST delete avg time: series 1, i: 18, time: 0.0043264999985694885}, IS_SORTED: true
-AVL delete total time: series 1, i: 19, time: 0.47783297300338745}, IS_SORTED: true 
-AVL delete avg time: series 1, i: 19, time: 0.0005020840167999268}, IS_SORTED: true
-BST delete total time: series 1, i: 19, time: 0.16437500715255737}, IS_SORTED: true
-BST delete avg time: series 1, i: 19, time: 0.0055}, IS_SORTED: true
-TOTAL ELEMENTS: 
-4096
-AVL insertion time: series 2, i: 0, time: 2.197582960128784}, IS_SORTED: false
-BST insertion time: series 2, i: 0, time: 0.48087501525878906}, IS_SORTED: false
-AVL insertion time: series 2, i: 1, time: 1.2754999995231628}, IS_SORTED: false
-BST insertion time: series 2, i: 1, time: 0.41612499952316284}, IS_SORTED: false
-AVL insertion time: series 2, i: 2, time: 1.3339579701423645}, IS_SORTED: false
-BST insertion time: series 2, i: 2, time: 0.45033299922943115}, IS_SORTED: false
-AVL insertion time: series 2, i: 3, time: 1.3206250071525574}, IS_SORTED: false
-BST insertion time: series 2, i: 3, time: 0.7707090377807617}, IS_SORTED: false
-AVL insertion time: series 2, i: 4, time: 1.3493749499320984}, IS_SORTED: false
-BST insertion time: series 2, i: 4, time: 0.38841700553894043}, IS_SORTED: false
-AVL insertion time: series 2, i: 5, time: 1.2699580192565918}, IS_SORTED: false
-BST insertion time: series 2, i: 5, time: 0.3927500247955322}, IS_SORTED: false
-AVL insertion time: series 2, i: 6, time: 1.2828750014305115}, IS_SORTED: false
-BST insertion time: series 2, i: 6, time: 0.39216697216033936}, IS_SORTED: false
-AVL insertion time: series 2, i: 7, time: 1.2884159684181213}, IS_SORTED: false
-BST insertion time: series 2, i: 7, time: 0.39237499237060547}, IS_SORTED: false
-AVL insertion time: series 2, i: 8, time: 1.2847919464111328}, IS_SORTED: false
-BST insertion time: series 2, i: 8, time: 0.3884589672088623}, IS_SORTED: false
-AVL insertion time: series 2, i: 9, time: 1.274749994277954}, IS_SORTED: false
-BST insertion time: series 2, i: 9, time: 0.4126669764518738}, IS_SORTED: false
-AVL insertion time: series 2, i: 10, time: 1.3012920022010803}, IS_SORTED: true
-BST insertion time: series 2, i: 10, time: 17.810415983200073}, IS_SORTED: true
-AVL insertion time: series 2, i: 11, time: 1.2595409750938416}, IS_SORTED: true
-BST insertion time: series 2, i: 11, time: 17.82854199409485}, IS_SORTED: true
-AVL insertion time: series 2, i: 12, time: 1.3385419845581055}, IS_SORTED: true
-BST insertion time: series 2, i: 12, time: 18.312624990940094}, IS_SORTED: true
-AVL insertion time: series 2, i: 13, time: 1.6953330039978027}, IS_SORTED: true
-BST insertion time: series 2, i: 13, time: 19.627291977405548}, IS_SORTED: true
-AVL insertion time: series 2, i: 14, time: 1.152791976928711}, IS_SORTED: true
-BST insertion time: series 2, i: 14, time: 18.710000038146973}, IS_SORTED: true
-AVL insertion time: series 2, i: 15, time: 1.1044999957084656}, IS_SORTED: true
-BST insertion time: series 2, i: 15, time: 20.697582960128784}, IS_SORTED: true
-AVL insertion time: series 2, i: 16, time: 1.1462079882621765}, IS_SORTED: true
-BST insertion time: series 2, i: 16, time: 19.84833300113678}, IS_SORTED: true
-AVL insertion time: series 2, i: 17, time: 1.1178749799728394}, IS_SORTED: true
-BST insertion time: series 2, i: 17, time: 18.63033401966095}, IS_SORTED: true
-AVL insertion time: series 2, i: 18, time: 1.1444169878959656}, IS_SORTED: true
-BST insertion time: series 2, i: 18, time: 18.689916014671326}, IS_SORTED: true
-AVL insertion time: series 2, i: 19, time: 1.1105839610099792}, IS_SORTED: true
-BST insertion time: series 2, i: 19, time: 18.719666004180908}, IS_SORTED: true
-AVL search total time: series 2, i: 0, time: 0.19687503576278687}, IS_SORTED: false
-AVL search avg time: series 2, i: 0, time: 0.00019687503576278686}, IS_SORTED: false
-BST search total time: series 2, i: 0, time: 0.20629096031188965}, IS_SORTED: false
-BST search avg time: series 2, i: 0, time: 0.00020629096031188964}, IS_SORTED: false
-AVL search total time: series 2, i: 1, time: 0.15191704034805298}, IS_SORTED: false
-AVL search avg time: series 2, i: 1, time: 0.00015191704034805297}, IS_SORTED: false
-BST search total time: series 2, i: 1, time: 0.14687496423721313}, IS_SORTED: false
-BST search avg time: series 2, i: 1, time: 0.00014687496423721312}, IS_SORTED: false
-AVL search total time: series 2, i: 2, time: 0.17020803689956665}, IS_SORTED: false
-AVL search avg time: series 2, i: 2, time: 0.00017020803689956666}, IS_SORTED: false
-BST search total time: series 2, i: 2, time: 0.15266704559326172}, IS_SORTED: false
-BST search avg time: series 2, i: 2, time: 0.00015266704559326172}, IS_SORTED: false
-AVL search total time: series 2, i: 3, time: 0.15804201364517212}, IS_SORTED: false
-AVL search avg time: series 2, i: 3, time: 0.00015804201364517213}, IS_SORTED: false
-BST search total time: series 2, i: 3, time: 0.14858299493789673}, IS_SORTED: false
-BST search avg time: series 2, i: 3, time: 0.00014858299493789674}, IS_SORTED: false
-AVL search total time: series 2, i: 4, time: 0.15733397006988525}, IS_SORTED: false
-AVL search avg time: series 2, i: 4, time: 0.00015733397006988527}, IS_SORTED: false
-BST search total time: series 2, i: 4, time: 0.14037495851516724}, IS_SORTED: false
-BST search avg time: series 2, i: 4, time: 0.00014037495851516724}, IS_SORTED: false
-AVL search total time: series 2, i: 5, time: 0.15337496995925903}, IS_SORTED: false
-AVL search avg time: series 2, i: 5, time: 0.00015337496995925903}, IS_SORTED: false
-BST search total time: series 2, i: 5, time: 0.1456660032272339}, IS_SORTED: false
-BST search avg time: series 2, i: 5, time: 0.00014566600322723388}, IS_SORTED: false
-AVL search total time: series 2, i: 6, time: 0.15325003862380981}, IS_SORTED: false
-AVL search avg time: series 2, i: 6, time: 0.0001532500386238098}, IS_SORTED: false
-BST search total time: series 2, i: 6, time: 0.15104103088378906}, IS_SORTED: false
-BST search avg time: series 2, i: 6, time: 0.00015104103088378905}, IS_SORTED: false
-AVL search total time: series 2, i: 7, time: 0.1572909951210022}, IS_SORTED: false
-AVL search avg time: series 2, i: 7, time: 0.0001572909951210022}, IS_SORTED: false
-BST search total time: series 2, i: 7, time: 0.14458400011062622}, IS_SORTED: false
-BST search avg time: series 2, i: 7, time: 0.00014458400011062623}, IS_SORTED: false
-AVL search total time: series 2, i: 8, time: 0.15541601181030273}, IS_SORTED: false
-AVL search avg time: series 2, i: 8, time: 0.00015541601181030273}, IS_SORTED: false
-BST search total time: series 2, i: 8, time: 0.14433401823043823}, IS_SORTED: false
-BST search avg time: series 2, i: 8, time: 0.00014433401823043824}, IS_SORTED: false
-AVL search total time: series 2, i: 9, time: 0.15183401107788086}, IS_SORTED: false
-AVL search avg time: series 2, i: 9, time: 0.00015183401107788085}, IS_SORTED: false
-BST search total time: series 2, i: 9, time: 0.1679999828338623}, IS_SORTED: false
-BST search avg time: series 2, i: 9, time: 0.0001679999828338623}, IS_SORTED: false
-AVL search total time: series 2, i: 10, time: 0.1614999771118164}, IS_SORTED: true
-AVL search avg time: series 2, i: 10, time: 0.0001614999771118164}, IS_SORTED: true
-BST search total time: series 2, i: 10, time: 5.474291980266571}, IS_SORTED: true
-BST search avg time: series 2, i: 10, time: 0.005474291980266571}, IS_SORTED: true
-AVL search total time: series 2, i: 11, time: 0.15925002098083496}, IS_SORTED: true
-AVL search avg time: series 2, i: 11, time: 0.00015925002098083496}, IS_SORTED: true
-BST search total time: series 2, i: 11, time: 5.473375022411346}, IS_SORTED: true
-BST search avg time: series 2, i: 11, time: 0.005473375022411346}, IS_SORTED: true
-AVL search total time: series 2, i: 12, time: 0.16970902681350708}, IS_SORTED: true
-AVL search avg time: series 2, i: 12, time: 0.00016970902681350707}, IS_SORTED: true
-BST search total time: series 2, i: 12, time: 5.557832956314087}, IS_SORTED: true
-BST search avg time: series 2, i: 12, time: 0.005557832956314087}, IS_SORTED: true
-AVL search total time: series 2, i: 13, time: 0.2840830087661743}, IS_SORTED: true
-AVL search avg time: series 2, i: 13, time: 0.00028408300876617433}, IS_SORTED: true
-BST search total time: series 2, i: 13, time: 5.531417012214661}, IS_SORTED: true
-BST search avg time: series 2, i: 13, time: 0.005531417012214661}, IS_SORTED: true
-AVL search total time: series 2, i: 14, time: 0.1189579963684082}, IS_SORTED: true
-AVL search avg time: series 2, i: 14, time: 0.00011895799636840821}, IS_SORTED: true
-BST search total time: series 2, i: 14, time: 5.176500022411346}, IS_SORTED: true
-BST search avg time: series 2, i: 14, time: 0.005176500022411347}, IS_SORTED: true
-AVL search total time: series 2, i: 15, time: 0.12145799398422241}, IS_SORTED: true
-AVL search avg time: series 2, i: 15, time: 0.00012145799398422242}, IS_SORTED: true
-BST search total time: series 2, i: 15, time: 6.2542500495910645}, IS_SORTED: true
-BST search avg time: series 2, i: 15, time: 0.006254250049591064}, IS_SORTED: true
-AVL search total time: series 2, i: 16, time: 0.13158297538757324}, IS_SORTED: true
-AVL search avg time: series 2, i: 16, time: 0.00013158297538757324}, IS_SORTED: true
-BST search total time: series 2, i: 16, time: 5.317124962806702}, IS_SORTED: true
-BST search avg time: series 2, i: 16, time: 0.005317124962806702}, IS_SORTED: true
-AVL search total time: series 2, i: 17, time: 0.12050002813339233}, IS_SORTED: true
-AVL search avg time: series 2, i: 17, time: 0.00012050002813339233}, IS_SORTED: true
-BST search total time: series 2, i: 17, time: 5.256249964237213}, IS_SORTED: true
-BST search avg time: series 2, i: 17, time: 0.005256249964237213}, IS_SORTED: true
-AVL search total time: series 2, i: 18, time: 0.1240839958190918}, IS_SORTED: true
-AVL search avg time: series 2, i: 18, time: 0.0001240839958190918}, IS_SORTED: true
-BST search total time: series 2, i: 18, time: 5.283416986465454}, IS_SORTED: true
-BST search avg time: series 2, i: 18, time: 0.0052834169864654544}, IS_SORTED: true
-AVL search total time: series 2, i: 19, time: 0.12154203653335571}, IS_SORTED: true
-AVL search avg time: series 2, i: 19, time: 0.00012154203653335571}, IS_SORTED: true
-BST search total time: series 2, i: 19, time: 5.262250006198883}, IS_SORTED: true
-BST search avg time: series 2, i: 19, time: 0.005262250006198883}, IS_SORTED: true
-AVL delete total time: series 2, i: 0, time: 0.6197500228881836}, IS_SORTED: false 
-AVL delete avg time: series 2, i: 0, time: 0.00019687503576278686}, IS_SORTED: false
-BST delete total time: series 2, i: 0, time: 0.2697499990463257}, IS_SORTED: false
-BST delete avg time: series 2, i: 0, time: 0.00020629096031188964}, IS_SORTED: false
-AVL delete total time: series 2, i: 1, time: 0.2914170026779175}, IS_SORTED: false 
-AVL delete avg time: series 2, i: 1, time: 0.00015191704034805297}, IS_SORTED: false
-BST delete total time: series 2, i: 1, time: 0.12066704034805298}, IS_SORTED: false
-BST delete avg time: series 2, i: 1, time: 0.00014687496423721312}, IS_SORTED: false
-AVL delete total time: series 2, i: 2, time: 0.3046249747276306}, IS_SORTED: false 
-AVL delete avg time: series 2, i: 2, time: 0.00017020803689956666}, IS_SORTED: false
-BST delete total time: series 2, i: 2, time: 0.12233400344848633}, IS_SORTED: false
-BST delete avg time: series 2, i: 2, time: 0.00015266704559326172}, IS_SORTED: false
-AVL delete total time: series 2, i: 3, time: 0.2859579920768738}, IS_SORTED: false 
-AVL delete avg time: series 2, i: 3, time: 0.00015804201364517213}, IS_SORTED: false
-BST delete total time: series 2, i: 3, time: 0.12062501907348633}, IS_SORTED: false
-BST delete avg time: series 2, i: 3, time: 0.00014858299493789674}, IS_SORTED: false
-AVL delete total time: series 2, i: 4, time: 0.28862500190734863}, IS_SORTED: false 
-AVL delete avg time: series 2, i: 4, time: 0.00015733397006988527}, IS_SORTED: false
-BST delete total time: series 2, i: 4, time: 0.12137502431869507}, IS_SORTED: false
-BST delete avg time: series 2, i: 4, time: 0.00014037495851516724}, IS_SORTED: false
-AVL delete total time: series 2, i: 5, time: 0.2960420250892639}, IS_SORTED: false 
-AVL delete avg time: series 2, i: 5, time: 0.00015337496995925903}, IS_SORTED: false
-BST delete total time: series 2, i: 5, time: 0.12062495946884155}, IS_SORTED: false
-BST delete avg time: series 2, i: 5, time: 0.00014566600322723388}, IS_SORTED: false
-AVL delete total time: series 2, i: 6, time: 0.2926250100135803}, IS_SORTED: false 
-AVL delete avg time: series 2, i: 6, time: 0.0001532500386238098}, IS_SORTED: false
-BST delete total time: series 2, i: 6, time: 0.1218329668045044}, IS_SORTED: false
-BST delete avg time: series 2, i: 6, time: 0.00015104103088378905}, IS_SORTED: false
-AVL delete total time: series 2, i: 7, time: 0.29225003719329834}, IS_SORTED: false 
-AVL delete avg time: series 2, i: 7, time: 0.0001572909951210022}, IS_SORTED: false
-BST delete total time: series 2, i: 7, time: 0.12062501907348633}, IS_SORTED: false
-BST delete avg time: series 2, i: 7, time: 0.00014458400011062623}, IS_SORTED: false
-AVL delete total time: series 2, i: 8, time: 0.2854999899864197}, IS_SORTED: false 
-AVL delete avg time: series 2, i: 8, time: 0.00015541601181030273}, IS_SORTED: false
-BST delete total time: series 2, i: 8, time: 0.11870896816253662}, IS_SORTED: false
-BST delete avg time: series 2, i: 8, time: 0.00014433401823043824}, IS_SORTED: false
-AVL delete total time: series 2, i: 9, time: 0.2977500557899475}, IS_SORTED: false 
-AVL delete avg time: series 2, i: 9, time: 0.00015183401107788085}, IS_SORTED: false
-BST delete total time: series 2, i: 9, time: 0.14070796966552734}, IS_SORTED: false
-BST delete avg time: series 2, i: 9, time: 0.0001679999828338623}, IS_SORTED: false
-AVL delete total time: series 2, i: 10, time: 0.19987505674362183}, IS_SORTED: true 
-AVL delete avg time: series 2, i: 10, time: 0.0001614999771118164}, IS_SORTED: true
-BST delete total time: series 2, i: 10, time: 0.08991599082946777}, IS_SORTED: true
-BST delete avg time: series 2, i: 10, time: 0.005474291980266571}, IS_SORTED: true
-AVL delete total time: series 2, i: 11, time: 0.20091599225997925}, IS_SORTED: true 
-AVL delete avg time: series 2, i: 11, time: 0.00015925002098083496}, IS_SORTED: true
-BST delete total time: series 2, i: 11, time: 0.09424996376037598}, IS_SORTED: true
-BST delete avg time: series 2, i: 11, time: 0.005473375022411346}, IS_SORTED: true
-AVL delete total time: series 2, i: 12, time: 0.21404200792312622}, IS_SORTED: true 
-AVL delete avg time: series 2, i: 12, time: 0.00016970902681350707}, IS_SORTED: true
-BST delete total time: series 2, i: 12, time: 0.08312499523162842}, IS_SORTED: true
-BST delete avg time: series 2, i: 12, time: 0.005557832956314087}, IS_SORTED: true
-AVL delete total time: series 2, i: 13, time: 0.4673750400543213}, IS_SORTED: true 
-AVL delete avg time: series 2, i: 13, time: 0.00028408300876617433}, IS_SORTED: true
-BST delete total time: series 2, i: 13, time: 0.12945902347564697}, IS_SORTED: true
-BST delete avg time: series 2, i: 13, time: 0.005531417012214661}, IS_SORTED: true
-AVL delete total time: series 2, i: 14, time: 0.16324996948242188}, IS_SORTED: true 
-AVL delete avg time: series 2, i: 14, time: 0.00011895799636840821}, IS_SORTED: true
-BST delete total time: series 2, i: 14, time: 0.04908299446105957}, IS_SORTED: true
-BST delete avg time: series 2, i: 14, time: 0.005176500022411347}, IS_SORTED: true
-AVL delete total time: series 2, i: 15, time: 0.1625000238418579}, IS_SORTED: true 
-AVL delete avg time: series 2, i: 15, time: 0.00012145799398422242}, IS_SORTED: true
-BST delete total time: series 2, i: 15, time: 0.0662909746170044}, IS_SORTED: true
-BST delete avg time: series 2, i: 15, time: 0.006254250049591064}, IS_SORTED: true
-AVL delete total time: series 2, i: 16, time: 0.1734580397605896}, IS_SORTED: true 
-AVL delete avg time: series 2, i: 16, time: 0.00013158297538757324}, IS_SORTED: true
-BST delete total time: series 2, i: 16, time: 0.049957990646362305}, IS_SORTED: true
-BST delete avg time: series 2, i: 16, time: 0.005317124962806702}, IS_SORTED: true
-AVL delete total time: series 2, i: 17, time: 0.16387498378753662}, IS_SORTED: true 
-AVL delete avg time: series 2, i: 17, time: 0.00012050002813339233}, IS_SORTED: true
-BST delete total time: series 2, i: 17, time: 0.05333399772644043}, IS_SORTED: true
-BST delete avg time: series 2, i: 17, time: 0.005256249964237213}, IS_SORTED: true
-AVL delete total time: series 2, i: 18, time: 0.16962498426437378}, IS_SORTED: true 
-AVL delete avg time: series 2, i: 18, time: 0.0001240839958190918}, IS_SORTED: true
-BST delete total time: series 2, i: 18, time: 0.052165985107421875}, IS_SORTED: true
-BST delete avg time: series 2, i: 18, time: 0.0052834169864654544}, IS_SORTED: true
-AVL delete total time: series 2, i: 19, time: 0.1637919545173645}, IS_SORTED: true 
-AVL delete avg time: series 2, i: 19, time: 0.00012154203653335571}, IS_SORTED: true
-BST delete total time: series 2, i: 19, time: 0.04883301258087158}, IS_SORTED: true
-BST delete avg time: series 2, i: 19, time: 0.005262250006198883}, IS_SORTED: true
-TOTAL ELEMENTS: 
-8192
-AVL insertion time: series 3, i: 0, time: 2.9794170260429382}, IS_SORTED: false
-BST insertion time: series 3, i: 0, time: 0.8490409851074219}, IS_SORTED: false
-AVL insertion time: series 3, i: 1, time: 2.315249979496002}, IS_SORTED: false
-BST insertion time: series 3, i: 1, time: 0.8057500123977661}, IS_SORTED: false
-AVL insertion time: series 3, i: 2, time: 1.9399589896202087}, IS_SORTED: false
-BST insertion time: series 3, i: 2, time: 0.8603749871253967}, IS_SORTED: false
-AVL insertion time: series 3, i: 3, time: 1.9635000228881836}, IS_SORTED: false
-BST insertion time: series 3, i: 3, time: 1.174041986465454}, IS_SORTED: false
-AVL insertion time: series 3, i: 4, time: 1.8902080059051514}, IS_SORTED: false
-BST insertion time: series 3, i: 4, time: 0.769582986831665}, IS_SORTED: false
-AVL insertion time: series 3, i: 5, time: 1.9324589967727661}, IS_SORTED: false
-BST insertion time: series 3, i: 5, time: 0.8657920360565186}, IS_SORTED: false
-AVL insertion time: series 3, i: 6, time: 2.0649580359458923}, IS_SORTED: false
-BST insertion time: series 3, i: 6, time: 0.8801659941673279}, IS_SORTED: false
-AVL insertion time: series 3, i: 7, time: 2.2594589591026306}, IS_SORTED: false
-BST insertion time: series 3, i: 7, time: 0.7868339419364929}, IS_SORTED: false
-AVL insertion time: series 3, i: 8, time: 1.862375020980835}, IS_SORTED: false
-BST insertion time: series 3, i: 8, time: 0.7820839881896973}, IS_SORTED: false
-AVL insertion time: series 3, i: 9, time: 1.6020830273628235}, IS_SORTED: false
-BST insertion time: series 3, i: 9, time: 0.6121670007705688}, IS_SORTED: false
-AVL insertion time: series 3, i: 10, time: 1.5002500414848328}, IS_SORTED: true
-BST insertion time: series 3, i: 10, time: 76.98966699838638}, IS_SORTED: true
-AVL insertion time: series 3, i: 11, time: 1.5154169797897339}, IS_SORTED: true
-BST insertion time: series 3, i: 11, time: 75.15141695737839}, IS_SORTED: true
-AVL insertion time: series 3, i: 12, time: 1.5273330211639404}, IS_SORTED: true
-BST insertion time: series 3, i: 12, time: 75.96070796251297}, IS_SORTED: true
-AVL insertion time: series 3, i: 13, time: 1.51500004529953}, IS_SORTED: true
-BST insertion time: series 3, i: 13, time: 77.88850003480911}, IS_SORTED: true
-AVL insertion time: series 3, i: 14, time: 1.5077910423278809}, IS_SORTED: true
-BST insertion time: series 3, i: 14, time: 78.32462495565414}, IS_SORTED: true
-AVL insertion time: series 3, i: 15, time: 1.524042010307312}, IS_SORTED: true
-BST insertion time: series 3, i: 15, time: 75.63045799732208}, IS_SORTED: true
-AVL insertion time: series 3, i: 16, time: 1.5050830245018005}, IS_SORTED: true
-BST insertion time: series 3, i: 16, time: 74.93124997615814}, IS_SORTED: true
-AVL insertion time: series 3, i: 17, time: 1.517291009426117}, IS_SORTED: true
-BST insertion time: series 3, i: 17, time: 74.91912496089935}, IS_SORTED: true
-AVL insertion time: series 3, i: 18, time: 1.810334026813507}, IS_SORTED: true
-BST insertion time: series 3, i: 18, time: 75.73645895719528}, IS_SORTED: true
-AVL insertion time: series 3, i: 19, time: 1.5457910299301147}, IS_SORTED: true
-BST insertion time: series 3, i: 19, time: 75.74395799636841}, IS_SORTED: true
-AVL search total time: series 3, i: 0, time: 0.8891249895095825}, IS_SORTED: false
-AVL search avg time: series 3, i: 0, time: 0.0008891249895095825}, IS_SORTED: false
-BST search total time: series 3, i: 0, time: 0.20387500524520874}, IS_SORTED: false
-BST search avg time: series 3, i: 0, time: 0.00020387500524520874}, IS_SORTED: false
-AVL search total time: series 3, i: 1, time: 0.16841602325439453}, IS_SORTED: false
-AVL search avg time: series 3, i: 1, time: 0.00016841602325439454}, IS_SORTED: false
-BST search total time: series 3, i: 1, time: 0.14399999380111694}, IS_SORTED: false
-BST search avg time: series 3, i: 1, time: 0.00014399999380111694}, IS_SORTED: false
-AVL search total time: series 3, i: 2, time: 0.16533398628234863}, IS_SORTED: false
-AVL search avg time: series 3, i: 2, time: 0.00016533398628234864}, IS_SORTED: false
-BST search total time: series 3, i: 2, time: 0.14345800876617432}, IS_SORTED: false
-BST search avg time: series 3, i: 2, time: 0.00014345800876617432}, IS_SORTED: false
-AVL search total time: series 3, i: 3, time: 0.1660829782485962}, IS_SORTED: false
-AVL search avg time: series 3, i: 3, time: 0.00016608297824859618}, IS_SORTED: false
-BST search total time: series 3, i: 3, time: 0.13920801877975464}, IS_SORTED: false
-BST search avg time: series 3, i: 3, time: 0.00013920801877975465}, IS_SORTED: false
-AVL search total time: series 3, i: 4, time: 0.16058295965194702}, IS_SORTED: false
-AVL search avg time: series 3, i: 4, time: 0.00016058295965194703}, IS_SORTED: false
-BST search total time: series 3, i: 4, time: 0.13995802402496338}, IS_SORTED: false
-BST search avg time: series 3, i: 4, time: 0.0001399580240249634}, IS_SORTED: false
-AVL search total time: series 3, i: 5, time: 0.1625000238418579}, IS_SORTED: false
-AVL search avg time: series 3, i: 5, time: 0.0001625000238418579}, IS_SORTED: false
-BST search total time: series 3, i: 5, time: 0.18187499046325684}, IS_SORTED: false
-BST search avg time: series 3, i: 5, time: 0.00018187499046325685}, IS_SORTED: false
-AVL search total time: series 3, i: 6, time: 0.17116695642471313}, IS_SORTED: false
-AVL search avg time: series 3, i: 6, time: 0.00017116695642471313}, IS_SORTED: false
-BST search total time: series 3, i: 6, time: 0.14479196071624756}, IS_SORTED: false
-BST search avg time: series 3, i: 6, time: 0.00014479196071624757}, IS_SORTED: false
-AVL search total time: series 3, i: 7, time: 0.16150003671646118}, IS_SORTED: false
-AVL search avg time: series 3, i: 7, time: 0.0001615000367164612}, IS_SORTED: false
-BST search total time: series 3, i: 7, time: 0.14391696453094482}, IS_SORTED: false
-BST search avg time: series 3, i: 7, time: 0.00014391696453094481}, IS_SORTED: false
-AVL search total time: series 3, i: 8, time: 0.25966697931289673}, IS_SORTED: false
-AVL search avg time: series 3, i: 8, time: 0.0002596669793128967}, IS_SORTED: false
-BST search total time: series 3, i: 8, time: 0.10666698217391968}, IS_SORTED: false
-BST search avg time: series 3, i: 8, time: 0.00010666698217391968}, IS_SORTED: false
-AVL search total time: series 3, i: 9, time: 0.12962502241134644}, IS_SORTED: false
-AVL search avg time: series 3, i: 9, time: 0.00012962502241134643}, IS_SORTED: false
-BST search total time: series 3, i: 9, time: 0.10979199409484863}, IS_SORTED: false
-BST search avg time: series 3, i: 9, time: 0.00010979199409484863}, IS_SORTED: false
-AVL search total time: series 3, i: 10, time: 0.1350420117378235}, IS_SORTED: true
-AVL search avg time: series 3, i: 10, time: 0.00013504201173782348}, IS_SORTED: true
-BST search total time: series 3, i: 10, time: 10.513332962989807}, IS_SORTED: true
-BST search avg time: series 3, i: 10, time: 0.010513332962989808}, IS_SORTED: true
-AVL search total time: series 3, i: 11, time: 0.13666599988937378}, IS_SORTED: true
-AVL search avg time: series 3, i: 11, time: 0.00013666599988937378}, IS_SORTED: true
-BST search total time: series 3, i: 11, time: 10.42612498998642}, IS_SORTED: true
-BST search avg time: series 3, i: 11, time: 0.01042612498998642}, IS_SORTED: true
-AVL search total time: series 3, i: 12, time: 0.13770800828933716}, IS_SORTED: true
-AVL search avg time: series 3, i: 12, time: 0.00013770800828933716}, IS_SORTED: true
-BST search total time: series 3, i: 12, time: 10.358707964420319}, IS_SORTED: true
-BST search avg time: series 3, i: 12, time: 0.010358707964420318}, IS_SORTED: true
-AVL search total time: series 3, i: 13, time: 0.1389169692993164}, IS_SORTED: true
-AVL search avg time: series 3, i: 13, time: 0.0001389169692993164}, IS_SORTED: true
-BST search total time: series 3, i: 13, time: 11.022958040237427}, IS_SORTED: true
-BST search avg time: series 3, i: 13, time: 0.011022958040237427}, IS_SORTED: true
-AVL search total time: series 3, i: 14, time: 0.13737499713897705}, IS_SORTED: true
-AVL search avg time: series 3, i: 14, time: 0.00013737499713897705}, IS_SORTED: true
-BST search total time: series 3, i: 14, time: 10.87200003862381}, IS_SORTED: true
-BST search avg time: series 3, i: 14, time: 0.01087200003862381}, IS_SORTED: true
-AVL search total time: series 3, i: 15, time: 0.13887500762939453}, IS_SORTED: true
-AVL search avg time: series 3, i: 15, time: 0.00013887500762939454}, IS_SORTED: true
-BST search total time: series 3, i: 15, time: 10.270665943622589}, IS_SORTED: true
-BST search avg time: series 3, i: 15, time: 0.01027066594362259}, IS_SORTED: true
-AVL search total time: series 3, i: 16, time: 0.14308297634124756}, IS_SORTED: true
-AVL search avg time: series 3, i: 16, time: 0.00014308297634124756}, IS_SORTED: true
-BST search total time: series 3, i: 16, time: 10.424667000770569}, IS_SORTED: true
-BST search avg time: series 3, i: 16, time: 0.01042466700077057}, IS_SORTED: true
-AVL search total time: series 3, i: 17, time: 0.13899999856948853}, IS_SORTED: true
-AVL search avg time: series 3, i: 17, time: 0.00013899999856948852}, IS_SORTED: true
-BST search total time: series 3, i: 17, time: 10.471499979496002}, IS_SORTED: true
-BST search avg time: series 3, i: 17, time: 0.010471499979496002}, IS_SORTED: true
-AVL search total time: series 3, i: 18, time: 0.1349170207977295}, IS_SORTED: true
-AVL search avg time: series 3, i: 18, time: 0.0001349170207977295}, IS_SORTED: true
-BST search total time: series 3, i: 18, time: 10.607291996479034}, IS_SORTED: true
-BST search avg time: series 3, i: 18, time: 0.010607291996479034}, IS_SORTED: true
-AVL search total time: series 3, i: 19, time: 0.1381250023841858}, IS_SORTED: true
-AVL search avg time: series 3, i: 19, time: 0.0001381250023841858}, IS_SORTED: true
-BST search total time: series 3, i: 19, time: 10.254458010196686}, IS_SORTED: true
-BST search avg time: series 3, i: 19, time: 0.010254458010196687}, IS_SORTED: true
-AVL delete total time: series 3, i: 0, time: 0.699874997138977}, IS_SORTED: false 
-AVL delete avg time: series 3, i: 0, time: 0.0008891249895095825}, IS_SORTED: false
-BST delete total time: series 3, i: 0, time: 0.280875027179718}, IS_SORTED: false
-BST delete avg time: series 3, i: 0, time: 0.00020387500524520874}, IS_SORTED: false
-AVL delete total time: series 3, i: 1, time: 0.28804194927215576}, IS_SORTED: false 
-AVL delete avg time: series 3, i: 1, time: 0.00016841602325439454}, IS_SORTED: false
-BST delete total time: series 3, i: 1, time: 0.1285420060157776}, IS_SORTED: false
-BST delete avg time: series 3, i: 1, time: 0.00014399999380111694}, IS_SORTED: false
-AVL delete total time: series 3, i: 2, time: 0.2850419878959656}, IS_SORTED: false 
-AVL delete avg time: series 3, i: 2, time: 0.00016533398628234864}, IS_SORTED: false
-BST delete total time: series 3, i: 2, time: 0.13087499141693115}, IS_SORTED: false
-BST delete avg time: series 3, i: 2, time: 0.00014345800876617432}, IS_SORTED: false
-AVL delete total time: series 3, i: 3, time: 0.28391700983047485}, IS_SORTED: false 
-AVL delete avg time: series 3, i: 3, time: 0.00016608297824859618}, IS_SORTED: false
-BST delete total time: series 3, i: 3, time: 0.12858295440673828}, IS_SORTED: false
-BST delete avg time: series 3, i: 3, time: 0.00013920801877975465}, IS_SORTED: false
-AVL delete total time: series 3, i: 4, time: 0.28516697883605957}, IS_SORTED: false 
-AVL delete avg time: series 3, i: 4, time: 0.00016058295965194703}, IS_SORTED: false
-BST delete total time: series 3, i: 4, time: 0.12804198265075684}, IS_SORTED: false
-BST delete avg time: series 3, i: 4, time: 0.0001399580240249634}, IS_SORTED: false
-AVL delete total time: series 3, i: 5, time: 0.2855830192565918}, IS_SORTED: false 
-AVL delete avg time: series 3, i: 5, time: 0.0001625000238418579}, IS_SORTED: false
-BST delete total time: series 3, i: 5, time: 0.14116597175598145}, IS_SORTED: false
-BST delete avg time: series 3, i: 5, time: 0.00018187499046325685}, IS_SORTED: false
-AVL delete total time: series 3, i: 6, time: 0.289542019367218}, IS_SORTED: false 
-AVL delete avg time: series 3, i: 6, time: 0.00017116695642471313}, IS_SORTED: false
-BST delete total time: series 3, i: 6, time: 0.12908399105072021}, IS_SORTED: false
-BST delete avg time: series 3, i: 6, time: 0.00014479196071624757}, IS_SORTED: false
-AVL delete total time: series 3, i: 7, time: 0.2854999899864197}, IS_SORTED: false 
-AVL delete avg time: series 3, i: 7, time: 0.0001615000367164612}, IS_SORTED: false
-BST delete total time: series 3, i: 7, time: 0.12766599655151367}, IS_SORTED: false
-BST delete avg time: series 3, i: 7, time: 0.00014391696453094481}, IS_SORTED: false
-AVL delete total time: series 3, i: 8, time: 0.2742909789085388}, IS_SORTED: false 
-AVL delete avg time: series 3, i: 8, time: 0.0002596669793128967}, IS_SORTED: false
-BST delete total time: series 3, i: 8, time: 0.11666595935821533}, IS_SORTED: false
-BST delete avg time: series 3, i: 8, time: 0.00010666698217391968}, IS_SORTED: false
-AVL delete total time: series 3, i: 9, time: 0.2540839910507202}, IS_SORTED: false 
-AVL delete avg time: series 3, i: 9, time: 0.00012962502241134643}, IS_SORTED: false
-BST delete total time: series 3, i: 9, time: 0.0989999771118164}, IS_SORTED: false
-BST delete avg time: series 3, i: 9, time: 0.00010979199409484863}, IS_SORTED: false
-AVL delete total time: series 3, i: 10, time: 0.16029196977615356}, IS_SORTED: true 
-AVL delete avg time: series 3, i: 10, time: 0.00013504201173782348}, IS_SORTED: true
-BST delete total time: series 3, i: 10, time: 0.053209006786346436}, IS_SORTED: true
-BST delete avg time: series 3, i: 10, time: 0.010513332962989808}, IS_SORTED: true
-AVL delete total time: series 3, i: 11, time: 0.1675419807434082}, IS_SORTED: true 
-AVL delete avg time: series 3, i: 11, time: 0.00013666599988937378}, IS_SORTED: true
-BST delete total time: series 3, i: 11, time: 0.04954099655151367}, IS_SORTED: true
-BST delete avg time: series 3, i: 11, time: 0.01042612498998642}, IS_SORTED: true
-AVL delete total time: series 3, i: 12, time: 0.16062504053115845}, IS_SORTED: true 
-AVL delete avg time: series 3, i: 12, time: 0.00013770800828933716}, IS_SORTED: true
-BST delete total time: series 3, i: 12, time: 0.04783397912979126}, IS_SORTED: true
-BST delete avg time: series 3, i: 12, time: 0.010358707964420318}, IS_SORTED: true
-AVL delete total time: series 3, i: 13, time: 0.1625000238418579}, IS_SORTED: true 
-AVL delete avg time: series 3, i: 13, time: 0.0001389169692993164}, IS_SORTED: true
-BST delete total time: series 3, i: 13, time: 0.049959003925323486}, IS_SORTED: true
-BST delete avg time: series 3, i: 13, time: 0.011022958040237427}, IS_SORTED: true
-AVL delete total time: series 3, i: 14, time: 0.1638750433921814}, IS_SORTED: true 
-AVL delete avg time: series 3, i: 14, time: 0.00013737499713897705}, IS_SORTED: true
-BST delete total time: series 3, i: 14, time: 0.04829096794128418}, IS_SORTED: true
-BST delete avg time: series 3, i: 14, time: 0.01087200003862381}, IS_SORTED: true
-AVL delete total time: series 3, i: 15, time: 0.16066694259643555}, IS_SORTED: true 
-AVL delete avg time: series 3, i: 15, time: 0.00013887500762939454}, IS_SORTED: true
-BST delete total time: series 3, i: 15, time: 0.04908394813537598}, IS_SORTED: true
-BST delete avg time: series 3, i: 15, time: 0.01027066594362259}, IS_SORTED: true
-AVL delete total time: series 3, i: 16, time: 0.16066598892211914}, IS_SORTED: true 
-AVL delete avg time: series 3, i: 16, time: 0.00014308297634124756}, IS_SORTED: true
-BST delete total time: series 3, i: 16, time: 0.04904097318649292}, IS_SORTED: true
-BST delete avg time: series 3, i: 16, time: 0.01042466700077057}, IS_SORTED: true
-AVL delete total time: series 3, i: 17, time: 0.16133302450180054}, IS_SORTED: true 
-AVL delete avg time: series 3, i: 17, time: 0.00013899999856948852}, IS_SORTED: true
-BST delete total time: series 3, i: 17, time: 0.04633396863937378}, IS_SORTED: true
-BST delete avg time: series 3, i: 17, time: 0.010471499979496002}, IS_SORTED: true
-AVL delete total time: series 3, i: 18, time: 0.16029101610183716}, IS_SORTED: true 
-AVL delete avg time: series 3, i: 18, time: 0.0001349170207977295}, IS_SORTED: true
-BST delete total time: series 3, i: 18, time: 0.04820901155471802}, IS_SORTED: true
-BST delete avg time: series 3, i: 18, time: 0.010607291996479034}, IS_SORTED: true
-AVL delete total time: series 3, i: 19, time: 0.16283297538757324}, IS_SORTED: true 
-AVL delete avg time: series 3, i: 19, time: 0.0001381250023841858}, IS_SORTED: true
-BST delete total time: series 3, i: 19, time: 0.04854094982147217}, IS_SORTED: true
-BST delete avg time: series 3, i: 19, time: 0.010254458010196687}, IS_SORTED: true
-TOTAL ELEMENTS: 
-16384
-AVL insertion time: series 4, i: 0, time: 3.8529589772224426}, IS_SORTED: false
-BST insertion time: series 4, i: 0, time: 2.287500023841858}, IS_SORTED: false
-AVL insertion time: series 4, i: 1, time: 3.950582981109619}, IS_SORTED: false
-BST insertion time: series 4, i: 1, time: 1.8599169850349426}, IS_SORTED: false
-AVL insertion time: series 4, i: 2, time: 4.063374996185303}, IS_SORTED: false
-BST insertion time: series 4, i: 2, time: 1.79483300447464}, IS_SORTED: false
-AVL insertion time: series 4, i: 3, time: 4.022750020027161}, IS_SORTED: false
-BST insertion time: series 4, i: 3, time: 1.7470410466194153}, IS_SORTED: false
-AVL insertion time: series 4, i: 4, time: 4.014832973480225}, IS_SORTED: false
-BST insertion time: series 4, i: 4, time: 28.24229198694229}, IS_SORTED: false
-AVL insertion time: series 4, i: 5, time: 4.244708001613617}, IS_SORTED: false
-BST insertion time: series 4, i: 5, time: 1.4623329639434814}, IS_SORTED: false
-AVL insertion time: series 4, i: 6, time: 3.521375000476837}, IS_SORTED: false
-BST insertion time: series 4, i: 6, time: 1.361041009426117}, IS_SORTED: false
-AVL insertion time: series 4, i: 7, time: 3.363332986831665}, IS_SORTED: false
-BST insertion time: series 4, i: 7, time: 1.4214590191841125}, IS_SORTED: false
-AVL insertion time: series 4, i: 8, time: 3.4910420179367065}, IS_SORTED: false
-BST insertion time: series 4, i: 8, time: 1.5139170289039612}, IS_SORTED: false
-AVL insertion time: series 4, i: 9, time: 3.5113750100135803}, IS_SORTED: false
-BST insertion time: series 4, i: 9, time: 1.6400409936904907}, IS_SORTED: false
-AVL insertion time: series 4, i: 10, time: 3.6737499833106995}, IS_SORTED: true
-BST insertion time: series 4, i: 10, time: 310.11137503385544}, IS_SORTED: true
-AVL insertion time: series 4, i: 11, time: 3.402791976928711}, IS_SORTED: true
-BST insertion time: series 4, i: 11, time: 314.28804099559784}, IS_SORTED: true
-AVL insertion time: series 4, i: 12, time: 3.308791995048523}, IS_SORTED: true
-BST insertion time: series 4, i: 12, time: 325.62533301115036}, IS_SORTED: true
-AVL insertion time: series 4, i: 13, time: 3.4297500252723694}, IS_SORTED: true
-BST insertion time: series 4, i: 13, time: 307.38958299160004}, IS_SORTED: true
-AVL insertion time: series 4, i: 14, time: 3.6842910051345825}, IS_SORTED: true
-BST insertion time: series 4, i: 14, time: 308.2463330030441}, IS_SORTED: true
-AVL insertion time: series 4, i: 15, time: 3.5237500071525574}, IS_SORTED: true
-BST insertion time: series 4, i: 15, time: 328.02333402633667}, IS_SORTED: true
-AVL insertion time: series 4, i: 16, time: 3.311417043209076}, IS_SORTED: true
-BST insertion time: series 4, i: 16, time: 325.26958298683167}, IS_SORTED: true
-AVL insertion time: series 4, i: 17, time: 3.408749997615814}, IS_SORTED: true
-BST insertion time: series 4, i: 17, time: 314.80787497758865}, IS_SORTED: true
-AVL insertion time: series 4, i: 18, time: 3.3673750162124634}, IS_SORTED: true
-BST insertion time: series 4, i: 18, time: 312.24925005435944}, IS_SORTED: true
-AVL insertion time: series 4, i: 19, time: 3.279083013534546}, IS_SORTED: true
-BST insertion time: series 4, i: 19, time: 315.72033298015594}, IS_SORTED: true
-AVL search total time: series 4, i: 0, time: 0.383916974067688}, IS_SORTED: false
-AVL search avg time: series 4, i: 0, time: 0.000383916974067688}, IS_SORTED: false
-BST search total time: series 4, i: 0, time: 0.28200000524520874}, IS_SORTED: false
-BST search avg time: series 4, i: 0, time: 0.00028200000524520875}, IS_SORTED: false
-AVL search total time: series 4, i: 1, time: 0.17583298683166504}, IS_SORTED: false
-AVL search avg time: series 4, i: 1, time: 0.00017583298683166503}, IS_SORTED: false
-BST search total time: series 4, i: 1, time: 0.16366595029830933}, IS_SORTED: false
-BST search avg time: series 4, i: 1, time: 0.00016366595029830932}, IS_SORTED: false
-AVL search total time: series 4, i: 2, time: 0.18312495946884155}, IS_SORTED: false
-AVL search avg time: series 4, i: 2, time: 0.00018312495946884157}, IS_SORTED: false
-BST search total time: series 4, i: 2, time: 0.1867920160293579}, IS_SORTED: false
-BST search avg time: series 4, i: 2, time: 0.0001867920160293579}, IS_SORTED: false
-AVL search total time: series 4, i: 3, time: 0.17650002241134644}, IS_SORTED: false
-AVL search avg time: series 4, i: 3, time: 0.00017650002241134644}, IS_SORTED: false
-BST search total time: series 4, i: 3, time: 0.15791696310043335}, IS_SORTED: false
-BST search avg time: series 4, i: 3, time: 0.00015791696310043336}, IS_SORTED: false
-AVL search total time: series 4, i: 4, time: 0.1812499761581421}, IS_SORTED: false
-AVL search avg time: series 4, i: 4, time: 0.00018124997615814208}, IS_SORTED: false
-BST search total time: series 4, i: 4, time: 0.22029101848602295}, IS_SORTED: false
-BST search avg time: series 4, i: 4, time: 0.00022029101848602294}, IS_SORTED: false
-AVL search total time: series 4, i: 5, time: 0.3490840196609497}, IS_SORTED: false
-AVL search avg time: series 4, i: 5, time: 0.00034908401966094973}, IS_SORTED: false
-BST search total time: series 4, i: 5, time: 0.17733299732208252}, IS_SORTED: false
-BST search avg time: series 4, i: 5, time: 0.00017733299732208252}, IS_SORTED: false
-AVL search total time: series 4, i: 6, time: 0.15537500381469727}, IS_SORTED: false
-AVL search avg time: series 4, i: 6, time: 0.00015537500381469728}, IS_SORTED: false
-BST search total time: series 4, i: 6, time: 0.12420797348022461}, IS_SORTED: false
-BST search avg time: series 4, i: 6, time: 0.0001242079734802246}, IS_SORTED: false
-AVL search total time: series 4, i: 7, time: 0.13429099321365356}, IS_SORTED: false
-AVL search avg time: series 4, i: 7, time: 0.00013429099321365356}, IS_SORTED: false
-BST search total time: series 4, i: 7, time: 0.13095802068710327}, IS_SORTED: false
-BST search avg time: series 4, i: 7, time: 0.00013095802068710326}, IS_SORTED: false
-AVL search total time: series 4, i: 8, time: 0.1418750286102295}, IS_SORTED: false
-AVL search avg time: series 4, i: 8, time: 0.0001418750286102295}, IS_SORTED: false
-BST search total time: series 4, i: 8, time: 0.1329580545425415}, IS_SORTED: false
-BST search avg time: series 4, i: 8, time: 0.00013295805454254151}, IS_SORTED: false
-AVL search total time: series 4, i: 9, time: 0.14174997806549072}, IS_SORTED: false
-AVL search avg time: series 4, i: 9, time: 0.00014174997806549073}, IS_SORTED: false
-BST search total time: series 4, i: 9, time: 0.1359589695930481}, IS_SORTED: false
-BST search avg time: series 4, i: 9, time: 0.0001359589695930481}, IS_SORTED: false
-AVL search total time: series 4, i: 10, time: 0.1716669797897339}, IS_SORTED: true
-AVL search avg time: series 4, i: 10, time: 0.0001716669797897339}, IS_SORTED: true
-BST search total time: series 4, i: 10, time: 30.828666985034943}, IS_SORTED: true
-BST search avg time: series 4, i: 10, time: 0.030828666985034944}, IS_SORTED: true
-AVL search total time: series 4, i: 11, time: 0.1757500171661377}, IS_SORTED: true
-AVL search avg time: series 4, i: 11, time: 0.0001757500171661377}, IS_SORTED: true
-BST search total time: series 4, i: 11, time: 31.397875010967255}, IS_SORTED: true
-BST search avg time: series 4, i: 11, time: 0.031397875010967254}, IS_SORTED: true
-AVL search total time: series 4, i: 12, time: 0.15675002336502075}, IS_SORTED: true
-AVL search avg time: series 4, i: 12, time: 0.00015675002336502076}, IS_SORTED: true
-BST search total time: series 4, i: 12, time: 30.202250003814697}, IS_SORTED: true
-BST search avg time: series 4, i: 12, time: 0.0302022500038147}, IS_SORTED: true
-AVL search total time: series 4, i: 13, time: 0.15870898962020874}, IS_SORTED: true
-AVL search avg time: series 4, i: 13, time: 0.00015870898962020875}, IS_SORTED: true
-BST search total time: series 4, i: 13, time: 30.82670897245407}, IS_SORTED: true
-BST search avg time: series 4, i: 13, time: 0.03082670897245407}, IS_SORTED: true
-AVL search total time: series 4, i: 14, time: 0.16166603565216064}, IS_SORTED: true
-AVL search avg time: series 4, i: 14, time: 0.00016166603565216065}, IS_SORTED: true
-BST search total time: series 4, i: 14, time: 32.667165994644165}, IS_SORTED: true
-BST search avg time: series 4, i: 14, time: 0.032667165994644164}, IS_SORTED: true
-AVL search total time: series 4, i: 15, time: 0.17612498998641968}, IS_SORTED: true
-AVL search avg time: series 4, i: 15, time: 0.0001761249899864197}, IS_SORTED: true
-BST search total time: series 4, i: 15, time: 31.083458960056305}, IS_SORTED: true
-BST search avg time: series 4, i: 15, time: 0.031083458960056307}, IS_SORTED: true
-AVL search total time: series 4, i: 16, time: 0.15458399057388306}, IS_SORTED: true
-AVL search avg time: series 4, i: 16, time: 0.00015458399057388306}, IS_SORTED: true
-BST search total time: series 4, i: 16, time: 31.587999999523163}, IS_SORTED: true
-BST search avg time: series 4, i: 16, time: 0.031587999999523164}, IS_SORTED: true
-AVL search total time: series 4, i: 17, time: 0.15674996376037598}, IS_SORTED: true
-AVL search avg time: series 4, i: 17, time: 0.00015674996376037598}, IS_SORTED: true
-BST search total time: series 4, i: 17, time: 30.762791991233826}, IS_SORTED: true
-BST search avg time: series 4, i: 17, time: 0.030762791991233825}, IS_SORTED: true
-AVL search total time: series 4, i: 18, time: 0.15695899724960327}, IS_SORTED: true
-AVL search avg time: series 4, i: 18, time: 0.00015695899724960327}, IS_SORTED: true
-BST search total time: series 4, i: 18, time: 30.237459003925323}, IS_SORTED: true
-BST search avg time: series 4, i: 18, time: 0.030237459003925323}, IS_SORTED: true
-AVL search total time: series 4, i: 19, time: 0.15679097175598145}, IS_SORTED: true
-AVL search avg time: series 4, i: 19, time: 0.00015679097175598145}, IS_SORTED: true
-BST search total time: series 4, i: 19, time: 30.430292010307312}, IS_SORTED: true
-BST search avg time: series 4, i: 19, time: 0.03043029201030731}, IS_SORTED: true
-AVL delete total time: series 4, i: 0, time: 3.7801249623298645}, IS_SORTED: false 
-AVL delete avg time: series 4, i: 0, time: 0.000383916974067688}, IS_SORTED: false
-BST delete total time: series 4, i: 0, time: 3.3020830154418945}, IS_SORTED: false
-BST delete avg time: series 4, i: 0, time: 0.00028200000524520875}, IS_SORTED: false
-AVL delete total time: series 4, i: 1, time: 3.570583999156952}, IS_SORTED: false 
-AVL delete avg time: series 4, i: 1, time: 0.00017583298683166503}, IS_SORTED: false
-BST delete total time: series 4, i: 1, time: 3.1720409989356995}, IS_SORTED: false
-BST delete avg time: series 4, i: 1, time: 0.00016366595029830932}, IS_SORTED: false
-AVL delete total time: series 4, i: 2, time: 3.5340830087661743}, IS_SORTED: false 
-AVL delete avg time: series 4, i: 2, time: 0.00018312495946884157}, IS_SORTED: false
-BST delete total time: series 4, i: 2, time: 3.186416983604431}, IS_SORTED: false
-BST delete avg time: series 4, i: 2, time: 0.0001867920160293579}, IS_SORTED: false
-AVL delete total time: series 4, i: 3, time: 3.575625002384186}, IS_SORTED: false 
-AVL delete avg time: series 4, i: 3, time: 0.00017650002241134644}, IS_SORTED: false
-BST delete total time: series 4, i: 3, time: 3.220916986465454}, IS_SORTED: false
-BST delete avg time: series 4, i: 3, time: 0.00015791696310043336}, IS_SORTED: false
-AVL delete total time: series 4, i: 4, time: 3.696375012397766}, IS_SORTED: false 
-AVL delete avg time: series 4, i: 4, time: 0.00018124997615814208}, IS_SORTED: false
-BST delete total time: series 4, i: 4, time: 3.189292013645172}, IS_SORTED: false
-BST delete avg time: series 4, i: 4, time: 0.00022029101848602294}, IS_SORTED: false
-AVL delete total time: series 4, i: 5, time: 3.456541955471039}, IS_SORTED: false 
-AVL delete avg time: series 4, i: 5, time: 0.00034908401966094973}, IS_SORTED: false
-BST delete total time: series 4, i: 5, time: 3.094333052635193}, IS_SORTED: false
-BST delete avg time: series 4, i: 5, time: 0.00017733299732208252}, IS_SORTED: false
-AVL delete total time: series 4, i: 6, time: 3.474541962146759}, IS_SORTED: false 
-AVL delete avg time: series 4, i: 6, time: 0.00015537500381469728}, IS_SORTED: false
-BST delete total time: series 4, i: 6, time: 2.9222909808158875}, IS_SORTED: false
-BST delete avg time: series 4, i: 6, time: 0.0001242079734802246}, IS_SORTED: false
-AVL delete total time: series 4, i: 7, time: 3.244125008583069}, IS_SORTED: false 
-AVL delete avg time: series 4, i: 7, time: 0.00013429099321365356}, IS_SORTED: false
-BST delete total time: series 4, i: 7, time: 2.9269999861717224}, IS_SORTED: false
-BST delete avg time: series 4, i: 7, time: 0.00013095802068710326}, IS_SORTED: false
-AVL delete total time: series 4, i: 8, time: 3.2699999809265137}, IS_SORTED: false 
-AVL delete avg time: series 4, i: 8, time: 0.0001418750286102295}, IS_SORTED: false
-BST delete total time: series 4, i: 8, time: 2.9263749718666077}, IS_SORTED: false
-BST delete avg time: series 4, i: 8, time: 0.00013295805454254151}, IS_SORTED: false
-AVL delete total time: series 4, i: 9, time: 3.246749997138977}, IS_SORTED: false 
-AVL delete avg time: series 4, i: 9, time: 0.00014174997806549073}, IS_SORTED: false
-BST delete total time: series 4, i: 9, time: 3.11033296585083}, IS_SORTED: false
-BST delete avg time: series 4, i: 9, time: 0.0001359589695930481}, IS_SORTED: false
-AVL delete total time: series 4, i: 10, time: 3.186790943145752}, IS_SORTED: true 
-AVL delete avg time: series 4, i: 10, time: 0.0001716669797897339}, IS_SORTED: true
-BST delete total time: series 4, i: 10, time: 2.769958019256592}, IS_SORTED: true
-BST delete avg time: series 4, i: 10, time: 0.030828666985034944}, IS_SORTED: true
-AVL delete total time: series 4, i: 11, time: 3.1489999890327454}, IS_SORTED: true 
-AVL delete avg time: series 4, i: 11, time: 0.0001757500171661377}, IS_SORTED: true
-BST delete total time: series 4, i: 11, time: 2.793749988079071}, IS_SORTED: true
-BST delete avg time: series 4, i: 11, time: 0.031397875010967254}, IS_SORTED: true
-AVL delete total time: series 4, i: 12, time: 3.121500015258789}, IS_SORTED: true 
-AVL delete avg time: series 4, i: 12, time: 0.00015675002336502076}, IS_SORTED: true
-BST delete total time: series 4, i: 12, time: 2.768249988555908}, IS_SORTED: true
-BST delete avg time: series 4, i: 12, time: 0.0302022500038147}, IS_SORTED: true
-AVL delete total time: series 4, i: 13, time: 3.106957972049713}, IS_SORTED: true 
-AVL delete avg time: series 4, i: 13, time: 0.00015870898962020875}, IS_SORTED: true
-BST delete total time: series 4, i: 13, time: 2.768500030040741}, IS_SORTED: true
-BST delete avg time: series 4, i: 13, time: 0.03082670897245407}, IS_SORTED: true
-AVL delete total time: series 4, i: 14, time: 3.099500000476837}, IS_SORTED: true 
-AVL delete avg time: series 4, i: 14, time: 0.00016166603565216065}, IS_SORTED: true
-BST delete total time: series 4, i: 14, time: 3.005415976047516}, IS_SORTED: true
-BST delete avg time: series 4, i: 14, time: 0.032667165994644164}, IS_SORTED: true
-AVL delete total time: series 4, i: 15, time: 3.3657090067863464}, IS_SORTED: true 
-AVL delete avg time: series 4, i: 15, time: 0.0001761249899864197}, IS_SORTED: true
-BST delete total time: series 4, i: 15, time: 2.7669999599456787}, IS_SORTED: true
-BST delete avg time: series 4, i: 15, time: 0.031083458960056307}, IS_SORTED: true
-AVL delete total time: series 4, i: 16, time: 3.06979101896286}, IS_SORTED: true 
-AVL delete avg time: series 4, i: 16, time: 0.00015458399057388306}, IS_SORTED: true
-BST delete total time: series 4, i: 16, time: 2.771000027656555}, IS_SORTED: true
-BST delete avg time: series 4, i: 16, time: 0.031587999999523164}, IS_SORTED: true
-AVL delete total time: series 4, i: 17, time: 3.1240000128746033}, IS_SORTED: true 
-AVL delete avg time: series 4, i: 17, time: 0.00015674996376037598}, IS_SORTED: true
-BST delete total time: series 4, i: 17, time: 2.791457951068878}, IS_SORTED: true
-BST delete avg time: series 4, i: 17, time: 0.030762791991233825}, IS_SORTED: true
-AVL delete total time: series 4, i: 18, time: 3.158749997615814}, IS_SORTED: true 
-AVL delete avg time: series 4, i: 18, time: 0.00015695899724960327}, IS_SORTED: true
-BST delete total time: series 4, i: 18, time: 2.775624990463257}, IS_SORTED: true
-BST delete avg time: series 4, i: 18, time: 0.030237459003925323}, IS_SORTED: true
-AVL delete total time: series 4, i: 19, time: 3.106000006198883}, IS_SORTED: true 
-AVL delete avg time: series 4, i: 19, time: 0.00015679097175598145}, IS_SORTED: true
-BST delete total time: series 4, i: 19, time: 2.7860829830169678}, IS_SORTED: true
-BST delete avg time: series 4, i: 19, time: 0.03043029201030731}, IS_SORTED: true
-TOTAL ELEMENTS: 
-32768
-AVL insertion time: series 5, i: 0, time: 6.726707994937897}, IS_SORTED: false
-BST insertion time: series 5, i: 0, time: 3.6410000324249268}, IS_SORTED: false
-AVL insertion time: series 5, i: 1, time: 7.812041997909546}, IS_SORTED: false
-BST insertion time: series 5, i: 1, time: 4.1120829582214355}, IS_SORTED: false
-AVL insertion time: series 5, i: 2, time: 7.73833304643631}, IS_SORTED: false
-BST insertion time: series 5, i: 2, time: 3.8019580245018005}, IS_SORTED: false
-AVL insertion time: series 5, i: 3, time: 6.952166020870209}, IS_SORTED: false
-BST insertion time: series 5, i: 3, time: 3.1927080154418945}, IS_SORTED: false
-AVL insertion time: series 5, i: 4, time: 6.797416031360626}, IS_SORTED: false
-BST insertion time: series 5, i: 4, time: 3.416916012763977}, IS_SORTED: false
-AVL insertion time: series 5, i: 5, time: 6.772832989692688}, IS_SORTED: false
-BST insertion time: series 5, i: 5, time: 3.0042499899864197}, IS_SORTED: false
-AVL insertion time: series 5, i: 6, time: 6.820291996002197}, IS_SORTED: false
-BST insertion time: series 5, i: 6, time: 3.0018749833106995}, IS_SORTED: false
-AVL insertion time: series 5, i: 7, time: 6.743874967098236}, IS_SORTED: false
-BST insertion time: series 5, i: 7, time: 3.0104169845581055}, IS_SORTED: false
-AVL insertion time: series 5, i: 8, time: 6.787290990352631}, IS_SORTED: false
-BST insertion time: series 5, i: 8, time: 2.994874954223633}, IS_SORTED: false
-AVL insertion time: series 5, i: 9, time: 6.75662499666214}, IS_SORTED: false
-BST insertion time: series 5, i: 9, time: 2.97979199886322}, IS_SORTED: false
-AVL insertion time: series 5, i: 10, time: 6.880167007446289}, IS_SORTED: true
-BST insertion time: series 5, i: 10, time: 1297.211874961853}, IS_SORTED: true
-AVL insertion time: series 5, i: 11, time: 6.893374979496002}, IS_SORTED: true
-BST insertion time: series 5, i: 11, time: 1300.5469160079956}, IS_SORTED: true
-AVL insertion time: series 5, i: 12, time: 6.872125029563904}, IS_SORTED: true
-BST insertion time: series 5, i: 12, time: 1312.5745840072632}, IS_SORTED: true
-AVL insertion time: series 5, i: 13, time: 6.837832987308502}, IS_SORTED: true
-BST insertion time: series 5, i: 13, time: 1306.4700419902802}, IS_SORTED: true
-AVL insertion time: series 5, i: 14, time: 6.905582964420319}, IS_SORTED: true
-BST insertion time: series 5, i: 14, time: 1314.7457910180092}, IS_SORTED: true
-AVL insertion time: series 5, i: 15, time: 7.000833034515381}, IS_SORTED: true
-BST insertion time: series 5, i: 15, time: 1303.4253749847412}, IS_SORTED: true
-AVL insertion time: series 5, i: 16, time: 6.8761250376701355}, IS_SORTED: true
-BST insertion time: series 5, i: 16, time: 1312.2480000257492}, IS_SORTED: true
-AVL insertion time: series 5, i: 17, time: 7.284333944320679}, IS_SORTED: true
-BST insertion time: series 5, i: 17, time: 1301.2658339738846}, IS_SORTED: true
-AVL insertion time: series 5, i: 18, time: 7.286792039871216}, IS_SORTED: true
-BST insertion time: series 5, i: 18, time: 1292.494542002678}, IS_SORTED: true
-AVL insertion time: series 5, i: 19, time: 7.375500023365021}, IS_SORTED: true
-BST insertion time: series 5, i: 19, time: 1315.6491249799728}, IS_SORTED: true
-AVL search total time: series 5, i: 0, time: 0.30904102325439453}, IS_SORTED: false
-AVL search avg time: series 5, i: 0, time: 0.00030904102325439453}, IS_SORTED: false
-BST search total time: series 5, i: 0, time: 0.15708297491073608}, IS_SORTED: false
-BST search avg time: series 5, i: 0, time: 0.00015708297491073608}, IS_SORTED: false
-AVL search total time: series 5, i: 1, time: 0.17408305406570435}, IS_SORTED: false
-AVL search avg time: series 5, i: 1, time: 0.00017408305406570434}, IS_SORTED: false
-BST search total time: series 5, i: 1, time: 0.1535000205039978}, IS_SORTED: false
-BST search avg time: series 5, i: 1, time: 0.0001535000205039978}, IS_SORTED: false
-AVL search total time: series 5, i: 2, time: 0.1723330020904541}, IS_SORTED: false
-AVL search avg time: series 5, i: 2, time: 0.0001723330020904541}, IS_SORTED: false
-BST search total time: series 5, i: 2, time: 0.1412920355796814}, IS_SORTED: false
-BST search avg time: series 5, i: 2, time: 0.0001412920355796814}, IS_SORTED: false
-AVL search total time: series 5, i: 3, time: 0.250499963760376}, IS_SORTED: false
-AVL search avg time: series 5, i: 3, time: 0.000250499963760376}, IS_SORTED: false
-BST search total time: series 5, i: 3, time: 0.17891699075698853}, IS_SORTED: false
-BST search avg time: series 5, i: 3, time: 0.00017891699075698851}, IS_SORTED: false
-AVL search total time: series 5, i: 4, time: 0.14354199171066284}, IS_SORTED: false
-AVL search avg time: series 5, i: 4, time: 0.00014354199171066285}, IS_SORTED: false
-BST search total time: series 5, i: 4, time: 0.13212496042251587}, IS_SORTED: false
-BST search avg time: series 5, i: 4, time: 0.00013212496042251586}, IS_SORTED: false
-AVL search total time: series 5, i: 5, time: 0.14037495851516724}, IS_SORTED: false
-AVL search avg time: series 5, i: 5, time: 0.00014037495851516724}, IS_SORTED: false
-BST search total time: series 5, i: 5, time: 0.1300419569015503}, IS_SORTED: false
-BST search avg time: series 5, i: 5, time: 0.0001300419569015503}, IS_SORTED: false
-AVL search total time: series 5, i: 6, time: 0.14300000667572021}, IS_SORTED: false
-AVL search avg time: series 5, i: 6, time: 0.0001430000066757202}, IS_SORTED: false
-BST search total time: series 5, i: 6, time: 0.13029098510742188}, IS_SORTED: false
-BST search avg time: series 5, i: 6, time: 0.00013029098510742188}, IS_SORTED: false
-AVL search total time: series 5, i: 7, time: 0.1423330307006836}, IS_SORTED: false
-AVL search avg time: series 5, i: 7, time: 0.0001423330307006836}, IS_SORTED: false
-BST search total time: series 5, i: 7, time: 0.13087499141693115}, IS_SORTED: false
-BST search avg time: series 5, i: 7, time: 0.00013087499141693114}, IS_SORTED: false
-AVL search total time: series 5, i: 8, time: 0.1500840187072754}, IS_SORTED: false
-AVL search avg time: series 5, i: 8, time: 0.0001500840187072754}, IS_SORTED: false
-BST search total time: series 5, i: 8, time: 0.13112497329711914}, IS_SORTED: false
-BST search avg time: series 5, i: 8, time: 0.00013112497329711913}, IS_SORTED: false
-AVL search total time: series 5, i: 9, time: 0.1414160132408142}, IS_SORTED: false
-AVL search avg time: series 5, i: 9, time: 0.0001414160132408142}, IS_SORTED: false
-BST search total time: series 5, i: 9, time: 0.13237494230270386}, IS_SORTED: false
-BST search avg time: series 5, i: 9, time: 0.00013237494230270385}, IS_SORTED: false
-AVL search total time: series 5, i: 10, time: 0.17145800590515137}, IS_SORTED: true
-AVL search avg time: series 5, i: 10, time: 0.00017145800590515138}, IS_SORTED: true
-BST search total time: series 5, i: 10, time: 62.33712500333786}, IS_SORTED: true
-BST search avg time: series 5, i: 10, time: 0.06233712500333786}, IS_SORTED: true
-AVL search total time: series 5, i: 11, time: 0.17287498712539673}, IS_SORTED: true
-AVL search avg time: series 5, i: 11, time: 0.00017287498712539672}, IS_SORTED: true
-BST search total time: series 5, i: 11, time: 61.24833297729492}, IS_SORTED: true
-BST search avg time: series 5, i: 11, time: 0.06124833297729492}, IS_SORTED: true
-AVL search total time: series 5, i: 12, time: 0.1770419478416443}, IS_SORTED: true
-AVL search avg time: series 5, i: 12, time: 0.0001770419478416443}, IS_SORTED: true
-BST search total time: series 5, i: 12, time: 60.57662498950958}, IS_SORTED: true
-BST search avg time: series 5, i: 12, time: 0.06057662498950958}, IS_SORTED: true
-AVL search total time: series 5, i: 13, time: 0.17841696739196777}, IS_SORTED: true
-AVL search avg time: series 5, i: 13, time: 0.00017841696739196778}, IS_SORTED: true
-BST search total time: series 5, i: 13, time: 62.90095901489258}, IS_SORTED: true
-BST search avg time: series 5, i: 13, time: 0.06290095901489258}, IS_SORTED: true
-AVL search total time: series 5, i: 14, time: 0.1867920160293579}, IS_SORTED: true
-AVL search avg time: series 5, i: 14, time: 0.0001867920160293579}, IS_SORTED: true
-BST search total time: series 5, i: 14, time: 63.52383303642273}, IS_SORTED: true
-BST search avg time: series 5, i: 14, time: 0.06352383303642273}, IS_SORTED: true
-AVL search total time: series 5, i: 15, time: 0.17345905303955078}, IS_SORTED: true
-AVL search avg time: series 5, i: 15, time: 0.00017345905303955077}, IS_SORTED: true
-BST search total time: series 5, i: 15, time: 61.53525000810623}, IS_SORTED: true
-BST search avg time: series 5, i: 15, time: 0.06153525000810623}, IS_SORTED: true
-AVL search total time: series 5, i: 16, time: 0.18174999952316284}, IS_SORTED: true
-AVL search avg time: series 5, i: 16, time: 0.00018174999952316284}, IS_SORTED: true
-BST search total time: series 5, i: 16, time: 60.43604201078415}, IS_SORTED: true
-BST search avg time: series 5, i: 16, time: 0.06043604201078415}, IS_SORTED: true
-AVL search total time: series 5, i: 17, time: 0.17841696739196777}, IS_SORTED: true
-AVL search avg time: series 5, i: 17, time: 0.00017841696739196778}, IS_SORTED: true
-BST search total time: series 5, i: 17, time: 62.73520803451538}, IS_SORTED: true
-BST search avg time: series 5, i: 17, time: 0.06273520803451538}, IS_SORTED: true
-AVL search total time: series 5, i: 18, time: 0.1791669726371765}, IS_SORTED: true
-AVL search avg time: series 5, i: 18, time: 0.0001791669726371765}, IS_SORTED: true
-BST search total time: series 5, i: 18, time: 62.80995798110962}, IS_SORTED: true
-BST search avg time: series 5, i: 18, time: 0.06280995798110962}, IS_SORTED: true
-AVL search total time: series 5, i: 19, time: 0.17329096794128418}, IS_SORTED: true
-AVL search avg time: series 5, i: 19, time: 0.0001732909679412842}, IS_SORTED: true
-BST search total time: series 5, i: 19, time: 59.24908298254013}, IS_SORTED: true
-BST search avg time: series 5, i: 19, time: 0.05924908298254013}, IS_SORTED: true
-AVL delete total time: series 5, i: 0, time: 7.35574996471405}, IS_SORTED: false 
-AVL delete avg time: series 5, i: 0, time: 0.00030904102325439453}, IS_SORTED: false
-BST delete total time: series 5, i: 0, time: 7.131290972232819}, IS_SORTED: false
-BST delete avg time: series 5, i: 0, time: 0.00015708297491073608}, IS_SORTED: false
-AVL delete total time: series 5, i: 1, time: 7.376667022705078}, IS_SORTED: false 
-AVL delete avg time: series 5, i: 1, time: 0.00017408305406570434}, IS_SORTED: false
-BST delete total time: series 5, i: 1, time: 7.112457990646362}, IS_SORTED: false
-BST delete avg time: series 5, i: 1, time: 0.0001535000205039978}, IS_SORTED: false
-AVL delete total time: series 5, i: 2, time: 7.3179579973220825}, IS_SORTED: false 
-AVL delete avg time: series 5, i: 2, time: 0.0001723330020904541}, IS_SORTED: false
-BST delete total time: series 5, i: 2, time: 7.066707968711853}, IS_SORTED: false
-BST delete avg time: series 5, i: 2, time: 0.0001412920355796814}, IS_SORTED: false
-AVL delete total time: series 5, i: 3, time: 7.29466700553894}, IS_SORTED: false 
-AVL delete avg time: series 5, i: 3, time: 0.000250499963760376}, IS_SORTED: false
-BST delete total time: series 5, i: 3, time: 7.078292012214661}, IS_SORTED: false
-BST delete avg time: series 5, i: 3, time: 0.00017891699075698851}, IS_SORTED: false
-AVL delete total time: series 5, i: 4, time: 7.326708018779755}, IS_SORTED: false 
-AVL delete avg time: series 5, i: 4, time: 0.00014354199171066285}, IS_SORTED: false
-BST delete total time: series 5, i: 4, time: 7.035416007041931}, IS_SORTED: false
-BST delete avg time: series 5, i: 4, time: 0.00013212496042251586}, IS_SORTED: false
-AVL delete total time: series 5, i: 5, time: 7.263666033744812}, IS_SORTED: false 
-AVL delete avg time: series 5, i: 5, time: 0.00014037495851516724}, IS_SORTED: false
-BST delete total time: series 5, i: 5, time: 7.0277910232543945}, IS_SORTED: false
-BST delete avg time: series 5, i: 5, time: 0.0001300419569015503}, IS_SORTED: false
-AVL delete total time: series 5, i: 6, time: 7.349291980266571}, IS_SORTED: false 
-AVL delete avg time: series 5, i: 6, time: 0.0001430000066757202}, IS_SORTED: false
-BST delete total time: series 5, i: 6, time: 7.046708047389984}, IS_SORTED: false
-BST delete avg time: series 5, i: 6, time: 0.00013029098510742188}, IS_SORTED: false
-AVL delete total time: series 5, i: 7, time: 7.268541991710663}, IS_SORTED: false 
-AVL delete avg time: series 5, i: 7, time: 0.0001423330307006836}, IS_SORTED: false
-BST delete total time: series 5, i: 7, time: 7.070125043392181}, IS_SORTED: false
-BST delete avg time: series 5, i: 7, time: 0.00013087499141693114}, IS_SORTED: false
-AVL delete total time: series 5, i: 8, time: 7.292500019073486}, IS_SORTED: false 
-AVL delete avg time: series 5, i: 8, time: 0.0001500840187072754}, IS_SORTED: false
-BST delete total time: series 5, i: 8, time: 7.065541982650757}, IS_SORTED: false
-BST delete avg time: series 5, i: 8, time: 0.00013112497329711913}, IS_SORTED: false
-AVL delete total time: series 5, i: 9, time: 7.33712500333786}, IS_SORTED: false 
-AVL delete avg time: series 5, i: 9, time: 0.0001414160132408142}, IS_SORTED: false
-BST delete total time: series 5, i: 9, time: 7.094124972820282}, IS_SORTED: false
-BST delete avg time: series 5, i: 9, time: 0.00013237494230270385}, IS_SORTED: false
-AVL delete total time: series 5, i: 10, time: 7.215083003044128}, IS_SORTED: true 
-AVL delete avg time: series 5, i: 10, time: 0.00017145800590515138}, IS_SORTED: true
-BST delete total time: series 5, i: 10, time: 7.00266695022583}, IS_SORTED: true
-BST delete avg time: series 5, i: 10, time: 0.06233712500333786}, IS_SORTED: true
-AVL delete total time: series 5, i: 11, time: 7.199917018413544}, IS_SORTED: true 
-AVL delete avg time: series 5, i: 11, time: 0.00017287498712539672}, IS_SORTED: true
-BST delete total time: series 5, i: 11, time: 6.980292022228241}, IS_SORTED: true
-BST delete avg time: series 5, i: 11, time: 0.06124833297729492}, IS_SORTED: true
-AVL delete total time: series 5, i: 12, time: 7.180999994277954}, IS_SORTED: true 
-AVL delete avg time: series 5, i: 12, time: 0.0001770419478416443}, IS_SORTED: true
-BST delete total time: series 5, i: 12, time: 6.975290954113007}, IS_SORTED: true
-BST delete avg time: series 5, i: 12, time: 0.06057662498950958}, IS_SORTED: true
-AVL delete total time: series 5, i: 13, time: 7.23199999332428}, IS_SORTED: true 
-AVL delete avg time: series 5, i: 13, time: 0.00017841696739196778}, IS_SORTED: true
-BST delete total time: series 5, i: 13, time: 7.0868330001831055}, IS_SORTED: true
-BST delete avg time: series 5, i: 13, time: 0.06290095901489258}, IS_SORTED: true
-AVL delete total time: series 5, i: 14, time: 7.229625046253204}, IS_SORTED: true 
-AVL delete avg time: series 5, i: 14, time: 0.0001867920160293579}, IS_SORTED: true
-BST delete total time: series 5, i: 14, time: 6.99695897102356}, IS_SORTED: true
-BST delete avg time: series 5, i: 14, time: 0.06352383303642273}, IS_SORTED: true
-AVL delete total time: series 5, i: 15, time: 7.2244590520858765}, IS_SORTED: true 
-AVL delete avg time: series 5, i: 15, time: 0.00017345905303955077}, IS_SORTED: true
-BST delete total time: series 5, i: 15, time: 6.991791009902954}, IS_SORTED: true
-BST delete avg time: series 5, i: 15, time: 0.06153525000810623}, IS_SORTED: true
-AVL delete total time: series 5, i: 16, time: 7.336540997028351}, IS_SORTED: true 
-AVL delete avg time: series 5, i: 16, time: 0.00018174999952316284}, IS_SORTED: true
-BST delete total time: series 5, i: 16, time: 6.995292007923126}, IS_SORTED: true
-BST delete avg time: series 5, i: 16, time: 0.06043604201078415}, IS_SORTED: true
-AVL delete total time: series 5, i: 17, time: 7.211042046546936}, IS_SORTED: true 
-AVL delete avg time: series 5, i: 17, time: 0.00017841696739196778}, IS_SORTED: true
-BST delete total time: series 5, i: 17, time: 7.014292001724243}, IS_SORTED: true
-BST delete avg time: series 5, i: 17, time: 0.06273520803451538}, IS_SORTED: true
-AVL delete total time: series 5, i: 18, time: 7.248333036899567}, IS_SORTED: true 
-AVL delete avg time: series 5, i: 18, time: 0.0001791669726371765}, IS_SORTED: true
-BST delete total time: series 5, i: 18, time: 7.137166976928711}, IS_SORTED: true
-BST delete avg time: series 5, i: 18, time: 0.06280995798110962}, IS_SORTED: true
-AVL delete total time: series 5, i: 19, time: 7.193583011627197}, IS_SORTED: true 
-AVL delete avg time: series 5, i: 19, time: 0.0001732909679412842}, IS_SORTED: true
-BST delete total time: series 5, i: 19, time: 6.9897080063819885}, IS_SORTED: true
-BST delete avg time: series 5, i: 19, time: 0.05924908298254013}, IS_SORTED: true
+2048 ЭЛЕМЕНТОВ:
+ВСТАВКА НЕСОРТИРОВАННЫЙ AST : 6.327208995819092
+ВСТАВКА НЕСОРТИРОВАННЫЙ BST : 2.8372920155525208
+ВСТАВКА НЕСОРТИРОВАННЫЙ AST : 4.198042035102844
+ВСТАВКА НЕСОРТИРОВАННЫЙ BST : 1.543624997138977
+ВСТАВКА НЕСОРТИРОВАННЫЙ AST : 2.330042004585266
+ВСТАВКА НЕСОРТИРОВАННЫЙ BST : 0.9989169836044312
+ВСТАВКА НЕСОРТИРОВАННЫЙ AST : 2.102791965007782
+ВСТАВКА НЕСОРТИРОВАННЫЙ BST : 0.3089579939842224
+ВСТАВКА НЕСОРТИРОВАННЫЙ AST : 2.3385000228881836
+ВСТАВКА НЕСОРТИРОВАННЫЙ BST : 0.2362080216407776
+ВСТАВКА НЕСОРТИРОВАННЫЙ AST : 0.9976249933242798
+ВСТАВКА НЕСОРТИРОВАННЫЙ BST : 0.21187502145767212
+ВСТАВКА НЕСОРТИРОВАННЫЙ AST : 0.9951670169830322
+ВСТАВКА НЕСОРТИРОВАННЫЙ BST : 0.19837504625320435
+ВСТАВКА НЕСОРТИРОВАННЫЙ AST : 1.2630000114440918
+ВСТАВКА НЕСОРТИРОВАННЫЙ BST : 0.1890830397605896
+ВСТАВКА НЕСОРТИРОВАННЫЙ AST : 0.3770829439163208
+ВСТАВКА НЕСОРТИРОВАННЫЙ BST : 0.15845799446105957
+ВСТАВКА НЕСОРТИРОВАННЫЙ AST : 0.8601250052452087
+ВСТАВКА НЕСОРТИРОВАННЫЙ BST : 0.19720900058746338
+ВСТАВКА СОРТИРОВАННЫЙ AST : 0.4891669750213623
+ВСТАВКА СОРТИРОВАННЫЙ BST : 7.278416991233826
+ВСТАВКА СОРТИРОВАННЫЙ AST : 1.4715420007705688
+ВСТАВКА СОРТИРОВАННЫЙ BST : 7.381250023841858
+ВСТАВКА СОРТИРОВАННЫЙ AST : 0.9665409922599792
+ВСТАВКА СОРТИРОВАННЫЙ BST : 7.974708020687103
+ВСТАВКА СОРТИРОВАННЫЙ AST : 0.8442920446395874
+ВСТАВКА СОРТИРОВАННЫЙ BST : 7.253708004951477
+ВСТАВКА СОРТИРОВАННЫЙ AST : 0.37391698360443115
+ВСТАВКА СОРТИРОВАННЫЙ BST : 7.375750005245209
+ВСТАВКА СОРТИРОВАННЫЙ AST : 0.35066699981689453
+ВСТАВКА СОРТИРОВАННЫЙ BST : 7.24337500333786
+ВСТАВКА СОРТИРОВАННЫЙ AST : 0.3587920069694519
+ВСТАВКА СОРТИРОВАННЫЙ BST : 7.396790981292725
+ВСТАВКА СОРТИРОВАННЫЙ AST : 0.9351249933242798
+ВСТАВКА СОРТИРОВАННЫЙ BST : 7.435667037963867
+ВСТАВКА СОРТИРОВАННЫЙ AST : 1.159458041191101
+ВСТАВКА СОРТИРОВАННЫЙ BST : 7.2440420389175415
+ВСТАВКА СОРТИРОВАННЫЙ AST : 0.37412500381469727
+ВСТАВКА СОРТИРОВАННЫЙ BST : 7.3189170360565186
+ПОИСК НЕСОРТИРОВАННЫЙ AST : 0.9016250371932983
+ПОИСК НЕСОРТИРОВАННЫЙ BST : 0.15824997425079346
+ПОИСК НЕСОРТИРОВАННЫЙ AST : 0.7963749766349792
+ПОИСК НЕСОРТИРОВАННЫЙ BST : 0.3454579710960388
+ПОИСК НЕСОРТИРОВАННЫЙ AST : 0.393375039100647
+ПОИСК НЕСОРТИРОВАННЫЙ BST : 0.1232919692993164
+ПОИСК НЕСОРТИРОВАННЫЙ AST : 0.33583295345306396
+ПОИСК НЕСОРТИРОВАННЫЙ BST : 0.11400002241134644
+ПОИСК НЕСОРТИРОВАННЫЙ AST : 0.576583981513977
+ПОИСК НЕСОРТИРОВАННЫЙ BST : 0.11650002002716064
+ПОИСК НЕСОРТИРОВАННЫЙ AST : 0.6166250109672546
+ПОИСК НЕСОРТИРОВАННЫЙ BST : 0.3464580178260803
+ПОИСК НЕСОРТИРОВАННЫЙ AST : 0.36466699838638306
+ПОИСК НЕСОРТИРОВАННЫЙ BST : 0.0898749828338623
+ПОИСК НЕСОРТИРОВАННЫЙ AST : 0.36225003004074097
+ПОИСК НЕСОРТИРОВАННЫЙ BST : 0.10429197549819946
+ПОИСК НЕСОРТИРОВАННЫЙ AST : 0.2650830149650574
+ПОИСК НЕСОРТИРОВАННЫЙ BST : 0.03970897197723389
+ПОИСК НЕСОРТИРОВАННЫЙ AST : 0.36400002241134644
+ПОИСК НЕСОРТИРОВАННЫЙ BST : 0.10137498378753662
+ПОИСК СОРТИРОВАННЫЙ AST : 0.24083298444747925
+ПОИСК СОРТИРОВАННЫЙ BST : 0.04437500238418579
+ПОИСК СОРТИРОВАННЫЙ AST : 0.3640829920768738
+ПОИСК СОРТИРОВАННЫЙ BST : 0.10120797157287598
+ПОИСК СОРТИРОВАННЫЙ AST : 0.36024999618530273
+ПОИСК СОРТИРОВАННЫЙ BST : 0.10504204034805298
+ПОИСК СОРТИРОВАННЫЙ AST : 0.2515829801559448
+ПОИСК СОРТИРОВАННЫЙ BST : 0.042333006858825684
+ПОИСК СОРТИРОВАННЫЙ AST : 0.25041598081588745
+ПОИСК СОРТИРОВАННЫЙ BST : 0.0409579873085022
+ПОИСК СОРТИРОВАННЫЙ AST : 0.25316697359085083
+ПОИСК СОРТИРОВАННЫЙ BST : 0.055542051792144775
+ПОИСК СОРТИРОВАННЫЙ AST : 0.2495410442352295
+ПОИСК СОРТИРОВАННЫЙ BST : 0.07604199647903442
+ПОИСК СОРТИРОВАННЫЙ AST : 0.3705419898033142
+ПОИСК СОРТИРОВАННЫЙ BST : 0.07504099607467651
+ПОИСК СОРТИРОВАННЫЙ AST : 0.3641659617424011
+ПОИСК СОРТИРОВАННЫЙ BST : 0.07587498426437378
+ПОИСК СОРТИРОВАННЫЙ AST : 0.2496659755706787
+ПОИСК СОРТИРОВАННЫЙ BST : 0.021458029747009277
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ AST : 2.6704169511795044
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ BST : 0.7039169669151306
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ AST : 0.8317500352859497
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ BST : 1.8658329844474792
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ AST : 0.8584580421447754
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ BST : 0.5139589905738831
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ AST : 0.8140000104904175
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ BST : 0.5076660513877869
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ AST : 0.5352500081062317
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ BST : 0.5297080278396606
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ AST : 0.5427079796791077
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ BST : 0.6030420064926147
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ AST : 0.2760000228881836
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ BST : 0.9060840010643005
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ AST : 0.5149999856948853
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ BST : 0.5481249690055847
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ AST : 1.8283750414848328
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ BST : 0.5472080111503601
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ AST : 0.23716700077056885
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ BST : 0.061874985694885254
+УДАЛЕНИЕ СОРТИРОВАННЫЙ AST : 0.18045896291732788
+УДАЛЕНИЕ СОРТИРОВАННЫЙ BST : 0.02166604995727539
+УДАЛЕНИЕ СОРТИРОВАННЫЙ AST : 0.7923330068588257
+УДАЛЕНИЕ СОРТИРОВАННЫЙ BST : 0.13020801544189453
+УДАЛЕНИЕ СОРТИРОВАННЫЙ AST : 0.46824997663497925
+УДАЛЕНИЕ СОРТИРОВАННЫЙ BST : 0.12174999713897705
+УДАЛЕНИЕ СОРТИРОВАННЫЙ AST : 0.12058299779891968
+УДАЛЕНИЕ СОРТИРОВАННЫЙ BST : 0.02249997854232788
+УДАЛЕНИЕ СОРТИРОВАННЫЙ AST : 0.12304198741912842
+УДАЛЕНИЕ СОРТИРОВАННЫЙ BST : 0.02174997329711914
+УДАЛЕНИЕ СОРТИРОВАННЫЙ AST : 0.11983400583267212
+УДАЛЕНИЕ СОРТИРОВАННЫЙ BST : 0.02279198169708252
+УДАЛЕНИЕ СОРТИРОВАННЫЙ AST : 0.6997910141944885
+УДАЛЕНИЕ СОРТИРОВАННЫЙ BST : 0.1239580512046814
+УДАЛЕНИЕ СОРТИРОВАННЫЙ AST : 0.1202089786529541
+УДАЛЕНИЕ СОРТИРОВАННЫЙ BST : 0.02208399772644043
+УДАЛЕНИЕ СОРТИРОВАННЫЙ AST : 0.49679094552993774
+УДАЛЕНИЕ СОРТИРОВАННЫЙ BST : 0.1469159722328186
+УДАЛЕНИЕ СОРТИРОВАННЫЙ AST : 0.12266600131988525
+УДАЛЕНИЕ СОРТИРОВАННЫЙ BST : 0.021957993507385254
+4096 ЭЛЕМЕНТОВ:
+ВСТАВКА НЕСОРТИРОВАННЫЙ AST : 1.6622499823570251
+ВСТАВКА НЕСОРТИРОВАННЫЙ BST : 0.374750018119812
+ВСТАВКА НЕСОРТИРОВАННЫЙ AST : 0.8244999647140503
+ВСТАВКА НЕСОРТИРОВАННЫЙ BST : 0.3569999933242798
+ВСТАВКА НЕСОРТИРОВАННЫЙ AST : 0.8007499575614929
+ВСТАВКА НЕСОРТИРОВАННЫЙ BST : 0.33408403396606445
+ВСТАВКА НЕСОРТИРОВАННЫЙ AST : 0.825124979019165
+ВСТАВКА НЕСОРТИРОВАННЫЙ BST : 0.33091700077056885
+ВСТАВКА НЕСОРТИРОВАННЫЙ AST : 0.8094160556793213
+ВСТАВКА НЕСОРТИРОВАННЫЙ BST : 0.34870803356170654
+ВСТАВКА НЕСОРТИРОВАННЫЙ AST : 0.8061670064926147
+ВСТАВКА НЕСОРТИРОВАННЫЙ BST : 0.3386249542236328
+ВСТАВКА НЕСОРТИРОВАННЫЙ AST : 0.8441250324249268
+ВСТАВКА НЕСОРТИРОВАННЫЙ BST : 0.3852499723434448
+ВСТАВКА НЕСОРТИРОВАННЫЙ AST : 0.904833972454071
+ВСТАВКА НЕСОРТИРОВАННЫЙ BST : 0.42170900106430054
+ВСТАВКА НЕСОРТИРОВАННЫЙ AST : 0.8910409808158875
+ВСТАВКА НЕСОРТИРОВАННЫЙ BST : 0.38975000381469727
+ВСТАВКА НЕСОРТИРОВАННЫЙ AST : 0.8132920265197754
+ВСТАВКА НЕСОРТИРОВАННЫЙ BST : 0.345209002494812
+ВСТАВКА СОРТИРОВАННЫЙ AST : 0.8938339948654175
+ВСТАВКА СОРТИРОВАННЫЙ BST : 30.02462500333786
+ВСТАВКА СОРТИРОВАННЫЙ AST : 0.8084999918937683
+ВСТАВКА СОРТИРОВАННЫЙ BST : 29.26454198360443
+ВСТАВКА СОРТИРОВАННЫЙ AST : 0.8025829792022705
+ВСТАВКА СОРТИРОВАННЫЙ BST : 31.56549996137619
+ВСТАВКА СОРТИРОВАННЫЙ AST : 0.7537919878959656
+ВСТАВКА СОРТИРОВАННЫЙ BST : 29.33645796775818
+ВСТАВКА СОРТИРОВАННЫЙ AST : 0.7743340134620667
+ВСТАВКА СОРТИРОВАННЫЙ BST : 29.141457974910736
+ВСТАВКА СОРТИРОВАННЫЙ AST : 0.746167004108429
+ВСТАВКА СОРТИРОВАННЫЙ BST : 29.09883403778076
+ВСТАВКА СОРТИРОВАННЫЙ AST : 0.7490000128746033
+ВСТАВКА СОРТИРОВАННЫЙ BST : 30.46304100751877
+ВСТАВКА СОРТИРОВАННЫЙ AST : 0.7775830030441284
+ВСТАВКА СОРТИРОВАННЫЙ BST : 29.780250012874603
+ВСТАВКА СОРТИРОВАННЫЙ AST : 0.7569169998168945
+ВСТАВКА СОРТИРОВАННЫЙ BST : 29.189750015735626
+ВСТАВКА СОРТИРОВАННЫЙ AST : 0.7579579949378967
+ВСТАВКА СОРТИРОВАННЫЙ BST : 29.144666016101837
+ПОИСК НЕСОРТИРОВАННЫЙ AST : 0.42912501096725464
+ПОИСК НЕСОРТИРОВАННЫЙ BST : 0.07870900630950928
+ПОИСК НЕСОРТИРОВАННЫЙ AST : 0.25358301401138306
+ПОИСК НЕСОРТИРОВАННЫЙ BST : 0.021959006786346436
+ПОИСК НЕСОРТИРОВАННЫЙ AST : 0.2446659803390503
+ПОИСК НЕСОРТИРОВАННЫЙ BST : 0.02154099941253662
+ПОИСК НЕСОРТИРОВАННЫЙ AST : 0.2887499928474426
+ПОИСК НЕСОРТИРОВАННЫЙ BST : 0.021457970142364502
+ПОИСК НЕСОРТИРОВАННЫЙ AST : 0.2472500205039978
+ПОИСК НЕСОРТИРОВАННЫЙ BST : 0.02154099941253662
+ПОИСК НЕСОРТИРОВАННЫЙ AST : 0.27037495374679565
+ПОИСК НЕСОРТИРОВАННЫЙ BST : 0.021959006786346436
+ПОИСК НЕСОРТИРОВАННЫЙ AST : 0.24454200267791748
+ПОИСК НЕСОРТИРОВАННЫЙ BST : 0.021582961082458496
+ПОИСК НЕСОРТИРОВАННЫЙ AST : 0.249875009059906
+ПОИСК НЕСОРТИРОВАННЫЙ BST : 0.023083031177520752
+ПОИСК НЕСОРТИРОВАННЫЙ AST : 0.24829202890396118
+ПОИСК НЕСОРТИРОВАННЫЙ BST : 0.02179199457168579
+ПОИСК НЕСОРТИРОВАННЫЙ AST : 0.22662502527236938
+ПОИСК НЕСОРТИРОВАННЫЙ BST : 0.02174997329711914
+ПОИСК СОРТИРОВАННЫЙ AST : 0.26633304357528687
+ПОИСК СОРТИРОВАННЫЙ BST : 0.022000014781951904
+ПОИСК СОРТИРОВАННЫЙ AST : 0.2729169726371765
+ПОИСК СОРТИРОВАННЫЙ BST : 0.022082984447479248
+ПОИСК СОРТИРОВАННЫЙ AST : 0.26920801401138306
+ПОИСК СОРТИРОВАННЫЙ BST : 0.021959006786346436
+ПОИСК СОРТИРОВАННЫЙ AST : 0.2776249647140503
+ПОИСК СОРТИРОВАННЫЙ BST : 0.021957993507385254
+ПОИСК СОРТИРОВАННЫЙ AST : 0.26912498474121094
+ПОИСК СОРТИРОВАННЫЙ BST : 0.022334039211273193
+ПОИСК СОРТИРОВАННЫЙ AST : 0.2717919945716858
+ПОИСК СОРТИРОВАННЫЙ BST : 0.021957993507385254
+ПОИСК СОРТИРОВАННЫЙ AST : 0.3044170141220093
+ПОИСК СОРТИРОВАННЫЙ BST : 0.02358299493789673
+ПОИСК СОРТИРОВАННЫЙ AST : 0.2701669931411743
+ПОИСК СОРТИРОВАННЫЙ BST : 0.02233302593231201
+ПОИСК СОРТИРОВАННЫЙ AST : 0.2705000042915344
+ПОИСК СОРТИРОВАННЫЙ BST : 0.021916985511779785
+ПОИСК СОРТИРОВАННЫЙ AST : 0.2713329792022705
+ПОИСК СОРТИРОВАННЫЙ BST : 0.02183300256729126
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ AST : 0.5550829768180847
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ BST : 0.5472500324249268
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ AST : 0.2125830054283142
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ BST : 0.1359580159187317
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ AST : 0.21133297681808472
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ BST : 0.3096669912338257
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ AST : 0.21537500619888306
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ BST : 0.3371660113334656
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ AST : 0.22416603565216064
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ BST : 0.06554096937179565
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ AST : 0.21025002002716064
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ BST : 0.31816601753234863
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ AST : 0.2160000205039978
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ BST : 0.34358400106430054
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ AST : 0.21675002574920654
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ BST : 0.5044580101966858
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ AST : 0.2293749451637268
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ BST : 0.08741605281829834
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ AST : 0.21441596746444702
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ BST : 0.2580839991569519
+УДАЛЕНИЕ СОРТИРОВАННЫЙ AST : 0.13220804929733276
+УДАЛЕНИЕ СОРТИРОВАННЫЙ BST : 0.022709012031555176
+УДАЛЕНИЕ СОРТИРОВАННЫЙ AST : 0.13516700267791748
+УДАЛЕНИЕ СОРТИРОВАННЫЙ BST : 0.02274996042251587
+УДАЛЕНИЕ СОРТИРОВАННЫЙ AST : 0.13537496328353882
+УДАЛЕНИЕ СОРТИРОВАННЫЙ BST : 0.021708011627197266
+УДАЛЕНИЕ СОРТИРОВАННЫЙ AST : 0.13237500190734863
+УДАЛЕНИЕ СОРТИРОВАННЫЙ BST : 0.023332953453063965
+УДАЛЕНИЕ СОРТИРОВАННЫЙ AST : 0.13270801305770874
+УДАЛЕНИЕ СОРТИРОВАННЫЙ BST : 0.02179199457168579
+УДАЛЕНИЕ СОРТИРОВАННЫЙ AST : 0.13408303260803223
+УДАЛЕНИЕ СОРТИРОВАННЫЙ BST : 0.02204197645187378
+УДАЛЕНИЕ СОРТИРОВАННЫЙ AST : 0.13566601276397705
+УДАЛЕНИЕ СОРТИРОВАННЫЙ BST : 0.023541033267974854
+УДАЛЕНИЕ СОРТИРОВАННЫЙ AST : 0.13749998807907104
+УДАЛЕНИЕ СОРТИРОВАННЫЙ BST : 0.022207975387573242
+УДАЛЕНИЕ СОРТИРОВАННЫЙ AST : 0.13375002145767212
+УДАЛЕНИЕ СОРТИРОВАННЫЙ BST : 0.022957980632781982
+УДАЛЕНИЕ СОРТИРОВАННЫЙ AST : 0.13495796918869019
+УДАЛЕНИЕ СОРТИРОВАННЫЙ BST : 0.02204197645187378
+8192 ЭЛЕМЕНТОВ:
+ВСТАВКА НЕСОРТИРОВАННЫЙ AST : 2.5681660175323486
+ВСТАВКА НЕСОРТИРОВАННЫЙ BST : 0.7668749690055847
+ВСТАВКА НЕСОРТИРОВАННЫЙ AST : 1.5527920126914978
+ВСТАВКА НЕСОРТИРОВАННЫЙ BST : 0.7772080302238464
+ВСТАВКА НЕСОРТИРОВАННЫЙ AST : 1.5173749923706055
+ВСТАВКА НЕСОРТИРОВАННЫЙ BST : 0.8092089891433716
+ВСТАВКА НЕСОРТИРОВАННЫЙ AST : 1.4737499952316284
+ВСТАВКА НЕСОРТИРОВАННЫЙ BST : 1.081624984741211
+ВСТАВКА НЕСОРТИРОВАННЫЙ AST : 1.4538750052452087
+ВСТАВКА НЕСОРТИРОВАННЫЙ BST : 0.7371670007705688
+ВСТАВКА НЕСОРТИРОВАННЫЙ AST : 1.9628750085830688
+ВСТАВКА НЕСОРТИРОВАННЫЙ BST : 0.7792919874191284
+ВСТАВКА НЕСОРТИРОВАННЫЙ AST : 1.5211250185966492
+ВСТАВКА НЕСОРТИРОВАННЫЙ BST : 0.7873330116271973
+ВСТАВКА НЕСОРТИРОВАННЫЙ AST : 1.4898749589920044
+ВСТАВКА НЕСОРТИРОВАННЫЙ BST : 0.861083984375
+ВСТАВКА НЕСОРТИРОВАННЫЙ AST : 1.5852909684181213
+ВСТАВКА НЕСОРТИРОВАННЫЙ BST : 0.8341249823570251
+ВСТАВКА НЕСОРТИРОВАННЫЙ AST : 1.5164999961853027
+ВСТАВКА НЕСОРТИРОВАННЫЙ BST : 0.8033750057220459
+ВСТАВКА СОРТИРОВАННЫЙ AST : 1.3336659669876099
+ВСТАВКА СОРТИРОВАННЫЙ BST : 116.55462497472763
+ВСТАВКА СОРТИРОВАННЫЙ AST : 1.3652909994125366
+ВСТАВКА СОРТИРОВАННЫЙ BST : 116.41595900058746
+ВСТАВКА СОРТИРОВАННЫЙ AST : 1.3770840167999268
+ВСТАВКА СОРТИРОВАННЫЙ BST : 116.52529203891754
+ВСТАВКА СОРТИРОВАННЫЙ AST : 1.3615840077400208
+ВСТАВКА СОРТИРОВАННЫЙ BST : 125.84833300113678
+ВСТАВКА СОРТИРОВАННЫЙ AST : 1.268708050251007
+ВСТАВКА СОРТИРОВАННЫЙ BST : 117.39775002002716
+ВСТАВКА СОРТИРОВАННЫЙ AST : 1.2744170427322388
+ВСТАВКА СОРТИРОВАННЫЙ BST : 116.29795801639557
+ВСТАВКА СОРТИРОВАННЫЙ AST : 1.3002910017967224
+ВСТАВКА СОРТИРОВАННЫЙ BST : 116.09899997711182
+ВСТАВКА СОРТИРОВАННЫЙ AST : 1.309000015258789
+ВСТАВКА СОРТИРОВАННЫЙ BST : 119.75575000047684
+ВСТАВКА СОРТИРОВАННЫЙ AST : 1.3651250004768372
+ВСТАВКА СОРТИРОВАННЫЙ BST : 116.92149996757507
+ВСТАВКА СОРТИРОВАННЫЙ AST : 1.3053339719772339
+ВСТАВКА СОРТИРОВАННЫЙ BST : 116.80391699075699
+ПОИСК НЕСОРТИРОВАННЫЙ AST : 0.3869999647140503
+ПОИСК НЕСОРТИРОВАННЫЙ BST : 0.0720829963684082
+ПОИСК НЕСОРТИРОВАННЫЙ AST : 0.2608330249786377
+ПОИСК НЕСОРТИРОВАННЫЙ BST : 0.023166000843048096
+ПОИСК НЕСОРТИРОВАННЫЙ AST : 0.22995799779891968
+ПОИСК НЕСОРТИРОВАННЫЙ BST : 0.022208988666534424
+ПОИСК НЕСОРТИРОВАННЫЙ AST : 0.24833297729492188
+ПОИСК НЕСОРТИРОВАННЫЙ BST : 0.021499991416931152
+ПОИСК НЕСОРТИРОВАННЫЙ AST : 0.2284579873085022
+ПОИСК НЕСОРТИРОВАННЫЙ BST : 0.021499991416931152
+ПОИСК НЕСОРТИРОВАННЫЙ AST : 0.2336670160293579
+ПОИСК НЕСОРТИРОВАННЫЙ BST : 0.022415995597839355
+ПОИСК НЕСОРТИРОВАННЫЙ AST : 0.24804198741912842
+ПОИСК НЕСОРТИРОВАННЫЙ BST : 0.02154099941253662
+ПОИСК НЕСОРТИРОВАННЫЙ AST : 0.24837499856948853
+ПОИСК НЕСОРТИРОВАННЫЙ BST : 0.021500051021575928
+ПОИСК НЕСОРТИРОВАННЫЙ AST : 0.2293339967727661
+ПОИСК НЕСОРТИРОВАННЫЙ BST : 0.02158302068710327
+ПОИСК НЕСОРТИРОВАННЫЙ AST : 0.22841697931289673
+ПОИСК НЕСОРТИРОВАННЫЙ BST : 0.02158302068710327
+ПОИСК СОРТИРОВАННЫЙ AST : 0.25029200315475464
+ПОИСК СОРТИРОВАННЫЙ BST : 0.02208399772644043
+ПОИСК СОРТИРОВАННЫЙ AST : 0.2539590001106262
+ПОИСК СОРТИРОВАННЫЙ BST : 0.02204197645187378
+ПОИСК СОРТИРОВАННЫЙ AST : 0.2597919702529907
+ПОИСК СОРТИРОВАННЫЙ BST : 0.02424997091293335
+ПОИСК СОРТИРОВАННЫЙ AST : 0.2552499771118164
+ПОИСК СОРТИРОВАННЫЙ BST : 0.022458970546722412
+ПОИСК СОРТИРОВАННЫЙ AST : 0.25258296728134155
+ПОИСК СОРТИРОВАННЫЙ BST : 0.022041022777557373
+ПОИСК СОРТИРОВАННЫЙ AST : 0.2536669969558716
+ПОИСК СОРТИРОВАННЫЙ BST : 0.022292017936706543
+ПОИСК СОРТИРОВАННЫЙ AST : 0.2556670308113098
+ПОИСК СОРТИРОВАННЫЙ BST : 0.022082984447479248
+ПОИСК СОРТИРОВАННЫЙ AST : 0.2609580159187317
+ПОИСК СОРТИРОВАННЫЙ BST : 0.02358400821685791
+ПОИСК СОРТИРОВАННЫЙ AST : 0.25220799446105957
+ПОИСК СОРТИРОВАННЫЙ BST : 0.022082984447479248
+ПОИСК СОРТИРОВАННЫЙ AST : 0.25858402252197266
+ПОИСК СОРТИРОВАННЫЙ BST : 0.0221250057220459
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ AST : 0.543999969959259
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ BST : 0.5451250076293945
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ AST : 0.23025000095367432
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ BST : 0.16533297300338745
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ AST : 0.2203330397605896
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ BST : 0.33904099464416504
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ AST : 0.21420800685882568
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ BST : 0.3493749499320984
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ AST : 0.22212499380111694
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ BST : 0.40641701221466064
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ AST : 0.2252500057220459
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ BST : 0.48462504148483276
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ AST : 0.22816699743270874
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ BST : 0.4122909903526306
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ AST : 0.21241700649261475
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ BST : 0.42487502098083496
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ AST : 0.21525001525878906
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ BST : 0.2743750214576721
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ AST : 0.2164589762687683
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ BST : 0.3756669759750366
+УДАЛЕНИЕ СОРТИРОВАННЫЙ AST : 0.12712496519088745
+УДАЛЕНИЕ СОРТИРОВАННЫЙ BST : 0.02262502908706665
+УДАЛЕНИЕ СОРТИРОВАННЫЙ AST : 0.1263750195503235
+УДАЛЕНИЕ СОРТИРОВАННЫЙ BST : 0.02245795726776123
+УДАЛЕНИЕ СОРТИРОВАННЫЙ AST : 0.13300001621246338
+УДАЛЕНИЕ СОРТИРОВАННЫЙ BST : 0.024083971977233887
+УДАЛЕНИЕ СОРТИРОВАННЫЙ AST : 0.12491703033447266
+УДАЛЕНИЕ СОРТИРОВАННЫЙ BST : 0.02254098653793335
+УДАЛЕНИЕ СОРТИРОВАННЫЙ AST : 0.12874996662139893
+УДАЛЕНИЕ СОРТИРОВАННЫЙ BST : 0.0225830078125
+УДАЛЕНИЕ СОРТИРОВАННЫЙ AST : 0.1268330216407776
+УДАЛЕНИЕ СОРТИРОВАННЫЙ BST : 0.022332966327667236
+УДАЛЕНИЕ СОРТИРОВАННЫЙ AST : 0.12866699695587158
+УДАЛЕНИЕ СОРТИРОВАННЫЙ BST : 0.02249997854232788
+УДАЛЕНИЕ СОРТИРОВАННЫЙ AST : 0.13329201936721802
+УДАЛЕНИЕ СОРТИРОВАННЫЙ BST : 0.025041043758392334
+УДАЛЕНИЕ СОРТИРОВАННЫЙ AST : 0.12325000762939453
+УДАЛЕНИЕ СОРТИРОВАННЫЙ BST : 0.0225830078125
+УДАЛЕНИЕ СОРТИРОВАННЫЙ AST : 0.12608402967453003
+УДАЛЕНИЕ СОРТИРОВАННЫЙ BST : 0.02254199981689453
+ВСТАВКА НЕСОРТИРОВАННЫЙ AST : 3.7615000009536743
+ВСТАВКА НЕСОРТИРОВАННЫЙ BST : 1.7098329663276672
+ВСТАВКА НЕСОРТИРОВАННЫЙ AST : 3.149416983127594
+ВСТАВКА НЕСОРТИРОВАННЫЙ BST : 1.6584170460700989
+ВСТАВКА НЕСОРТИРОВАННЫЙ AST : 3.145792007446289
+ВСТАВКА НЕСОРТИРОВАННЫЙ BST : 1.641083002090454
+ВСТАВКА НЕСОРТИРОВАННЫЙ AST : 3.083292007446289
+ВСТАВКА НЕСОРТИРОВАННЫЙ BST : 1.6777080297470093
+ВСТАВКА НЕСОРТИРОВАННЫЙ AST : 3.053874969482422
+ВСТАВКА НЕСОРТИРОВАННЫЙ BST : 1.5984999537467957
+ВСТАВКА НЕСОРТИРОВАННЫЙ AST : 2.987958014011383
+ВСТАВКА НЕСОРТИРОВАННЫЙ BST : 1.6449999809265137
+ВСТАВКА НЕСОРТИРОВАННЫЙ AST : 3.0333330035209656
+ВСТАВКА НЕСОРТИРОВАННЫЙ BST : 1.7006250023841858
+ВСТАВКА НЕСОРТИРОВАННЫЙ AST : 2.9884999990463257
+ВСТАВКА НЕСОРТИРОВАННЫЙ BST : 1.6622499823570251
+ВСТАВКА НЕСОРТИРОВАННЫЙ AST : 3.1255419850349426
+ВСТАВКА НЕСОРТИРОВАННЫЙ BST : 1.7685840129852295
+ВСТАВКА НЕСОРТИРОВАННЫЙ AST : 3.4835840463638306
+ВСТАВКА НЕСОРТИРОВАННЫЙ BST : 1.6424999833106995
+16384 ЭЛЕМЕНТОВ:
+ВСТАВКА СОРТИРОВАННЫЙ AST : 2.9375420212745667
+ВСТАВКА СОРТИРОВАННЫЙ BST : 473.02937495708466
+ВСТАВКА СОРТИРОВАННЫЙ AST : 2.901709020137787
+ВСТАВКА СОРТИРОВАННЫЙ BST : 465.61750000715256
+ВСТАВКА СОРТИРОВАННЫЙ AST : 2.7523329854011536
+ВСТАВКА СОРТИРОВАННЫЙ BST : 466.91966700553894
+ВСТАВКА СОРТИРОВАННЫЙ AST : 2.957583010196686
+ВСТАВКА СОРТИРОВАННЫЙ BST : 471.57491701841354
+ВСТАВКА СОРТИРОВАННЫЙ AST : 2.864333987236023
+ВСТАВКА СОРТИРОВАННЫЙ BST : 474.53166699409485
+ВСТАВКА СОРТИРОВАННЫЙ AST : 3.4961249828338623
+ВСТАВКА СОРТИРОВАННЫЙ BST : 469.2406659722328
+ВСТАВКА СОРТИРОВАННЫЙ AST : 2.7022910118103027
+ВСТАВКА СОРТИРОВАННЫЙ BST : 471.27025002241135
+ВСТАВКА СОРТИРОВАННЫЙ AST : 2.809249997138977
+ВСТАВКА СОРТИРОВАННЫЙ BST : 471.0792499780655
+ВСТАВКА СОРТИРОВАННЫЙ AST : 2.873291015625
+ВСТАВКА СОРТИРОВАННЫЙ BST : 468.06395798921585
+ВСТАВКА СОРТИРОВАННЫЙ AST : 2.9696670174598694
+ВСТАВКА СОРТИРОВАННЫЙ BST : 466.11341696977615
+ПОИСК НЕСОРТИРОВАННЫЙ AST : 0.3582499623298645
+ПОИСК НЕСОРТИРОВАННЫЙ BST : 0.07499998807907104
+ПОИСК НЕСОРТИРОВАННЫЙ AST : 0.24104201793670654
+ПОИСК НЕСОРТИРОВАННЫЙ BST : 0.026708006858825684
+ПОИСК НЕСОРТИРОВАННЫЙ AST : 0.24554097652435303
+ПОИСК НЕСОРТИРОВАННЫЙ BST : 0.02154099941253662
+ПОИСК НЕСОРТИРОВАННЫЙ AST : 0.2522919774055481
+ПОИСК НЕСОРТИРОВАННЫЙ BST : 0.021957993507385254
+ПОИСК НЕСОРТИРОВАННЫЙ AST : 0.24891698360443115
+ПОИСК НЕСОРТИРОВАННЫЙ BST : 0.02183300256729126
+ПОИСК НЕСОРТИРОВАННЫЙ AST : 0.27025002241134644
+ПОИСК НЕСОРТИРОВАННЫЙ BST : 0.02279198169708252
+ПОИСК НЕСОРТИРОВАННЫЙ AST : 0.23095804452896118
+ПОИСК НЕСОРТИРОВАННЫЙ BST : 0.022042036056518555
+ПОИСК НЕСОРТИРОВАННЫЙ AST : 0.22841697931289673
+ПОИСК НЕСОРТИРОВАННЫЙ BST : 0.02158302068710327
+ПОИСК НЕСОРТИРОВАННЫЙ AST : 0.5935419797897339
+ПОИСК НЕСОРТИРОВАННЫЙ BST : 0.07458299398422241
+ПОИСК НЕСОРТИРОВАННЫЙ AST : 0.26320797204971313
+ПОИСК НЕСОРТИРОВАННЫЙ BST : 0.02158302068710327
+ПОИСК СОРТИРОВАННЫЙ AST : 0.27424997091293335
+ПОИСК СОРТИРОВАННЫЙ BST : 0.02295905351638794
+ПОИСК СОРТИРОВАННЫЙ AST : 0.27562499046325684
+ПОИСК СОРТИРОВАННЫЙ BST : 0.022249996662139893
+ПОИСК СОРТИРОВАННЫЙ AST : 0.2764589786529541
+ПОИСК СОРТИРОВАННЫЙ BST : 0.024209022521972656
+ПОИСК СОРТИРОВАННЫЙ AST : 0.27387499809265137
+ПОИСК СОРТИРОВАННЫЙ BST : 0.02208399772644043
+ПОИСК СОРТИРОВАННЫЙ AST : 0.2774590253829956
+ПОИСК СОРТИРОВАННЫЙ BST : 0.02395796775817871
+ПОИСК СОРТИРОВАННЫЙ AST : 0.2767080068588257
+ПОИСК СОРТИРОВАННЫЙ BST : 0.021915972232818604
+ПОИСК СОРТИРОВАННЫЙ AST : 0.272957980632782
+ПОИСК СОРТИРОВАННЫЙ BST : 0.02283298969268799
+ПОИСК СОРТИРОВАННЫЙ AST : 0.2739589810371399
+ПОИСК СОРТИРОВАННЫЙ BST : 0.022292017936706543
+ПОИСК СОРТИРОВАННЫЙ AST : 0.2732090353965759
+ПОИСК СОРТИРОВАННЫЙ BST : 0.02279198169708252
+ПОИСК СОРТИРОВАННЫЙ AST : 0.27079200744628906
+ПОИСК СОРТИРОВАННЫЙ BST : 0.022000014781951904
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ AST : 0.5228750109672546
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ BST : 0.6987500190734863
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ AST : 0.24291598796844482
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ BST : 0.4296249747276306
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ AST : 0.2350420355796814
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ BST : 0.3927500247955322
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ AST : 0.2594580054283142
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ BST : 0.4608750343322754
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ AST : 0.2382500171661377
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ BST : 0.4288749694824219
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ AST : 0.2651669979095459
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ BST : 0.3464999794960022
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ AST : 0.23025000095367432
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ BST : 0.35962504148483276
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ AST : 0.22987496852874756
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ BST : 0.35620802640914917
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ AST : 0.6788749694824219
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ BST : 0.6142909526824951
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ AST : 0.23500001430511475
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ BST : 0.3714999556541443
+УДАЛЕНИЕ СОРТИРОВАННЫЙ AST : 0.13725000619888306
+УДАЛЕНИЕ СОРТИРОВАННЫЙ BST : 0.025249958038330078
+УДАЛЕНИЕ СОРТИРОВАННЫЙ AST : 0.1380000114440918
+УДАЛЕНИЕ СОРТИРОВАННЫЙ BST : 0.02287501096725464
+УДАЛЕНИЕ СОРТИРОВАННЫЙ AST : 0.13475000858306885
+УДАЛЕНИЕ СОРТИРОВАННЫЙ BST : 0.023458003997802734
+УДАЛЕНИЕ СОРТИРОВАННЫЙ AST : 0.13337504863739014
+УДАЛЕНИЕ СОРТИРОВАННЫЙ BST : 0.022709012031555176
+УДАЛЕНИЕ СОРТИРОВАННЫЙ AST : 0.13520801067352295
+УДАЛЕНИЕ СОРТИРОВАННЫЙ BST : 0.02337503433227539
+УДАЛЕНИЕ СОРТИРОВАННЫЙ AST : 0.13487499952316284
+УДАЛЕНИЕ СОРТИРОВАННЫЙ BST : 0.022458016872406006
+УДАЛЕНИЕ СОРТИРОВАННЫЙ AST : 0.133916974067688
+УДАЛЕНИЕ СОРТИРОВАННЫЙ BST : 0.023208022117614746
+УДАЛЕНИЕ СОРТИРОВАННЫЙ AST : 0.13370800018310547
+УДАЛЕНИЕ СОРТИРОВАННЫЙ BST : 0.022750020027160645
+УДАЛЕНИЕ СОРТИРОВАННЫЙ AST : 0.13462501764297485
+УДАЛЕНИЕ СОРТИРОВАННЫЙ BST : 0.02349996566772461
+УДАЛЕНИЕ СОРТИРОВАННЫЙ AST : 0.13237500190734863
+УДАЛЕНИЕ СОРТИРОВАННЫЙ BST : 0.02254199981689453
+2048 ЭЛЕМЕНТОВ:
+ВСТАВКА НЕСОРТИРОВАННЫЙ AST : 6.453249990940094
+ВСТАВКА НЕСОРТИРОВАННЫЙ BST : 2.7346660494804382
+ВСТАВКА НЕСОРТИРОВАННЫЙ AST : 4.480666995048523
+ВСТАВКА НЕСОРТИРОВАННЫЙ BST : 1.3962910175323486
+ВСТАВКА НЕСОРТИРОВАННЫЙ AST : 2.0107920169830322
+ВСТАВКА НЕСОРТИРОВАННЫЙ BST : 1.1051660180091858
+ВСТАВКА НЕСОРТИРОВАННЫЙ AST : 2.4002090096473694
+ВСТАВКА НЕСОРТИРОВАННЫЙ BST : 0.30095797777175903
+ВСТАВКА НЕСОРТИРОВАННЫЙ AST : 0.9833749532699585
+ВСТАВКА НЕСОРТИРОВАННЫЙ BST : 0.617207944393158
+ВСТАВКА НЕСОРТИРОВАННЫЙ AST : 0.7917079925537109
+ВСТАВКА НЕСОРТИРОВАННЫЙ BST : 0.20958304405212402
+ВСТАВКА НЕСОРТИРОВАННЫЙ AST : 0.8230410218238831
+ВСТАВКА НЕСОРТИРОВАННЫЙ BST : 0.20058304071426392
+ВСТАВКА НЕСОРТИРОВАННЫЙ AST : 1.471291959285736
+ВСТАВКА НЕСОРТИРОВАННЫЙ BST : 0.434749960899353
+ВСТАВКА НЕСОРТИРОВАННЫЙ AST : 0.3310829997062683
+ВСТАВКА НЕСОРТИРОВАННЫЙ BST : 0.16212499141693115
+ВСТАВКА НЕСОРТИРОВАННЫЙ AST : 1.029666006565094
+ВСТАВКА НЕСОРТИРОВАННЫЙ BST : 0.18599998950958252
+ВСТАВКА СОРТИРОВАННЫЙ AST : 0.40483301877975464
+ВСТАВКА СОРТИРОВАННЫЙ BST : 7.261000037193298
+ВСТАВКА СОРТИРОВАННЫЙ AST : 1.277500033378601
+ВСТАВКА СОРТИРОВАННЫЙ BST : 7.322374999523163
+ВСТАВКА СОРТИРОВАННЫЙ AST : 0.8103750348091125
+ВСТАВКА СОРТИРОВАННЫЙ BST : 8.023166000843048
+ВСТАВКА СОРТИРОВАННЫЙ AST : 0.711667001247406
+ВСТАВКА СОРТИРОВАННЫЙ BST : 7.270416975021362
+ВСТАВКА СОРТИРОВАННЫЙ AST : 0.28425002098083496
+ВСТАВКА СОРТИРОВАННЫЙ BST : 7.3180829882621765
+ВСТАВКА СОРТИРОВАННЫЙ AST : 0.30150002241134644
+ВСТАВКА СОРТИРОВАННЫЙ BST : 7.304625034332275
+ВСТАВКА СОРТИРОВАННЫЙ AST : 0.3033750057220459
+ВСТАВКА СОРТИРОВАННЫЙ BST : 7.3540419936180115
+ВСТАВКА СОРТИРОВАННЫЙ AST : 0.7862499952316284
+ВСТАВКА СОРТИРОВАННЫЙ BST : 7.373542010784149
+ВСТАВКА СОРТИРОВАННЫЙ AST : 1.0196250081062317
+ВСТАВКА СОРТИРОВАННЫЙ BST : 7.242999970912933
+ВСТАВКА СОРТИРОВАННЫЙ AST : 0.2852500081062317
+ВСТАВКА СОРТИРОВАННЫЙ BST : 7.294375002384186
+ПОИСК НЕСОРТИРОВАННЫЙ AST : 0.8745830059051514
+ПОИСК НЕСОРТИРОВАННЫЙ BST : 0.17424994707107544
+ПОИСК НЕСОРТИРОВАННЫЙ AST : 0.7467080354690552
+ПОИСК НЕСОРТИРОВАННЫЙ BST : 0.32666701078414917
+ПОИСК НЕСОРТИРОВАННЫЙ AST : 0.3884999752044678
+ПОИСК НЕСОРТИРОВАННЫЙ BST : 0.1270419955253601
+ПОИСК НЕСОРТИРОВАННЫЙ AST : 0.40583300590515137
+ПОИСК НЕСОРТИРОВАННЫЙ BST : 0.11641699075698853
+ПОИСК НЕСОРТИРОВАННЫЙ AST : 0.6266669631004333
+ПОИСК НЕСОРТИРОВАННЫЙ BST : 0.12029200792312622
+ПОИСК НЕСОРТИРОВАННЫЙ AST : 1.6159169673919678
+ПОИСК НЕСОРТИРОВАННЫЙ BST : 0.12324994802474976
+ПОИСК НЕСОРТИРОВАННЫЙ AST : 0.32429200410842896
+ПОИСК НЕСОРТИРОВАННЫЙ BST : 0.09070795774459839
+ПОИСК НЕСОРТИРОВАННЫЙ AST : 0.32475000619888306
+ПОИСК НЕСОРТИРОВАННЫЙ BST : 0.09700000286102295
+ПОИСК НЕСОРТИРОВАННЫЙ AST : 0.3143330216407776
+ПОИСК НЕСОРТИРОВАННЫЙ BST : 0.04100000858306885
+ПОИСК НЕСОРТИРОВАННЫЙ AST : 0.3077920079231262
+ПОИСК НЕСОРТИРОВАННЫЙ BST : 0.09562498331069946
+ПОИСК СОРТИРОВАННЫЙ AST : 0.28983402252197266
+ПОИСК СОРТИРОВАННЫЙ BST : 0.04266703128814697
+ПОИСК СОРТИРОВАННЫЙ AST : 0.35120803117752075
+ПОИСК СОРТИРОВАННЫЙ BST : 0.09891700744628906
+ПОИСК СОРТИРОВАННЫЙ AST : 0.36112499237060547
+ПОИСК СОРТИРОВАННЫЙ BST : 0.09945899248123169
+ПОИСК СОРТИРОВАННЫЙ AST : 0.2861250042915344
+ПОИСК СОРТИРОВАННЫЙ BST : 0.04045897722244263
+ПОИСК СОРТИРОВАННЫЙ AST : 0.28574997186660767
+ПОИСК СОРТИРОВАННЫЙ BST : 0.038291990756988525
+ПОИСК СОРТИРОВАННЫЙ AST : 0.3013330101966858
+ПОИСК СОРТИРОВАННЫЙ BST : 0.04795801639556885
+ПОИСК СОРТИРОВАННЫЙ AST : 0.28087496757507324
+ПОИСК СОРТИРОВАННЫЙ BST : 0.07316696643829346
+ПОИСК СОРТИРОВАННЫЙ AST : 0.3625829815864563
+ПОИСК СОРТИРОВАННЫЙ BST : 0.07375001907348633
+ПОИСК СОРТИРОВАННЫЙ AST : 0.36445897817611694
+ПОИСК СОРТИРОВАННЫЙ BST : 0.07645899057388306
+ПОИСК СОРТИРОВАННЫЙ AST : 0.2903749942779541
+ПОИСК СОРТИРОВАННЫЙ BST : 0.02333301305770874
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ AST : 2.724749982357025
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ BST : 1.4025830030441284
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ AST : 0.7774579524993896
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ BST : 1.0685839653015137
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ AST : 1.0125830173492432
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ BST : 0.22583401203155518
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ AST : 0.7910839915275574
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ BST : 0.18937498331069946
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ AST : 0.5417079925537109
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ BST : 0.5653330087661743
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ AST : 0.5125829577445984
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ BST : 0.5586659908294678
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ AST : 0.24891698360443115
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ BST : 0.23075002431869507
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ AST : 0.49804097414016724
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ BST : 0.4573339819908142
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ AST : 1.012499988079071
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ BST : 0.3772919774055481
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ AST : 0.4938749670982361
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ BST : 0.34233295917510986
+УДАЛЕНИЕ СОРТИРОВАННЫЙ AST : 0.17675000429153442
+УДАЛЕНИЕ СОРТИРОВАННЫЙ BST : 0.02499997615814209
+УДАЛЕНИЕ СОРТИРОВАННЫЙ AST : 0.7473340034484863
+УДАЛЕНИЕ СОРТИРОВАННЫЙ BST : 0.12874996662139893
+УДАЛЕНИЕ СОРТИРОВАННЫЙ AST : 0.43070900440216064
+УДАЛЕНИЕ СОРТИРОВАННЫЙ BST : 0.1238749623298645
+УДАЛЕНИЕ СОРТИРОВАННЫЙ AST : 0.10541701316833496
+УДАЛЕНИЕ СОРТИРОВАННЫЙ BST : 0.024000048637390137
+УДАЛЕНИЕ СОРТИРОВАННЫЙ AST : 0.10858303308486938
+УДАЛЕНИЕ СОРТИРОВАННЫЙ BST : 0.02320796251296997
+УДАЛЕНИЕ СОРТИРОВАННЫЙ AST : 0.11000001430511475
+УДАЛЕНИЕ СОРТИРОВАННЫЙ BST : 0.024833977222442627
+УДАЛЕНИЕ СОРТИРОВАННЫЙ AST : 0.6520410180091858
+УДАЛЕНИЕ СОРТИРОВАННЫЙ BST : 0.12329202890396118
+УДАЛЕНИЕ СОРТИРОВАННЫЙ AST : 0.10891598463058472
+УДАЛЕНИЕ СОРТИРОВАННЫЙ BST : 0.0225830078125
+УДАЛЕНИЕ СОРТИРОВАННЫЙ AST : 0.46525001525878906
+УДАЛЕНИЕ СОРТИРОВАННЫЙ BST : 0.13241702318191528
+УДАЛЕНИЕ СОРТИРОВАННЫЙ AST : 0.1115419864654541
+УДАЛЕНИЕ СОРТИРОВАННЫЙ BST : 0.023540973663330078
+4096 ЭЛЕМЕНТОВ:
+ВСТАВКА НЕСОРТИРОВАННЫЙ AST : 1.5870000123977661
+ВСТАВКА НЕСОРТИРОВАННЫЙ BST : 0.36400002241134644
+ВСТАВКА НЕСОРТИРОВАННЫЙ AST : 0.6831249594688416
+ВСТАВКА НЕСОРТИРОВАННЫЙ BST : 0.34095799922943115
+ВСТАВКА НЕСОРТИРОВАННЫЙ AST : 0.6776660084724426
+ВСТАВКА НЕСОРТИРОВАННЫЙ BST : 0.3553749918937683
+ВСТАВКА НЕСОРТИРОВАННЫЙ AST : 0.6847089529037476
+ВСТАВКА НЕСОРТИРОВАННЫЙ BST : 0.3414999842643738
+ВСТАВКА НЕСОРТИРОВАННЫЙ AST : 0.6629160046577454
+ВСТАВКА НЕСОРТИРОВАННЫЙ BST : 0.7395840287208557
+ВСТАВКА НЕСОРТИРОВАННЫЙ AST : 0.7089170217514038
+ВСТАВКА НЕСОРТИРОВАННЫЙ BST : 0.3586670160293579
+ВСТАВКА НЕСОРТИРОВАННЫЙ AST : 0.7603340148925781
+ВСТАВКА НЕСОРТИРОВАННЫЙ BST : 0.4093329906463623
+ВСТАВКА НЕСОРТИРОВАННЫЙ AST : 0.789667010307312
+ВСТАВКА НЕСОРТИРОВАННЫЙ BST : 0.42258399724960327
+ВСТАВКА НЕСОРТИРОВАННЫЙ AST : 0.7417500019073486
+ВСТАВКА НЕСОРТИРОВАННЫЙ BST : 0.39879196882247925
+ВСТАВКА НЕСОРТИРОВАННЫЙ AST : 0.6803750395774841
+ВСТАВКА НЕСОРТИРОВАННЫЙ BST : 0.3502500057220459
+ВСТАВКА СОРТИРОВАННЫЙ AST : 0.6114579439163208
+ВСТАВКА СОРТИРОВАННЫЙ BST : 29.283540964126587
+ВСТАВКА СОРТИРОВАННЫЙ AST : 0.6384580135345459
+ВСТАВКА СОРТИРОВАННЫЙ BST : 29.150332987308502
+ВСТАВКА СОРТИРОВАННЫЙ AST : 0.653499960899353
+ВСТАВКА СОРТИРОВАННЫЙ BST : 30.762957990169525
+ВСТАВКА СОРТИРОВАННЫЙ AST : 0.587833046913147
+ВСТАВКА СОРТИРОВАННЫЙ BST : 29.721249997615814
+ВСТАВКА СОРТИРОВАННЫЙ AST : 0.6015830039978027
+ВСТАВКА СОРТИРОВАННЫЙ BST : 29.157666981220245
+ВСТАВКА СОРТИРОВАННЫЙ AST : 0.5990830063819885
+ВСТАВКА СОРТИРОВАННЫЙ BST : 29.275250017642975
+ВСТАВКА СОРТИРОВАННЫЙ AST : 0.5915409922599792
+ВСТАВКА СОРТИРОВАННЫЙ BST : 30.19929200410843
+ВСТАВКА СОРТИРОВАННЫЙ AST : 0.592540979385376
+ВСТАВКА СОРТИРОВАННЫЙ BST : 29.945291996002197
+ВСТАВКА СОРТИРОВАННЫЙ AST : 0.6052919626235962
+ВСТАВКА СОРТИРОВАННЫЙ BST : 29.405708014965057
+ВСТАВКА СОРТИРОВАННЫЙ AST : 0.5927500128746033
+ВСТАВКА СОРТИРОВАННЫЙ BST : 29.112917006015778
+ПОИСК НЕСОРТИРОВАННЫЙ AST : 0.40175002813339233
+ПОИСК НЕСОРТИРОВАННЫЙ BST : 0.07587498426437378
+ПОИСК НЕСОРТИРОВАННЫЙ AST : 0.27995795011520386
+ПОИСК НЕСОРТИРОВАННЫЙ BST : 0.021541953086853027
+ПОИСК НЕСОРТИРОВАННЫЙ AST : 0.28224998712539673
+ПОИСК НЕСОРТИРОВАННЫЙ BST : 0.021542012691497803
+ПОИСК НЕСОРТИРОВАННЫЙ AST : 0.28212499618530273
+ПОИСК НЕСОРТИРОВАННЫЙ BST : 0.021458029747009277
+ПОИСК НЕСОРТИРОВАННЫЙ AST : 0.3314579725265503
+ПОИСК НЕСОРТИРОВАННЫЙ BST : 0.02183300256729126
+ПОИСК НЕСОРТИРОВАННЫЙ AST : 0.3377910256385803
+ПОИСК НЕСОРТИРОВАННЫЙ BST : 0.02487504482269287
+ПОИСК НЕСОРТИРОВАННЫЙ AST : 0.31687504053115845
+ПОИСК НЕСОРТИРОВАННЫЙ BST : 0.022374987602233887
+ПОИСК НЕСОРТИРОВАННЫЙ AST : 0.2860829830169678
+ПОИСК НЕСОРТИРОВАННЫЙ BST : 0.02262502908706665
+ПОИСК НЕСОРТИРОВАННЫЙ AST : 0.3066660165786743
+ПОИСК НЕСОРТИРОВАННЫЙ BST : 0.02174997329711914
+ПОИСК НЕСОРТИРОВАННЫЙ AST : 0.2560409903526306
+ПОИСК НЕСОРТИРОВАННЫЙ BST : 0.02183300256729126
+ПОИСК СОРТИРОВАННЫЙ AST : 0.30295801162719727
+ПОИСК СОРТИРОВАННЫЙ BST : 0.021874964237213135
+ПОИСК СОРТИРОВАННЫЙ AST : 0.30912500619888306
+ПОИСК СОРТИРОВАННЫЙ BST : 0.022375047206878662
+ПОИСК СОРТИРОВАННЫЙ AST : 0.3079169988632202
+ПОИСК СОРТИРОВАННЫЙ BST : 0.02229100465774536
+ПОИСК СОРТИРОВАННЫЙ AST : 0.31666600704193115
+ПОИСК СОРТИРОВАННЫЙ BST : 0.021959006786346436
+ПОИСК СОРТИРОВАННЫЙ AST : 0.33637499809265137
+ПОИСК СОРТИРОВАННЫЙ BST : 0.023332953453063965
+ПОИСК СОРТИРОВАННЫЙ AST : 0.30695903301239014
+ПОИСК СОРТИРОВАННЫЙ BST : 0.021916985511779785
+ПОИСК СОРТИРОВАННЫЙ AST : 0.3057500123977661
+ПОИСК СОРТИРОВАННЫЙ BST : 0.02254199981689453
+ПОИСК СОРТИРОВАННЫЙ AST : 0.3048340082168579
+ПОИСК СОРТИРОВАННЫЙ BST : 0.022208988666534424
+ПОИСК СОРТИРОВАННЫЙ AST : 0.3090839982032776
+ПОИСК СОРТИРОВАННЫЙ BST : 0.021957993507385254
+ПОИСК СОРТИРОВАННЫЙ AST : 0.3088330030441284
+ПОИСК СОРТИРОВАННЫЙ BST : 0.021665990352630615
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ AST : 0.5216249823570251
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ BST : 0.4874590039253235
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ AST : 0.19483399391174316
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ BST : 0.38908398151397705
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ AST : 0.18912500143051147
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ BST : 0.3398749828338623
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ AST : 0.19645804166793823
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ BST : 0.2613750100135803
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ AST : 0.19520896673202515
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ BST : 0.3119580149650574
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ AST : 0.2024170160293579
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ BST : 0.12620800733566284
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ AST : 0.2026669979095459
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ BST : 0.3390830159187317
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ AST : 0.19995802640914917
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ BST : 0.5288339853286743
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ AST : 0.19162499904632568
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ BST : 0.02762502431869507
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ AST : 0.19749999046325684
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ BST : 0.32074999809265137
+УДАЛЕНИЕ СОРТИРОВАННЫЙ AST : 0.11870801448822021
+УДАЛЕНИЕ СОРТИРОВАННЫЙ BST : 0.024750053882598877
+УДАЛЕНИЕ СОРТИРОВАННЫЙ AST : 0.11787503957748413
+УДАЛЕНИЕ СОРТИРОВАННЫЙ BST : 0.023083984851837158
+УДАЛЕНИЕ СОРТИРОВАННЫЙ AST : 0.11824995279312134
+УДАЛЕНИЕ СОРТИРОВАННЫЙ BST : 0.022750020027160645
+УДАЛЕНИЕ СОРТИРОВАННЫЙ AST : 0.1180419921875
+УДАЛЕНИЕ СОРТИРОВАННЫЙ BST : 0.022624969482421875
+УДАЛЕНИЕ СОРТИРОВАННЫЙ AST : 0.11958402395248413
+УДАЛЕНИЕ СОРТИРОВАННЫЙ BST : 0.02408301830291748
+УДАЛЕНИЕ СОРТИРОВАННЫЙ AST : 0.11812502145767212
+УДАЛЕНИЕ СОРТИРОВАННЫЙ BST : 0.02391594648361206
+УДАЛЕНИЕ СОРТИРОВАННЫЙ AST : 0.11866700649261475
+УДАЛЕНИЕ СОРТИРОВАННЫЙ BST : 0.022915959358215332
+УДАЛЕНИЕ СОРТИРОВАННЫЙ AST : 0.11662501096725464
+УДАЛЕНИЕ СОРТИРОВАННЫЙ BST : 0.022915959358215332
+УДАЛЕНИЕ СОРТИРОВАННЫЙ AST : 0.118166983127594
+УДАЛЕНИЕ СОРТИРОВАННЫЙ BST : 0.022915959358215332
+УДАЛЕНИЕ СОРТИРОВАННЫЙ AST : 0.11537504196166992
+УДАЛЕНИЕ СОРТИРОВАННЫЙ BST : 0.022583961486816406
+8192 ЭЛЕМЕНТОВ:
+ВСТАВКА НЕСОРТИРОВАННЫЙ AST : 2.118040978908539
+ВСТАВКА НЕСОРТИРОВАННЫЙ BST : 0.7686249613761902
+ВСТАВКА НЕСОРТИРОВАННЫЙ AST : 1.5055000185966492
+ВСТАВКА НЕСОРТИРОВАННЫЙ BST : 0.756708025932312
+ВСТАВКА НЕСОРТИРОВАННЫЙ AST : 1.5910420417785645
+ВСТАВКА НЕСОРТИРОВАННЫЙ BST : 0.748665988445282
+ВСТАВКА НЕСОРТИРОВАННЫЙ AST : 1.410834014415741
+ВСТАВКА НЕСОРТИРОВАННЫЙ BST : 1.1179579496383667
+ВСТАВКА НЕСОРТИРОВАННЫЙ AST : 1.4476249814033508
+ВСТАВКА НЕСОРТИРОВАННЫЙ BST : 0.7590829730033875
+ВСТАВКА НЕСОРТИРОВАННЫЙ AST : 1.9082080125808716
+ВСТАВКА НЕСОРТИРОВАННЫЙ BST : 0.7808330059051514
+ВСТАВКА НЕСОРТИРОВАННЫЙ AST : 1.4927499890327454
+ВСТАВКА НЕСОРТИРОВАННЫЙ BST : 0.8022090196609497
+ВСТАВКА НЕСОРТИРОВАННЫЙ AST : 1.486415982246399
+ВСТАВКА НЕСОРТИРОВАННЫЙ BST : 0.8398749828338623
+ВСТАВКА НЕСОРТИРОВАННЫЙ AST : 1.597000002861023
+ВСТАВКА НЕСОРТИРОВАННЫЙ BST : 0.8486670255661011
+ВСТАВКА НЕСОРТИРОВАННЫЙ AST : 1.508417010307312
+ВСТАВКА НЕСОРТИРОВАННЫЙ BST : 0.8334590196609497
+ВСТАВКА СОРТИРОВАННЫЙ AST : 1.2560829520225525
+ВСТАВКА СОРТИРОВАННЫЙ BST : 116.65395802259445
+ВСТАВКА СОРТИРОВАННЫЙ AST : 1.2799999713897705
+ВСТАВКА СОРТИРОВАННЫЙ BST : 116.21054196357727
+ВСТАВКА СОРТИРОВАННЫЙ AST : 1.380167007446289
+ВСТАВКА СОРТИРОВАННЫЙ BST : 116.44320899248123
+ВСТАВКА СОРТИРОВАННЫЙ AST : 1.395334005355835
+ВСТАВКА СОРТИРОВАННЫЙ BST : 129.73479199409485
+ВСТАВКА СОРТИРОВАННЫЙ AST : 1.2377910017967224
+ВСТАВКА СОРТИРОВАННЫЙ BST : 116.19466698169708
+ВСТАВКА СОРТИРОВАННЫЙ AST : 1.300208032131195
+ВСТАВКА СОРТИРОВАННЫЙ BST : 116.03587502241135
+ВСТАВКА СОРТИРОВАННЫЙ AST : 1.2448750138282776
+ВСТАВКА СОРТИРОВАННЫЙ BST : 115.92400002479553
+ВСТАВКА СОРТИРОВАННЫЙ AST : 1.6906669735908508
+ВСТАВКА СОРТИРОВАННЫЙ BST : 116.77304202318192
+ВСТАВКА СОРТИРОВАННЫЙ AST : 1.2752500176429749
+ВСТАВКА СОРТИРОВАННЫЙ BST : 116.02233302593231
+ВСТАВКА СОРТИРОВАННЫЙ AST : 1.2547919750213623
+ВСТАВКА СОРТИРОВАННЫЙ BST : 116.93383300304413
+ПОИСК НЕСОРТИРОВАННЫЙ AST : 0.26658403873443604
+ПОИСК НЕСОРТИРОВАННЫЙ BST : 0.06712496280670166
+ПОИСК НЕСОРТИРОВАННЫЙ AST : 0.21633297204971313
+ПОИСК НЕСОРТИРОВАННЫЙ BST : 0.018292009830474854
+ПОИСК НЕСОРТИРОВАННЫЙ AST : 0.18637502193450928
+ПОИСК НЕСОРТИРОВАННЫЙ BST : 0.01879197359085083
+ПОИСК НЕСОРТИРОВАННЫЙ AST : 0.17675000429153442
+ПОИСК НЕСОРТИРОВАННЫЙ BST : 0.017208993434906006
+ПОИСК НЕСОРТИРОВАННЫЙ AST : 0.22337496280670166
+ПОИСК НЕСОРТИРОВАННЫЙ BST : 0.022165954113006592
+ПОИСК НЕСОРТИРОВАННЫЙ AST : 0.18104201555252075
+ПОИСК НЕСОРТИРОВАННЫЙ BST : 0.0188329815864563
+ПОИСК НЕСОРТИРОВАННЫЙ AST : 0.21375000476837158
+ПОИСК НЕСОРТИРОВАННЫЙ BST : 0.01900005340576172
+ПОИСК НЕСОРТИРОВАННЫЙ AST : 0.22370898723602295
+ПОИСК НЕСОРТИРОВАННЫЙ BST : 0.017250001430511475
+ПОИСК НЕСОРТИРОВАННЫЙ AST : 0.1941249966621399
+ПОИСК НЕСОРТИРОВАННЫЙ BST : 0.02104198932647705
+ПОИСК НЕСОРТИРОВАННЫЙ AST : 0.22054201364517212
+ПОИСК НЕСОРТИРОВАННЫЙ BST : 0.017584025859832764
+ПОИСК СОРТИРОВАННЫЙ AST : 0.20283299684524536
+ПОИСК СОРТИРОВАННЫЙ BST : 0.0176660418510437
+ПОИСК СОРТИРОВАННЫЙ AST : 0.2160000205039978
+ПОИСК СОРТИРОВАННЫЙ BST : 0.017915964126586914
+ПОИСК СОРТИРОВАННЫЙ AST : 0.21254104375839233
+ПОИСК СОРТИРОВАННЫЙ BST : 0.01962500810623169
+ПОИСК СОРТИРОВАННЫЙ AST : 0.2127079963684082
+ПОИСК СОРТИРОВАННЫЙ BST : 0.01933300495147705
+ПОИСК СОРТИРОВАННЫЙ AST : 0.21091699600219727
+ПОИСК СОРТИРОВАННЫЙ BST : 0.018041014671325684
+ПОИСК СОРТИРОВАННЫЙ AST : 0.21450001001358032
+ПОИСК СОРТИРОВАННЫЙ BST : 0.017958998680114746
+ПОИСК СОРТИРОВАННЫЙ AST : 0.2123749852180481
+ПОИСК СОРТИРОВАННЫЙ BST : 0.017499983310699463
+ПОИСК СОРТИРОВАННЫЙ AST : 0.21437501907348633
+ПОИСК СОРТИРОВАННЫЙ BST : 0.020583033561706543
+ПОИСК СОРТИРОВАННЫЙ AST : 0.21320903301239014
+ПОИСК СОРТИРОВАННЫЙ BST : 0.01774996519088745
+ПОИСК СОРТИРОВАННЫЙ AST : 0.2108750343322754
+ПОИСК СОРТИРОВАННЫЙ BST : 0.017665982246398926
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ AST : 0.526667058467865
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ BST : 0.537041962146759
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ AST : 0.23441696166992188
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ BST : 0.5017920136451721
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ AST : 0.23600000143051147
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ BST : 0.3086659908294678
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ AST : 0.21375000476837158
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ BST : 0.3638339638710022
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ AST : 0.22200000286102295
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ BST : 0.06129199266433716
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ AST : 0.23716598749160767
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ BST : 0.08991599082946777
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ AST : 0.2267499566078186
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ BST : 0.3146659731864929
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ AST : 0.21858304738998413
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ BST : 0.3413339853286743
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ AST : 0.22383296489715576
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ BST : 0.3503749966621399
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ AST : 0.2156670093536377
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ BST : 0.3202499747276306
+УДАЛЕНИЕ СОРТИРОВАННЫЙ AST : 0.12420797348022461
+УДАЛЕНИЕ СОРТИРОВАННЫЙ BST : 0.019165992736816406
+УДАЛЕНИЕ СОРТИРОВАННЫЙ AST : 0.12450003623962402
+УДАЛЕНИЕ СОРТИРОВАННЫЙ BST : 0.018292009830474854
+УДАЛЕНИЕ СОРТИРОВАННЫЙ AST : 0.13016700744628906
+УДАЛЕНИЕ СОРТИРОВАННЫЙ BST : 0.01958298683166504
+УДАЛЕНИЕ СОРТИРОВАННЫЙ AST : 0.16966599225997925
+УДАЛЕНИЕ СОРТИРОВАННЫЙ BST : 0.019541025161743164
+УДАЛЕНИЕ СОРТИРОВАННЫЙ AST : 0.12420803308486938
+УДАЛЕНИЕ СОРТИРОВАННЫЙ BST : 0.01812499761581421
+УДАЛЕНИЕ СОРТИРОВАННЫЙ AST : 0.1284579634666443
+УДАЛЕНИЕ СОРТИРОВАННЫЙ BST : 0.018375039100646973
+УДАЛЕНИЕ СОРТИРОВАННЫЙ AST : 0.12641698122024536
+УДАЛЕНИЕ СОРТИРОВАННЫЙ BST : 0.01808398962020874
+УДАЛЕНИЕ СОРТИРОВАННЫЙ AST : 0.12599998712539673
+УДАЛЕНИЕ СОРТИРОВАННЫЙ BST : 0.018208980560302734
+УДАЛЕНИЕ СОРТИРОВАННЫЙ AST : 0.12741702795028687
+УДАЛЕНИЕ СОРТИРОВАННЫЙ BST : 0.02112501859664917
+УДАЛЕНИЕ СОРТИРОВАННЫЙ AST : 0.12379199266433716
+УДАЛЕНИЕ СОРТИРОВАННЫЙ BST : 0.018208980560302734
+16384 ЭЛЕМЕНТОВ:
+ВСТАВКА НЕСОРТИРОВАННЫЙ AST : 3.6894580125808716
+ВСТАВКА НЕСОРТИРОВАННЫЙ BST : 1.689166009426117
+ВСТАВКА НЕСОРТИРОВАННЫЙ AST : 3.1296249628067017
+ВСТАВКА НЕСОРТИРОВАННЫЙ BST : 1.6560419797897339
+ВСТАВКА НЕСОРТИРОВАННЫЙ AST : 2.963749945163727
+ВСТАВКА НЕСОРТИРОВАННЫЙ BST : 1.5826669931411743
+ВСТАВКА НЕСОРТИРОВАННЫЙ AST : 3.0052079558372498
+ВСТАВКА НЕСОРТИРОВАННЫЙ BST : 1.652999997138977
+ВСТАВКА НЕСОРТИРОВАННЫЙ AST : 3.092082977294922
+ВСТАВКА НЕСОРТИРОВАННЫЙ BST : 1.6666249632835388
+ВСТАВКА НЕСОРТИРОВАННЫЙ AST : 2.9397090077400208
+ВСТАВКА НЕСОРТИРОВАННЫЙ BST : 1.5839999914169312
+ВСТАВКА НЕСОРТИРОВАННЫЙ AST : 2.9539589881896973
+ВСТАВКА НЕСОРТИРОВАННЫЙ BST : 1.6290830373764038
+ВСТАВКА НЕСОРТИРОВАННЫЙ AST : 2.9909169673919678
+ВСТАВКА НЕСОРТИРОВАННЫЙ BST : 1.6694999933242798
+ВСТАВКА НЕСОРТИРОВАННЫЙ AST : 2.907208025455475
+ВСТАВКА НЕСОРТИРОВАННЫЙ BST : 1.669959008693695
+ВСТАВКА НЕСОРТИРОВАННЫЙ AST : 3.435249984264374
+ВСТАВКА НЕСОРТИРОВАННЫЙ BST : 1.687958002090454
+ВСТАВКА СОРТИРОВАННЫЙ AST : 2.7537500262260437
+ВСТАВКА СОРТИРОВАННЫЙ BST : 467.9273329973221
+ВСТАВКА СОРТИРОВАННЫЙ AST : 2.734166979789734
+ВСТАВКА СОРТИРОВАННЫЙ BST : 466.9975000023842
+ВСТАВКА СОРТИРОВАННЫЙ AST : 2.8027909994125366
+ВСТАВКА СОРТИРОВАННЫЙ BST : 471.4878330230713
+ВСТАВКА СОРТИРОВАННЫЙ AST : 2.945583999156952
+ВСТАВКА СОРТИРОВАННЫЙ BST : 466.81237494945526
+ВСТАВКА СОРТИРОВАННЫЙ AST : 2.8295000195503235
+ВСТАВКА СОРТИРОВАННЫЙ BST : 471.61058300733566
+ВСТАВКА СОРТИРОВАННЫЙ AST : 3.350250005722046
+ВСТАВКА СОРТИРОВАННЫЙ BST : 466.100790977478
+ВСТАВКА СОРТИРОВАННЫЙ AST : 2.6832079887390137
+ВСТАВКА СОРТИРОВАННЫЙ BST : 468.48120802640915
+ВСТАВКА СОРТИРОВАННЫЙ AST : 2.63129198551178
+ВСТАВКА СОРТИРОВАННЫЙ BST : 470.0661669969559
+ВСТАВКА СОРТИРОВАННЫЙ AST : 2.846916973590851
+ВСТАВКА СОРТИРОВАННЫЙ BST : 478.0065830349922
+ВСТАВКА СОРТИРОВАННЫЙ AST : 3.0664169788360596
+ВСТАВКА СОРТИРОВАННЫЙ BST : 470.4477090239525
+ПОИСК НЕСОРТИРОВАННЫЙ AST : 0.2784169912338257
+ПОИСК НЕСОРТИРОВАННЫЙ BST : 0.06845897436141968
+ПОИСК НЕСОРТИРОВАННЫЙ AST : 0.21233302354812622
+ПОИСК НЕСОРТИРОВАННЫЙ BST : 0.01887500286102295
+ПОИСК НЕСОРТИРОВАННЫЙ AST : 0.22187501192092896
+ПОИСК НЕСОРТИРОВАННЫЙ BST : 0.017582952976226807
+ПОИСК НЕСОРТИРОВАННЫЙ AST : 0.20612502098083496
+ПОИСК НЕСОРТИРОВАННЫЙ BST : 0.01733297109603882
+ПОИСК НЕСОРТИРОВАННЫЙ AST : 0.20945900678634644
+ПОИСК НЕСОРТИРОВАННЫЙ BST : 0.018040955066680908
+ПОИСК НЕСОРТИРОВАННЫЙ AST : 0.22066599130630493
+ПОИСК НЕСОРТИРОВАННЫЙ BST : 0.017291009426116943
+ПОИСК НЕСОРТИРОВАННЫЙ AST : 0.22600001096725464
+ПОИСК НЕСОРТИРОВАННЫЙ BST : 0.01808297634124756
+ПОИСК НЕСОРТИРОВАННЫЙ AST : 0.21100002527236938
+ПОИСК НЕСОРТИРОВАННЫЙ BST : 0.017709016799926758
+ПОИСК НЕСОРТИРОВАННЫЙ AST : 0.5077089667320251
+ПОИСК НЕСОРТИРОВАННЫЙ BST : 0.07412499189376831
+ПОИСК НЕСОРТИРОВАННЫЙ AST : 0.19529098272323608
+ПОИСК НЕСОРТИРОВАННЫЙ BST : 0.017542004585266113
+ПОИСК СОРТИРОВАННЫЙ AST : 0.22850000858306885
+ПОИСК СОРТИРОВАННЫЙ BST : 0.018791019916534424
+ПОИСК СОРТИРОВАННЫЙ AST : 0.23124998807907104
+ПОИСК СОРТИРОВАННЫЙ BST : 0.01879197359085083
+ПОИСК СОРТИРОВАННЫЙ AST : 0.23041599988937378
+ПОИСК СОРТИРОВАННЫЙ BST : 0.020041048526763916
+ПОИСК СОРТИРОВАННЫЙ AST : 0.23091596364974976
+ПОИСК СОРТИРОВАННЫЙ BST : 0.02029198408126831
+ПОИСК СОРТИРОВАННЫЙ AST : 0.23025000095367432
+ПОИСК СОРТИРОВАННЫЙ BST : 0.017708003520965576
+ПОИСК СОРТИРОВАННЫЙ AST : 0.2318750023841858
+ПОИСК СОРТИРОВАННЫЙ BST : 0.018500030040740967
+ПОИСК СОРТИРОВАННЫЙ AST : 0.23354196548461914
+ПОИСК СОРТИРОВАННЫЙ BST : 0.03941696882247925
+ПОИСК СОРТИРОВАННЫЙ AST : 0.2357500195503235
+ПОИСК СОРТИРОВАННЫЙ BST : 0.018624961376190186
+ПОИСК СОРТИРОВАННЫЙ AST : 0.29866600036621094
+ПОИСК СОРТИРОВАННЫЙ BST : 0.021499991416931152
+ПОИСК СОРТИРОВАННЫЙ AST : 0.22758299112319946
+ПОИСК СОРТИРОВАННЫЙ BST : 0.018707990646362305
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ AST : 0.5437500476837158
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ BST : 0.4981669783592224
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ AST : 0.25075000524520874
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ BST : 0.43858301639556885
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ AST : 0.23195797204971313
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ BST : 0.4024999737739563
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ AST : 0.2381250262260437
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ BST : 0.33445799350738525
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ AST : 0.2521670460700989
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ BST : 0.03487497568130493
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ AST : 0.2373340129852295
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ BST : 0.3825420141220093
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ AST : 0.2544170022010803
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ BST : 0.36158400774002075
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ AST : 0.23708397150039673
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ BST : 0.28904199600219727
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ AST : 0.740166962146759
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ BST : 0.5940840244293213
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ AST : 0.23862498998641968
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ BST : 0.10762500762939453
+УДАЛЕНИЕ СОРТИРОВАННЫЙ AST : 0.13829201459884644
+УДАЛЕНИЕ СОРТИРОВАННЫЙ BST : 0.018791019916534424
+УДАЛЕНИЕ СОРТИРОВАННЫЙ AST : 0.13795900344848633
+УДАЛЕНИЕ СОРТИРОВАННЫЙ BST : 0.020333051681518555
+УДАЛЕНИЕ СОРТИРОВАННЫЙ AST : 0.14925003051757812
+УДАЛЕНИЕ СОРТИРОВАННЫЙ BST : 0.020749986171722412
+УДАЛЕНИЕ СОРТИРОВАННЫЙ AST : 0.13470804691314697
+УДАЛЕНИЕ СОРТИРОВАННЫЙ BST : 0.01887500286102295
+УДАЛЕНИЕ СОРТИРОВАННЫЙ AST : 0.13562500476837158
+УДАЛЕНИЕ СОРТИРОВАННЫЙ BST : 0.018374979496002197
+УДАЛЕНИЕ СОРТИРОВАННЫЙ AST : 0.13645803928375244
+УДАЛЕНИЕ СОРТИРОВАННЫЙ BST : 0.01895803213119507
+УДАЛЕНИЕ СОРТИРОВАННЫЙ AST : 0.1380000114440918
+УДАЛЕНИЕ СОРТИРОВАННЫЙ BST : 0.019999980926513672
+УДАЛЕНИЕ СОРТИРОВАННЫЙ AST : 0.1368749737739563
+УДАЛЕНИЕ СОРТИРОВАННЫЙ BST : 0.01962500810623169
+УДАЛЕНИЕ СОРТИРОВАННЫЙ AST : 0.14362502098083496
+УДАЛЕНИЕ СОРТИРОВАННЫЙ BST : 0.01983398199081421
+УДАЛЕНИЕ СОРТИРОВАННЫЙ AST : 0.13683301210403442
+УДАЛЕНИЕ СОРТИРОВАННЫЙ BST : 0.018999993801116943
+32768 ЭЛЕМЕНТОВ:
+ВСТАВКА НЕСОРТИРОВАННЫЙ AST : 6.9582080245018005
+ВСТАВКА НЕСОРТИРОВАННЫЙ BST : 3.57383394241333
+ВСТАВКА НЕСОРТИРОВАННЫЙ AST : 5.829541981220245
+ВСТАВКА НЕСОРТИРОВАННЫЙ BST : 3.5424999594688416
+ВСТАВКА НЕСОРТИРОВАННЫЙ AST : 6.174000024795532
+ВСТАВКА НЕСОРТИРОВАННЫЙ BST : 3.5083329677581787
+ВСТАВКА НЕСОРТИРОВАННЫЙ AST : 6.122667014598846
+ВСТАВКА НЕСОРТИРОВАННЫЙ BST : 3.5791249871253967
+ВСТАВКА НЕСОРТИРОВАННЫЙ AST : 6.113833010196686
+ВСТАВКА НЕСОРТИРОВАННЫЙ BST : 5.012125015258789
+ВСТАВКА НЕСОРТИРОВАННЫЙ AST : 6.192875027656555
+ВСТАВКА НЕСОРТИРОВАННЫЙ BST : 3.7185840010643005
+ВСТАВКА НЕСОРТИРОВАННЫЙ AST : 6.030332982540131
+ВСТАВКА НЕСОРТИРОВАННЫЙ BST : 3.5079579949378967
+ВСТАВКА НЕСОРТИРОВАННЫЙ AST : 6.189625024795532
+ВСТАВКА НЕСОРТИРОВАННЫЙ BST : 3.5023329854011536
+ВСТАВКА НЕСОРТИРОВАННЫЙ AST : 6.0255420207977295
+ВСТАВКА НЕСОРТИРОВАННЫЙ BST : 3.8575000166893005
+ВСТАВКА НЕСОРТИРОВАННЫЙ AST : 6.114624977111816
+ВСТАВКА НЕСОРТИРОВАННЫЙ BST : 3.3455830216407776
+ВСТАВКА СОРТИРОВАННЫЙ AST : 5.607249975204468
+ВСТАВКА СОРТИРОВАННЫЙ BST : 1886.286624968052
+ВСТАВКА СОРТИРОВАННЫЙ AST : 5.97979199886322
+ВСТАВКА СОРТИРОВАННЫЙ BST : 1882.899749994278
+ВСТАВКА СОРТИРОВАННЫЙ AST : 6.887791991233826
+ВСТАВКА СОРТИРОВАННЫЙ BST : 1882.5377499461174
+ВСТАВКА СОРТИРОВАННЫЙ AST : 5.907957971096039
+ВСТАВКА СОРТИРОВАННЫЙ BST : 1883.2527500391006
+ВСТАВКА СОРТИРОВАННЫЙ AST : 6.012834012508392
+ВСТАВКА СОРТИРОВАННЫЙ BST : 1884.271333038807
+ВСТАВКА СОРТИРОВАННЫЙ AST : 6.58983302116394
+ВСТАВКА СОРТИРОВАННЫЙ BST : 1879.4394999742508
+ВСТАВКА СОРТИРОВАННЫЙ AST : 5.932667016983032
+ВСТАВКА СОРТИРОВАННЫЙ BST : 1884.89074999094
+ВСТАВКА СОРТИРОВАННЫЙ AST : 5.934707999229431
+ВСТАВКА СОРТИРОВАННЫЙ BST : 1883.1422500014305
+ВСТАВКА СОРТИРОВАННЫЙ AST : 6.684708952903748
+ВСТАВКА СОРТИРОВАННЫЙ BST : 1880.3607919812202
+ВСТАВКА СОРТИРОВАННЫЙ AST : 5.796042025089264
+ВСТАВКА СОРТИРОВАННЫЙ BST : 1886.5909579992294
+ПОИСК НЕСОРТИРОВАННЫЙ AST : 0.27225005626678467
+ПОИСК НЕСОРТИРОВАННЫЙ BST : 0.06916701793670654
+ПОИСК НЕСОРТИРОВАННЫЙ AST : 0.24470895528793335
+ПОИСК НЕСОРТИРОВАННЫЙ BST : 0.019374966621398926
+ПОИСК НЕСОРТИРОВАННЫЙ AST : 0.23645895719528198
+ПОИСК НЕСОРТИРОВАННЫЙ BST : 0.017542004585266113
+ПОИСК НЕСОРТИРОВАННЫЙ AST : 0.21366602182388306
+ПОИСК НЕСОРТИРОВАННЫЙ BST : 0.017791032791137695
+ПОИСК НЕСОРТИРОВАННЫЙ AST : 0.25737500190734863
+ПОИСК НЕСОРТИРОВАННЫЙ BST : 0.017624974250793457
+ПОИСК НЕСОРТИРОВАННЫЙ AST : 0.22620898485183716
+ПОИСК НЕСОРТИРОВАННЫЙ BST : 0.01812499761581421
+ПОИСК НЕСОРТИРОВАННЫЙ AST : 0.22270798683166504
+ПОИСК НЕСОРТИРОВАННЫЙ BST : 0.01808297634124756
+ПОИСК НЕСОРТИРОВАННЫЙ AST : 0.21883302927017212
+ПОИСК НЕСОРТИРОВАННЫЙ BST : 0.017708957195281982
+ПОИСК НЕСОРТИРОВАННЫЙ AST : 0.2276250123977661
+ПОИСК НЕСОРТИРОВАННЫЙ BST : 0.017750024795532227
+ПОИСК НЕСОРТИРОВАННЫЙ AST : 0.2493329644203186
+ПОИСК НЕСОРТИРОВАННЫЙ BST : 0.020582973957061768
+ПОИСК СОРТИРОВАННЫЙ AST : 0.2472500205039978
+ПОИСК СОРТИРОВАННЫЙ BST : 0.0188329815864563
+ПОИСК СОРТИРОВАННЫЙ AST : 0.2650829553604126
+ПОИСК СОРТИРОВАННЫЙ BST : 0.020250022411346436
+ПОИСК СОРТИРОВАННЫЙ AST : 0.252750039100647
+ПОИСК СОРТИРОВАННЫЙ BST : 0.018750011920928955
+ПОИСК СОРТИРОВАННЫЙ AST : 0.249875009059906
+ПОИСК СОРТИРОВАННЫЙ BST : 0.01862502098083496
+ПОИСК СОРТИРОВАННЫЙ AST : 0.24495798349380493
+ПОИСК СОРТИРОВАННЫЙ BST : 0.018500030040740967
+ПОИСК СОРТИРОВАННЫЙ AST : 0.2563750147819519
+ПОИСК СОРТИРОВАННЫЙ BST : 0.018584012985229492
+ПОИСК СОРТИРОВАННЫЙ AST : 0.24633300304412842
+ПОИСК СОРТИРОВАННЫЙ BST : 0.01883399486541748
+ПОИСК СОРТИРОВАННЫЙ AST : 0.2461249828338623
+ПОИСК СОРТИРОВАННЫЙ BST : 0.018999993801116943
+ПОИСК СОРТИРОВАННЫЙ AST : 0.24720799922943115
+ПОИСК СОРТИРОВАННЫЙ BST : 0.01887500286102295
+ПОИСК СОРТИРОВАННЫЙ AST : 0.2624579668045044
+ПОИСК СОРТИРОВАННЫЙ BST : 0.018665969371795654
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ AST : 0.5950420498847961
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ BST : 0.5654579997062683
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ AST : 0.2517079710960388
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ BST : 0.3234170079231262
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ AST : 0.24745798110961914
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ BST : 0.453374981880188
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ AST : 0.2479589581489563
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ BST : 0.41750001907348633
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ AST : 0.34312504529953003
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ BST : 0.2775000333786011
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ AST : 0.25770801305770874
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ BST : 0.03162497282028198
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ AST : 0.2496669888496399
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ BST : 0.39237499237060547
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ AST : 0.248166024684906
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ BST : 0.3097500205039978
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ AST : 0.2821660041809082
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ BST : 0.40262502431869507
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ AST : 0.27570897340774536
+УДАЛЕНИЕ НЕСОРТИРОВАННЫЙ BST : 0.5004169940948486
+УДАЛЕНИЕ СОРТИРОВАННЫЙ AST : 0.15129101276397705
+УДАЛЕНИЕ СОРТИРОВАННЫЙ BST : 0.01887500286102295
+УДАЛЕНИЕ СОРТИРОВАННЫЙ AST : 0.1530420184135437
+УДАЛЕНИЕ СОРТИРОВАННЫЙ BST : 0.020374953746795654
+УДАЛЕНИЕ СОРТИРОВАННЫЙ AST : 0.14408397674560547
+УДАЛЕНИЕ СОРТИРОВАННЫЙ BST : 0.019124984741210938
+УДАЛЕНИЕ СОРТИРОВАННЫЙ AST : 0.14491599798202515
+УДАЛЕНИЕ СОРТИРОВАННЫЙ BST : 0.02033299207687378
+УДАЛЕНИЕ СОРТИРОВАННЫЙ AST : 0.1481660008430481
+УДАЛЕНИЕ СОРТИРОВАННЫЙ BST : 0.018916010856628418
+УДАЛЕНИЕ СОРТИРОВАННЫЙ AST : 0.1488339900970459
+УДАЛЕНИЕ СОРТИРОВАННЫЙ BST : 0.019125044345855713
+УДАЛЕНИЕ СОРТИРОВАННЫЙ AST : 0.1539580225944519
+УДАЛЕНИЕ СОРТИРОВАННЫЙ BST : 0.020915985107421875
+УДАЛЕНИЕ СОРТИРОВАННЫЙ AST : 0.1539589762687683
+УДАЛЕНИЕ СОРТИРОВАННЫЙ BST : 0.0204160213470459
+УДАЛЕНИЕ СОРТИРОВАННЫЙ AST : 0.1526249647140503
+УДАЛЕНИЕ СОРТИРОВАННЫЙ BST : 0.022957980632781982
+УДАЛЕНИЕ СОРТИРОВАННЫЙ AST : 0.14570802450180054
+УДАЛЕНИЕ СОРТИРОВАННЫЙ BST : 0.018999993801116943

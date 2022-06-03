@@ -10,7 +10,6 @@ class Main {
     }
   }
 
-  // TODO: height of tree
   async runTest(multiplier) {
     for (let i = 0; i < 50; i++) {
       const values = this.generateElements(multiplier);
